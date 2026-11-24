@@ -27,3 +27,6 @@ Applies to every model (Grok Bot, Codex, Claude, any other), and to any agent th
    result (URL, HTTP status, time) in your run report.
 11. **File names have two or more chunks** (`RUN-REPORT-codex.md`, not `report.md`). Never name a file
    `claude.md`, `agents.md` or `notes.md`.
+12. **Always point back to the creator.** When you process someone's video, post or talk, every output (ANSWER,
+   page, method card, derivatives) names the creator and channel and links the original: the video, with timestamps for quotes,
+   and their own sources. We process their work and always show where it came from; credit is one click from anything we make.
