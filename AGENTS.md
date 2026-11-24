@@ -16,5 +16,10 @@ Applies to every model (Grok Bot, Codex, Claude, any other), and to any agent th
    readable through GitHub Pages without a login.
 8. **Hand back = pushed:** a branch `lane/<model>/<activity>` with a pull request, or a direct commit touching only
    your lane. If you can't push, publish a zip of your lane somewhere public and log the link.
-9. **File names have two or more chunks** (`RUN-REPORT-codex.md`, not `report.md`). Never name a file
+9. **End on mobile with a copyable hand-back.** The owner reads your reply on a phone. Your last message must be
+   (a) a short plain list of what you did and what the owner needs to do next, then (b) **one fenced code block** with
+   the full hand-back: lane, status (done/blocked counts), first-answer and end times, page URL, lane URL, the commit,
+   the top 3 blocks or doubts, and the questions or decisions for the owner. Nothing that needs copying sits outside
+   that block. The owner copies that block across to other models and to review.
+10. **File names have two or more chunks** (`RUN-REPORT-codex.md`, not `report.md`). Never name a file
    `claude.md`, `agents.md` or `notes.md`.
