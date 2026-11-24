@@ -19,5 +19,6 @@ python3 $C/narration_vs_post.py . $V; echo "narration_vs_post exit $?"
 python3 $C/quotes_sources_gate.py . $V $Y/quote_gate.py; echo "quotes_sources_gate exit $?"
 python3 $C/build_knowledge_graph.py . >/dev/null; python3 $C/check_knowledge_graph.py knowledge-graph-$V.json >/dev/null; echo "check_knowledge_graph exit $?"
 bash $C/test_created_tools.sh . $R; echo "tool tests exit $?"
+python3 $C/build_sources_index.py . $V >/dev/null
 python3 $C/build_index_html.py . $V
 python3 $S/proof_run.py . $V --check; echo "proof --check exit $?"

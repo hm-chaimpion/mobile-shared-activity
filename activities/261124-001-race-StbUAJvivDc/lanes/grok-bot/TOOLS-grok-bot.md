@@ -26,6 +26,7 @@
 | `build_index_html.py` | Self-contained index.html built only from lane files, with gate badges | `python3 build_index_html.py <lane> StbUAJvivDc` | yes: no external script/css; Pages check in RUN-REPORT |
 | `lane_log.py` | Appends timestamped LOG / DECISIONS / CHECKLIST rows with `mmdd:[NNN] h.mmam/pm NZT` stamps | see docstring | yes (used for all rows after 21:44) |
 | `test_created_tools.sh` | 7 positive/negative tests of the checkers | `bash test_created_tools.sh <lane> <repo>` | 7/7 PASS (`work/tool-tests.txt`) |
+| `build_sources_index.py` | SOURCES-StbUAJvivDc.md: every saved source with URL, HTTP status, fetched time, sha256, citing nodes | `python3 build_sources_index.py <lane> StbUAJvivDc` | yes: 45 rows |
 | `run_all_grok_bot.sh` | Re-runs every gate and build end to end (`--fetch` re-downloads too) | from repo root: `bash .../created-tools/run_all_grok_bot.sh` | yes: all exits 0 |
 
 Box-only installs (not in the repo): `pip install --user --break-system-packages faster-whisper markdown`.
