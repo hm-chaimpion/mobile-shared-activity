@@ -1,0 +1,1987 @@
+# SOURCE: src-wiki-heist-film
+# url: https://en.wikipedia.org/wiki/Heist_film
+# final_url: https://en.wikipedia.org/wiki/Heist_film
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:54+13:00
+# title: Heist film - Wikipedia
+# raw_sha256: 0b5a91ddc9c99fbe56a9cee2f9a438545626b9379ed4a18018d8fda8bd372c9e
+# raw_file: src-wiki-heist-film.raw.html
+# tool: created-tools/save_source.py
+
+Heist film - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Characteristics of the genre
+2
+History
+3
+List of heist films
+4
+References
+5
+Further reading
+Toggle the table of contents
+Heist film
+27 languages
+العربية
+مصرى
+Asturianu
+Azərbaycanca
+Беларуская (тарашкевіца)
+Català
+Deutsch
+Español
+فارسی
+Suomi
+Français
+עברית
+Hrvatski
+Bahasa Indonesia
+Italiano
+日本語
+Jawa
+한국어
+Plattdüütsch
+Nederlands
+Polski
+Português
+Русский
+Svenska
+Türkçe
+اردو
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Save
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+Save
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Subgenre of crime films
+For films named
+Heist
+, see
+Heist (disambiguation) §
+Film
+.
+The
+heist film
+or
+caper film
+is a
+subgenre
+of
+crime films
+and the
+caper story
+, focused on the planning, execution, and aftermath of a significant
+robbery
+.
+One of the early defining heist films was
+The Asphalt Jungle
+(1950), which according to
+Film Genre 2000
+, "almost single-handedly popularized the genre for mainstream cinema". It featured robbers whose personal failings ultimately led to the failure of their robbery. Similar films using this formula were
+Armored Car Robbery
+(1950),
+The Killing
+(1956), and
+The Getaway
+(1972). By the 1990s, heist films began to "experiment and play with these conventions", incorporating elements such as comedy into their stories, as
+Topkapi
+had so successfully in 1964.
+The caper, a subgenre of the crime film, organises its narrative around the assembly of a crew, the execution of a robbery and its subsequent unravelling.
+Characteristics of the genre
+[
+edit
+]
+While there is no unanimous agreement on what constitutes a heist film, there are some common characteristics that most films in the genre share.
+The most basic is that films in the genre tend to follow the planning, execution and aftermath of one large robbery.
+[
+1
+]
+While there can be smaller crimes leading up to the major crime, this major crime is the centerpiece of the film and is the event which informs much of the film's plot.
+[
+1
+]
+As a result of this, heist films tend to focus on the process of the crime, often planned in great detail, followed by extended exposition of the heist itself.
+The genre is also distinguished by almost exclusively following those committing the crime rather than whoever is trying to stop them.
+[
+2
+]
+This often leads to the viewer building some form of sympathy or respect for the criminals.
+[
+2
+]
+Another common characteristic is the assembling of a team to complete the heist,
+[
+2
+]
+with each member contributing a unique skill or trait needed to complete the job.
+[
+2
+]
+Over time filmmakers have taken these characteristics and changed them to create interesting plays on the genre. For example,
+Reservoir Dogs
+(1992) skips the execution of the heist and most of its planning, choosing instead to focus almost exclusively on the aftermath. Another example of this is
+The Italian Job
+(1969), which shows the planning and execution of the heist but doesn't fully show the aftermath. The teen comedy
+The Perfect Score
+(2004) concerns high-school students attempting to steal the answers to the
+SAT
+tests rather than valuables.
+Other tropes of the genre include the failure of the heist due to fate, or the traits of the criminals involved. Among them is one of the participants getting injured during the heist, or betraying the others during or after.
+[
+3
+]
+This trend started as a result of the initial films in the genre being made in Hollywood during the
+Motion Picture Production Code
+,
+[
+4
+]
+which prohibited criminals from getting away with their crime. While this has changed since the disappearance of the code,
+[
+4
+]
+the trope of failed heists still remains. One of the most dynamic examples is
+Reservoir Dogs
+, which focuses solely on trying to figure out which of their group members betrayed them after a failed heist. Another popular trope is "one last job", whereby a criminal looking to quit the life enlists the team to commit one last heist so they will have money to live out their lives. This can be seen in early films such as
+The Asphalt Jungle
+(1950) as well as more recent like
+Heat
+(1995).
+History
+[
+edit
+]
+While elements of the heist film can be seen in movies as early as
+The Great Train Robbery
+(1903), the genre didn't become fully fledged until the late 1940s and the early 1950s.
+[
+5
+]
+The film widely agreed upon as the first to do so is John Huston's 1950
+The Asphalt Jungle
+, starring
+Sterling Hayden
+and
+Sam Jaffee
+(with
+Marilyn Monroe
+in a supporting role).
+[
+1
+]
+It contains many of the heist hallmarks, focusing from the criminal's perspective on the elaborate planning, flawed execution, and calamitous aftermath of a single heist.
+[
+2
+]
+It also devotes a large amount of time to the recruiting of variously skilled criminals to form a team.
+Two earlier films that some consider prior examples of the genre, and others just key to its development,
+[
+1
+]
+are
+Criss Cross
+(1949) and
+The Killers
+(1946). While these do follow the planning, execution, and aftermath of a single heist from the criminals' perspective, some critics argue that they devote too much time to the planning and aftermath of the crime and too little to the actual job.
+[
+1
+]
+All of these films are also notable for having elements which are indebted to
+film noir
+, including their moody, expressionistic black and white cinematography and dark fatalistic tone. As a result, scholars such as Daryl Lee refer to such examples as "noir heists".
+[
+5
+]
+Anne Billson
+of the
+BBC
+cites
+Akira Kurosawa
+'s
+Seven Samurai
+(1954) as an influence on the "assembling the team" trope that later became a common characteristic of heist films.
+[
+6
+]
+The period between 1955 and 1975 is considered by scholars to be the most productive for the heist genre. It began with American filmmakers continuing the noir heist trend in films like
+5 Against the House
+(1955) and
+The Killing
+(1956). The '50s also saw the release of the first international heist films. Notably, a handful made in France were influenced by and responding to the American style. Two notable examples are
+Rififi
+(1955), which is known for its detailed 30 minute heist sequence, and
+Bob Le Flambeur
+(1956), known for an ending which plays with the conventions of the genre.
+[
+5
+]
+The 1950s also marked the beginning of British heist film, including
+The Lavender Hill Mob
+(1951) and
+The Lady Killers
+(1955)
+, pictures which introduced comedy to the genre.
+[
+5
+]
+A notable Italian heist film from this period is
+Big Deal on Madonna Street
+(1958), a parody of the genre.
+[
+5
+]
+In the 1960s heist stories became more mainstream, with glossier and higher-budget heist films which moved away from the fatalism and darkness present in the earlier noir heists.
+[
+5
+]
+Two examples of this from the early 1960s are the British film
+The League of Gentlemen
+(1960) and the American film
+Seven Thieves
+(1960). Despite having conventional heist plots about gathering together a group to commit a heist, both films balance comedy and drama, unlike the darkness of the earlier noir heist films.
+[
+5
+]
+The mainstream shift as well as a growing cultural interest in travel led to a wave of glossy heist films involving exotic international locals, such as
+Topkapi
+(1964) and
+How to Steal a Million
+(1966). In France
+Rififi
+spawned a number of lower-budget crime films which often used
+Rififi
+as part of their title. These include films such as
+Rififi in Tokyo
+(1963) and
+Du rififi à Paname
+(1966). As the decade continued, the French also began to produce more glossy heist films which served as star vehicles for big names of the time, such as
+Any Number Can Win
+(1963) starring
+Alain Delon
+and
+Greed in the Sun
+(1964) starring
+Jean-Paul Belmondo
+.
+[
+5
+]
+The most celebrated French heist films of this time were directed by
+Jean-Pierre Melville
+, whose heist film
+Le Cercle Rouge
+(1970) is often regarded as one of the greatest heist movies of all time.
+[
+5
+]
+This expansion of the genre in the 1960s also led to remakes of older heist movies, with an early example being
+Cairo
+(1963)
+, which is a remake of
+The Asphalt Jungle
+.
+[
+1
+]
+In 1968, the motion picture production code was abolished, paving the way for a number of heist films that didn't shy away from portraying graphic violence. This included films like
+Charley Varrick
+(1973) and
+The Getaway
+(1972).
+The period between 1975 and the early 1990s is considered a low point for productivity in the heist genre.
+[
+5
+]
+While some were made, such as
+Thief
+(1981) and a remake of
+Big Deal on Madonna Street
+called
+Crackers
+(1984), some critics do not consider them as meaningful developments of the genre.
+[
+5
+]
+The 1990s would see the return of the heist film, with a number creating new interest. While pictures like
+John Woo
+'s
+Once a Thief
+(1991) and
+Steven Soderbergh
+'s
+Out of Sight
+(1998) would bring some attention to the genre, the three that returned the genre to prominence were
+Reservoir Dogs
+(1992),
+Heat
+(1995) and
+The Usual Suspects
+(1995).
+This led to a large output of heist films throughout the 2000s. These range from British efforts like
+Snatch
+(2000) and
+Sexy Beast
+(2000) to animated films like
+Fantastic Mr. Fox
+(2009) to popular Hollywood films like
+Inside Man
+(2006) and remakes of heist classics like
+The Italian Job
+(2003).
+[
+5
+]
+Some of the most popular heist films of this era are the remake of
+Ocean's 11
+(2001) and its sequels
+Ocean's 12
+(2004) and
+Ocean's 13
+(2007), which remain so today.
+[
+citation needed
+]
+List of heist films
+[
+edit
+]
+See also:
+Category:Heist films
+Year
+Film
+Ref.
+1974
+11 Harrowhouse
+[
+7
+]
+2011
+80 Million
+[
+8
+]
+1971
+The Anderson Tapes
+[
+9
+]
+1950
+Armored Car Robbery
+[
+10
+]
+2021
+Army of the Dead
+[
+11
+]
+1950
+The Asphalt Jungle
+[
+12
+]
+2017
+Baby Driver
+[
+13
+]
+2022
+The Bad Guys
+[
+14
+]
+1964
+Bande à part
+[
+12
+]
+2008
+The Bank Job
+[
+13
+]
+1958
+Big Deal on Madonna Street
+[
+15
+]
+1978
+Blue Collar
+[
+16
+]
+1956
+Bob le flambeur
+[
+16
+]
+1996
+Bottle Rocket
+[
+13
+]
+1970
+Le Cercle Rouge
+[
+12
+]
+1995
+Dead Presidents
+[
+17
+]
+2018
+Den of Thieves
+[
+18
+]
+1966
+Le deuxième souffle
+[
+16
+]
+1999
+Entrapment
+[
+19
+]
+2011
+Fast Five
+[
+13
+]
+1988
+A Fish Called Wanda
+[
+13
+]
+2007
+Flawless
+[
+7
+]
+1966
+Gambit
+[
+20
+]
+[
+21
+]
+2012
+Gambit
+[
+21
+]
+1972
+The Getaway
+[
+16
+]
+2017
+Going in Style
+[
+22
+]
+1967
+Grand Slam
+[
+16
+]
+2017
+The Hatton Garden Job
+[
+13
+]
+1995
+Heat
+[
+13
+]
+2001
+Heist
+[
+23
+]
+2016
+Hell or High Water
+[
+24
+]
+1969
+Hell's Angels '69
+[
+25
+]
+1972
+The Hot Rock
+[
+7
+]
+2015
+Honor Thy Father
+[
+26
+]
+1966
+How to Steal a Million
+[
+16
+]
+1991
+Hudson Hawk
+[
+27
+]
+1991
+Kshana Kshanam
+[
+28
+]
+2010
+Inception
+[
+12
+]
+2006
+Inside Man
+[
+13
+]
+1969
+The Italian Job
+[
+13
+]
+2003
+The Italian Job
+[
+13
+]
+1997
+Jackie Brown
+[
+29
+]
+1956
+The Killing
+[
+13
+]
+2018
+King of Thieves
+[
+30
+]
+1951
+The Lavender Hill Mob
+[
+16
+]
+1998
+Lock, Stock and Two Smoking Barrels
+[
+13
+]
+2017
+Logan Lucky
+[
+13
+]
+2009
+The Maiden Heist
+[
+31
+]
+2011
+Mankatha
+[
+32
+]
+[
+33
+]
+2025
+The Mastermind
+[
+34
+]
+2021
+The Misfits
+[
+35
+]
+2013
+Now You See Me
+[
+22
+]
+2018
+Ocean's 8
+[
+16
+]
+1960
+Ocean's 11
+[
+15
+]
+2001
+Ocean's Eleven
+[
+12
+]
+2004
+Ocean's Twelve
+[
+16
+]
+2007
+Ocean's Thirteen
+[
+36
+]
+1998
+Out of Sight
+[
+29
+]
+2024
+The Perfect Club
+[
+37
+]
+1963
+The Pink Panther
+[
+38
+]
+1990
+Quick Change
+[
+29
+]
+1992
+Reservoir Dogs
+[
+12
+]
+1975
+The Return of the Pink Panther
+[
+39
+]
+[
+40
+]
+1955
+Rififi
+[
+12
+]
+1998
+Ronin
+[
+29
+]
+2001
+The Score
+[
+41
+]
+1996
+Set It Off
+[
+13
+]
+2000
+Sexy Beast
+[
+12
+]
+2000
+Snatch
+[
+13
+]
+1992
+Sneakers
+[
+42
+]
+2016
+South of 8
+[
+43
+]
+1968
+The Split
+[
+44
+]
+1973
+The Sting
+[
+13
+]
+1981
+Thief
+[
+12
+]
+1968
+The Thomas Crown Affair
+[
+13
+]
+1999
+The Thomas Crown Affair
+[
+13
+]
+1999
+Three Kings
+[
+29
+]
+1964
+Topkapi
+[
+15
+]
+2010
+The Town
+[
+13
+]
+1972
+Un flic
+[
+45
+]
+[
+46
+]
+1995
+The Usual Suspects
+[
+13
+]
+2004
+Vinci
+[
+8
+]
+2018
+Widows
+[
+12
+]
+2021
+Wrath of Man
+[
+47
+]
+2026
+Keu Bole Biplobi Keu Bole Dakat
+[
+48
+]
+References
+[
+edit
+]
+1
+2
+3
+4
+5
+6
+Thompson, Kristin; Bordwell, David (October 12, 2017).
+"One last big job: How heist movies tell their stories"
+.
+Observations on film art
+. Retrieved
+October 21,
+2021
+.
+1
+2
+3
+4
+5
+Kaminsky, Stuart (1974).
+American film genres: approaches to a critical theory of popular film
+. Dayton Ohio: Pflaum Pub. pp.
+74–
+97.
+ISBN
+0827802781
+.
+↑
+Perno, G. S. (August 9, 2015).
+"10 Ways That Heists in Movies Usually Go Wrong"
+.
+Cinelinx | Movies. Games. Geek Culture
+. Archived from
+the original
+on October 21, 2021
+. Retrieved
+October 21,
+2021
+.
+1
+2
+Hardy, Phil (1997).
+he BFI Companion to Crime
+. A & C Black. pp.
+70–
+71.
+ISBN
+9780304332151
+.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lee, Daryl (December 31, 2014).
+The Heist Film
+.
+doi
+:
+10.7312/lee-16969
+.
+ISBN
+9780231169691
+.
+↑
+Billson, Anne (October 30, 2018).
+"Why is Seven Samurai so good?"
+.
+BBC Culture
+.
+BBC
+. Retrieved
+May 31,
+2020
+.
+1
+2
+3
+Hunter, Rob (September 6, 2018).
+"The Best Diamond Heist Movies You've Never Seen"
+.
+/Film
+. Retrieved
+February 20,
+2019
+.
+1
+2
+Haltof, Marek
+(2015).
+Historical Dictionary of Polish Cinema
+. Rowman & Littlefield. pp.
+127, 148, 253.
+ISBN
+978-1-4422-4472-6
+.
+↑
+"Revisiting The Anderson Tapes, Sidney Lumet's Wisely Paranoid Heist Film, 50 Years Later"
+.
+CrimeReads
+. March 26, 2021
+. Retrieved
+July 31,
+2024
+.
+↑
+Wilson, Ron (2000).
+"The Left-Handed Form of Human Endeavour"
+. In Dixon, Wheeler W. (ed.).
+Film Genre 2000: New Critical Essays
+. SUNY Press. pp.
+154–155
+.
+ISBN
+978-0-7914-4513-6
+.
+↑
+Truitt, Brian (May 20, 2021).
+"
+'Like Braveheart but flipped': Zack Snyder evolves zombies in a big way for 'Army of the Dead'
+"
+.
+USA Today
+. Retrieved
+May 25,
+2021
+.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Morris, Brogan (September 14, 2018).
+"10 great heist films"
+.
+bfi.org.uk
+.
+British Film Institute
+. Retrieved
+October 30,
+2018
+.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Dockterman, Eliana (August 18, 2017).
+"The 25 Best Heist Movies"
+.
+Time
+. Retrieved
+October 30,
+2018
+.
+↑
+Moore, Roger (April 23, 2022).
+"Movie Review: An "Ocean's" caper for kiddies — "The Bad Guys"
+"
+.
+Movie Nation
+. Retrieved
+May 29,
+2022
+.
+1
+2
+3
+Axmaker, Sean (April 9, 2020).
+"Art of the steal: Here are some great heist/caper films to stream"
+.
+Seattle Times
+. Retrieved
+June 6,
+2020
+.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+"25 All-Time Favorite Heist Movies"
+.
+IndieWire
+. September 10, 2010. Archived from
+the original
+on November 8, 2020
+. Retrieved
+February 20,
+2019
+.
+↑
+Burlingame, Russ (July 17, 2015).
+"Ant-Man's Most Overlooked Cameo: Ant-Man Himself"
+. Comicbook.com.
+Archived
+from the original on July 20, 2015
+. Retrieved
+July 18,
+2015
+.
+↑
+Gleiberman, Owen (January 18, 2018).
+"Film Review: 'Den of Thieves'
+"
+. Retrieved
+September 1,
+2020
+.
+↑
+Maslin, Janet (April 30, 1999).
+"Film Review; They're a Devilish Match, But Who's Conning Whom?"
+.
+The New York Times
+. Retrieved
+December 16,
+2020
+.
+↑
+Atanasov, Dr. Svet (January 25, 2022).
+"Gambit Blu-ray"
+.
+1
+2
+Dalton, Stephen (November 7, 2012).
+"Gambit: Film Review"
+.
+The Hollywood Reporter
+.
+1
+2
+Robey, Tim (March 23, 2017).
+"The timeless appeal of the heist movie"
+.
+The Telegraph
+.
+Archived
+from the original on January 12, 2022
+. Retrieved
+April 15,
+2020
+.
+↑
+"Here's one we saw earlier"
+.
+the Guardian
+. November 25, 2001
+. Retrieved
+October 12,
+2020
+.
+↑
+Klimek, Chris (August 11, 2016).
+"
+'Hell Or High Water' Is A Smart, Substantive Heist Film"
+.
+npr.org
+.
+NPR
+. Retrieved
+May 29,
+2020
+.
+↑
+"Hell's Angels '69 (1969) - Lee Madden
+|
+Synopsis, Characteristics, Moods, Themes and Related
+|
+AllMovie"
+.
+↑
+"Honor Thy Father"
+.
+Manunuri ng Pelikulang Pilipino (MPP)
+. September 18, 2020
+. Retrieved
+April 13,
+2025
+.
+↑
+Attenborough, Richard (1997). "The Caper Film".
+The BFI Companion to Crime
+.
+University of California Press
+. p.
+71.
+ISBN
+978-0-520-21538-2
+.
+↑
+Rajadhyaksha, Ashish
+;
+Willemen, Paul
+(1998) [1994].
+Encyclopaedia of Indian Cinema
+(PDF)
+.
+British Film Institute
+and
+Oxford University Press
+. p.
+503.
+ISBN
+0-19-563579-5
+.
+Archived
+(PDF)
+from the original on August 21, 2016
+. Retrieved
+September 24,
+2021
+.
+1
+2
+3
+4
+5
+Leitch, Will; Gierson, Tim (June 7, 2018).
+"The 25 Best Heist Movies of All Time"
+.
+Vulture
+. Retrieved
+May 29,
+2020
+.
+↑
+Tobias, Scott (January 24, 2019).
+"
+'King Of Thieves': Bank Heist Film Deposits A Great Cast But Withdraws The Style"
+.
+npr.org
+.
+NPR
+. Retrieved
+May 29,
+2020
+.
+↑
+Wolff, Rachel (May 1, 2009).
+"Planning a Romantic Getaway"
+.
+↑
+"Mankatha – Strictly No Rules"
+.
+BBFC
+. Archived from
+the original
+on July 9, 2021
+. Retrieved
+November 22,
+2020
+.
+↑
+"Ajith & Venkat Prabhu joins for Mangatha!"
+.
+Sify
+. 2010. Archived from
+the original
+on July 19, 2010
+. Retrieved
+July 16,
+2010
+.
+↑
+Seitz, Matt Zoller (October 17, 2025).
+"The Mastermind"
+.
+RogerEbert.com
+. Retrieved
+February 23,
+2026
+.
+↑
+Tallerico, Brian.
+"The Misfits movie review & film summary (2021) | Roger Ebert"
+.
+RogerEbert.com
+. Retrieved
+August 21,
+2021
+.
+↑
+Travers, Peter (June 8, 2007).
+"Ocean's Thirteen"
+.
+Rolling Stone
+. Retrieved
+June 13,
+2020
+.
+↑
+García, Araceli.
+"La película "El Club Perfecto" genera una nostalgia dosmilera con comedia"
+.
+El Heraldo de México
+(in Spanish)
+. Retrieved
+August 12,
+2025
+.
+↑
+Powers, James (March 20, 2019).
+"
+'The Pink Panther': THR's 1964 Review"
+.
+The Hollywood Reporter
+.
+↑
+"The Return of the Pink Panther"
+.
+Variety
+. January 1, 1975.
+↑
+Nathan, Ian (July 31, 2006).
+"Return Of The Pink Panther"
+.
+Empire
+.
+↑
+Ebert, Roger (July 13, 2001).
+"The Score movie review & film summary"
+. Retrieved
+November 10,
+2020
+.
+↑
+Kehr, Dave (September 9, 1992).
+"SLEEK 'SNEAKERS' FITS HEIST GENRE LIKE AN OLD SHOE"
+.
+Chicago Tribune
+. Retrieved
+October 27,
+2020
+.
+↑
+Borah, Meeta (January 22, 2024).
+"6 action-packed dystopian movies like Badland Hunters"
+.
+Sportskeeda
+.
+Archived
+from the original on January 22, 2024
+. Retrieved
+February 17,
+2024
+.
+↑
+Ebert, Roger (October 17, 1968).
+"The Split, Roger Ebert review"
+.
+rogerebert.com
+. Retrieved
+April 3,
+2020
+.
+↑
+Hassannia, Tina (April 18, 2013).
+"Review: Un Flic"
+.
+Slant Magazine
+. Retrieved
+August 2,
+2024
+.
+↑
+"Un Flic: Melville and the Ambiguities"
+.
+Film International
+. April 30, 2015
+. Retrieved
+August 2,
+2024
+.
+↑
+Patten, Dominic (October 25, 2019).
+"
+'Mindhunter's Holt McCallany Riding Shotgun With Jason Statham In Guy Ritchie's New Heist Movie"
+.
+Deadline Hollywood
+. Retrieved
+June 18,
+2021
+.
+↑
+"প্রথমবার বায়োপিকে জিৎ, কবে আসছে পথিকৃতের 'কেউ বলে বিপ্লবী, কেউ বলে ডাকাত'
+?"
+.
+ETV Bharat News
+(in Bengali). June 9, 2025. Archived from
+the original
+on December 2, 2025
+. Retrieved
+December 2,
+2025
+.
+Further reading
+[
+edit
+]
+Lee, Daryl (2014).
+The Heist Film: Stealing with Style
+.
+Columbia University Press
+.
+ISBN
+978-0-231-85058-2
+.
+Sloniowski, Jeannette; Leach, Jim, eds. (2017).
+The Best Laid Plans: Interrogating the Heist Film
+. Contemporary Approaches to Film and Media Series.
+Wayne State University Press
+.
+ISBN
+978-0-8143-4224-4
+.
+v
+t
+e
+Detective
+,
+mystery
+, and
+crime fiction
+General info
+History of crime fiction
+Crime writers
+Subgenres
+Theme
+Caper
+Detective
+Closed circle
+girl
+occult
+Weird menace
+Giallo
+Gong'an
+Hardboiled
+Inverted detective story
+Legal drama
+thriller
+Lesbian
+Mystery
+cozy
+locked room
+Noir
+Nordic
+Spy
+Spy-Fi
+Tartan Noir
+Tart Noir
+Thriller
+Whodunit
+historical mystery
+Film and television
+Police procedural
+Procedural drama
+Heist
+Mystery
+Noir
+Neo-noir
+Trial
+Character
+Fictional detectives
+male
+female
+police
+private
+historical
+teams
+science fiction and fantasy
+Category
+Commons
+v
+t
+e
+Film
+genres
+By theme
+Narrative
+Animals
+Beach party
+Colonial
+Cute Girls Doing Cute Things
+Disaster
+Apocalyptic
+Dystopian
+Food and drink
+Gendai-geki
+Jidaigeki
+Samurai
+Kaitō
+LGBTQ
+Luchador
+Magical girl
+Mountain
+Outlaw biker
+Partisan film
+Race
+Road
+Rubble
+Rumberas
+Sageuk
+Shoshimin-eiga
+Slavery
+South Seas
+Sports
+Superhero
+Surfing
+Swashbuckler
+Travel
+Action
+Girls with guns
+Hong Kong action
+Heroic bloodshed
+Martial arts
+Chopsocky
+Gun fu
+Kung fu
+Ninja
+Wuxia
+Mecha
+Spy
+Eurospy
+Survival
+Vigilante
+War
+Anti-war
+Euro War
+Submarine
+Western
+Acid
+Cabrito
+Contemporary Western
+Dacoit Western
+Fantasy
+Florida
+Horror
+Horse opera
+Meat pie
+Northern
+Ostern
+Revisionist
+Science fiction
+Singing cowboy
+Space
+Spaghetti
+Weird Western
+Zapata Western
+Crime
+Detective
+Film noir
+Mexican film noir
+Neo-noir
+Pulp noir
+Tech noir
+Occult detective
+Whodunit
+Drug
+Psychedelic
+Stoner
+Gangster
+Gentleman thief
+Gokudō
+Gong'an
+Heist
+Heroic bloodshed
+Hood
+Mafia
+Mafia comedy
+Mumbai underworld
+Prison
+Women
+Poliziotteschi
+Trial
+Yakuza
+Fantasy
+Epic
+Sword-and-sandal
+Isekai
+Contemporary fantasy
+Fantasy comedy
+Fantastique
+High fantasy
+Historical fantasy
+Magic realism
+Science fantasy
+Sword and sorcery
+Horror
+Black
+Body horror
+Ero guro
+Cannibal
+Chinese horror
+Christmas horror
+Comedy horror
+Eco-horror
+German underground
+Giallo
+list
+Ghost
+Gothic
+Romance
+Southern
+Space
+Suburban
+Urban
+Holiday horror
+Japanese horror
+Korean horror
+Lovecraftian
+Melodrama
+Korean
+Monster
+Giant monster
+Kaiju
+Mummy
+Vampire
+Zombie
+Zombie comedy
+Natural
+Psycho-biddy
+Psychological
+Rape and revenge
+Science fiction
+Slasher
+Splatter
+Satanic
+Romance
+Harem
+Romantic comedy
+Bromantic
+Romantic fantasy
+Gothic romance film
+Paranormal romance
+Romantic thriller
+Science fiction
+Science fiction comedy
+Cyberpunk
+Japanese
+Extraterrestrial
+Fantastique
+Science fantasy
+Gothic science fiction
+Horror science fiction
+Military science fiction
+New Wave
+Space opera
+Steampunk
+Tokusatsu
+Space Western
+Slice of life
+Coming-of-age
+Ethnographic
+Iyashikei
+Homeland
+Muslim social
+Thriller
+Comedy thriller
+Erotic thriller
+Financial thriller
+Giallo
+Legal thriller
+Political thriller
+Psychological thriller
+Romantic thriller
+Techno-thriller
+Documentary
+Animated documentary
+City symphony
+Direct cinema
+Docudrama
+Mockumentary
+Mondo
+Nature
+Environmental issues
+Pseudo-documentary
+Semidocumentary
+Travel documentary
+imaginary voyage
+Video essay
+By style
+Adventure
+Biographical
+Educational
+Social guidance
+Maximalist film
+Minimalist film
+Mumblecore
+Mystery
+Detective
+Giallo
+Crossover
+Propaganda
+Reality
+Slow
+Snuff
+Trick
+Art
+By genre
+Horror
+Musical
+Science fiction
+Experimental
+Transgressive
+Cinema of Transgression
+Extreme cinema
+Comedy
+Action comedy
+Black comedy
+Buddy
+Buddy cop
+Female
+Commedia all'italiana
+Dramedy
+Comedy horror
+Gross out
+Parody
+Mo lei tau
+Romantic comedy
+Remarriage
+Screwball
+Silent
+Slapstick
+Drama
+Calligrafismo
+Dramedy
+Historical
+Legal
+Psychological
+Erotic
+Category III films
+Erotic thriller
+Pink
+Sex comedy
+Italian
+Mexican
+Pornographic
+Hardcore pornography
+Softcore pornography
+Malayalam
+Stag
+Exploitation
+Blaxploitation
+Bruceploitation
+Goona-goona epic
+Mexploitation
+Mouth of Garbage
+Nazi exploitation
+Nunsploitation
+Ozploitation
+Sexploitation
+Bavarian porn
+Pornochanchada
+Sex report
+Turksploitation
+more
+Musical
+Backstage
+Concert
+Dance
+Jukebox
+Musicarello
+Opera
+Operetta
+Sceneggiata
+By movement or period
+Absolute
+American eccentric cinema
+Australian New Wave
+Auteur films
+Berlin School
+Bourekas
+Brighton School
+British New Wave
+Kitchen sink realism
+Budapest school
+Calligrafismo
+Cannibal boom
+Cinema da Boca do Lixo
+Cinéma du look
+Cinema Novo
+Cinema of Moral Anxiety
+Cinema of Transgression
+Cinéma pur
+Commedia all'italiana
+Czechoslovak New Wave
+Documentary Film Movement
+Dogme 95
+Erra Cinema
+European art cinema
+Film d'art
+Film gris
+Free Cinema
+French Impressionist
+French New Wave
+German Expressionist
+German underground horror
+Golden Age of Argentine cinema
+Golden Age of Mexican Cinema
+Golden Age of Nigerian Cinema
+Grupo Cine Liberación
+Heimatfilm
+Hollywood on the Tiber
+Hong Kong New Wave
+Indiewood
+Iranian New Wave
+New Sensibility
+Italian futurist
+Italian neorealist
+Japanese New Wave
+Kammerspielfilm
+L.A. Rebellion
+Lettrist
+Modernist film
+Mumblecore
+Neorealist
+New French Extremity
+New German
+New generation
+New Hollywood
+New Nollywood
+New Objectivity
+New Queer
+No Wave
+Nuevo Cine Mexicano
+Pan-Indian film
+Parallel cinema
+Persian Film
+Philippine New Wave
+Poetic realist
+Polish Film School
+Poliziotteschi
+The Prague film school
+Prussian film
+Pure Film Movement
+Remodernist
+Romanian New Wave
+Slow cinema
+Spaghetti Western
+Socialist realist
+Social realist
+Kitchen sink realism
+Soviet parallel
+Structural
+Surrealist
+Sword-and-sandal
+Taiwan New Cinema
+Tarantinoesque
+Telefoni Bianchi
+Thai New Wave
+Third Cinema
+Toronto New Wave
+Vulgar auteurism
+Yugoslav Black Wave
+By demographic
+Adult
+Black
+Children
+Teen
+Women
+Chick flick
+By format, technique, approach, or production
+3D
+Actuality
+Animation
+Anime
+Art
+Cartoon
+Computer
+Stop-motion
+Traditional
+Anthology
+Art
+B movie
+Behind-the-scenes
+Black and white
+Blockbuster
+Cinéma vérité
+Classical Hollywood cinema
+Collage
+Color
+Compilation
+Composite
+Computer screen
+Cult
+midnight movie
+Database cinema
+Direct-to-video
+ONA
+OVA
+Docufiction
+Ethnofiction
+Experimental
+Abstract
+Feature
+Featurette
+Film à clef
+Film-poem
+Found footage
+Geezer teaser
+High concept
+Hyperlink cinema
+Independent
+Guerrilla filmmaking
+List of American independent films
+Interstitial art
+Live action
+animation
+Low-budget
+Major film studios
+Masala
+Maximalist film
+Message picture
+Meta-film
+Minimalist film
+Mockbuster
+Modernist film
+Musical short
+Mythopoeia
+Neorealist
+No-budget
+One-shot
+Paracinema
+Participatory
+Poetry
+Postmodernist
+Reverse motion
+Satire
+Sceneggiata
+Semidocumentary
+Serial
+Shinpa
+Short
+Silent
+Slow cinema
+Socialist realist
+Sound
+Television film
+Underground
+Video nasty
+Vulgar auteurism
+Z movie
+Category
+Authority control databases
+National
+United States
+Israel
+Other
+Yale LUX
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Heist_film&oldid=1386070265
+"
+Categories
+:
+Heist films
+Film genres
+Films about criminals
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use mdy dates from November 2026
+All articles with unsourced statements
+Articles with unsourced statements from August 2023
+Articles with hCards
+CS1 Spanish-language sources (es)
+CS1 Bengali-language sources (bn)
+This page was last edited on 16 November 2026, at 19:21
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Heist film
+27 languages
+Add topic

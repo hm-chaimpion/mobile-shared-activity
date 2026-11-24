@@ -1,0 +1,66 @@
+# SOURCE: src-art-of-innovation-ideo
+# url: https://designthinking.ideo.com/resources/the-art-of-innovation
+# final_url: https://designthinking.ideo.com/resources/the-art-of-innovation
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:38+13:00
+# title: The Art of Innovation | IDEO | Design Thinking
+# raw_sha256: 96da535b9bfa6c524f10a6dc991be5c5bec5cb2674052749380ca6a652d5f659
+# raw_file: src-art-of-innovation-ideo.raw.html
+# tool: created-tools/save_source.py
+
+The Art of Innovation | IDEO | Design Thinking
+What we do
+Offers
+Work
+Thinking
+Who we are
+About
+Leaders
+Careers
+get in touch
+Contact
+subscribe
+Design Thinking Defined
+About this site
+Design thinking in context
+Design thinking today
+Designer's Mindset
+Journey to Mastery
+Adoption and Integration
+Tools
+Teaching and Learning
+New Applications
+Resources
+History
+Evolution
+FAQ
+Blog
+Back to Resources
+Books
+The Art of Innovation
+Tom Kelley, former partner at IDEO, takes readers behind the scenes of the design firm's creative processes.
+In
+The Art of Innovation,
+Tom Kelley
+reveals how IDEO teams research and immerse themselves in every possible aspect of a new product or service, examining it from the perspective of clients, consumers, and other critical audiences. Kelley tells the story of some of the firm's biggest successes—and its joyful failures.
+Read more about the book
+here
+.
+Contact Us >
+About
+Work
+Leaders
+DEIB
+Offers
+Thinking
+Careers
+China
+Contact
+Do not sell my personal information
+Privacy Policy
+CA User Rights
+UK Modern Slavery Statement
+Our family
+IDEO U
+IDEO.org
+© 2025 IDEO

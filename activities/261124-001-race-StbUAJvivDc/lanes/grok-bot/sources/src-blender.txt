@@ -1,0 +1,26 @@
+# SOURCE: src-blender
+# url: https://www.blender.org/
+# final_url: https://www.blender.org/
+# http_status: 403
+# fetched_at: 2026-11-24T21:45:39+13:00
+# title: Just a moment...
+# raw_sha256: 3fee836cb0cd3b2286b236c217e7961a395e1d3e3f5f7d0e4c37f08993b40141
+# raw_file: src-blender.raw.html
+# tool: created-tools/save_source.py
+
+Just a moment...
+Developer
+Projects
+Docs
+Blog
+Forum
+Builds
+Features
+Download
+Support
+Get
+Involved
+About
+Jobs
+Store
+Donate

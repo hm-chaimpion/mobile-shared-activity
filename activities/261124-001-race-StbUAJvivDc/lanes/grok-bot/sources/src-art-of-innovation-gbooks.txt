@@ -1,0 +1,125 @@
+# SOURCE: src-art-of-innovation-gbooks
+# url: https://www.google.com/books/edition/The_Art_of_Innovation/ncaJDQAAQBAJ
+# final_url: https://books.google.co.nz/books?id=ncaJDQAAQBAJ&newbks=0&redir_esc=y
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:39+13:00
+# title: The Art of Innovation: Lessons in Creativity from IDEO, America's Leading ... - Tom Kelley - Google Books
+# raw_sha256: 1f1beeb7234dc3080c741f34e4a57a77c15168bd0534ee2157d5005e89c8143f
+# raw_file: src-art-of-innovation-gbooks.raw.html
+# tool: created-tools/save_source.py
+
+The Art of Innovation: Lessons in Creativity from IDEO, America's Leading ... - Tom Kelley - Google Books
+Search
+Images
+Maps
+Play
+YouTube
+News
+Gmail
+Drive
+More
+Calendar
+Translate
+Books
+Shopping
+Blogger
+Finance
+Photos
+Docs
+Even more »
+Account Options
+Sign in
+Books
+My library
+Help
+Advanced Book Search
+Get print book
+No eBook available
+Amazon.com
+Fishpond
+Whitcoulls
+Mighty Ape
+Find in a library
+All sellers
+»
+The Art of Innovation
+:
+Lessons in Creativity from IDEO, America's Leading Design Firm
+, Volume 10
+Tom Kelley
+Crown
+,
+16 Jan 2001
+-
+Business & Economics
+-
+320 pages
+IDEO, the widely admired, award-winning design and development firm that brought the world the Apple mouse, Polaroid's I-Zone instant camera, the Palm V, and hundreds of other cutting-edge products and services, reveals its secrets for fostering a culture and process of continuous innovation.
+There isn't a business in America that doesn't want to be more creative in its thinking, products, and processes. At many companies, being first with a concept and first to market are critical just to survive. In
+The Art of Innovation
+, Tom Kelley, general manager of the Silicon Valley based design firm IDEO, takes readers behind the scenes of this wildly imaginative and energized company to reveal the strategies and secrets it uses to turn out hit after hit.
+IDEO doesn't buy into the myth of the lone genius working away in isolation, waiting for great ideas to strike. Kelley believes everyone can be creative, and the goal at his firm is to tap into that wellspring of creativity in order to make innovation a way of life. How does it do that? IDEO fosters an atmosphere conducive to freely expressing ideas, breaking the rules, and freeing people to design their own work environments. IDEO's focus on teamwork generates countless breakthroughs, fueled by the constant give-and-take among people ready to share ideas and reap the benefits of the group process. IDEO has created an intense, quick-turnaround, brainstorm-and-build process dubbed "the Deep Dive."
+In entertaining anecdotes, Kelley illustrates some of his firm's own successes (and joyful failures), as well as pioneering efforts at other leading companies. The book reveals how teams research and immerse themselves in every possible aspect of a new product or service, examining it from the perspective of clients, consumers, and other critical audiences.
+Kelley takes the reader through the IDEO problem-solving method:
+br” Carefully observing the behavior or "anthropology" of the people who will be using a product or servicebrbr” Brainstorming with high-energy sessions focused on tangible resultsbrbr” Quickly prototyping ideas and designs at every step of the waybrbr” Cross-pollinating to find solutions from other fieldsbrbr” Taking risks, and failing your way to successbrbr” Building a "Greenhouse" for innovation
+Other editions -
+View all
+The Art Of Innovation: Lessons in Creativity from IDEO, America's Leading ...
+Tom Kelley
+Limited preview
+- 2016
+The Art of Innovation: Lessons in Creativity from IDEO, America's Leading ...
+Tom Kelley
+,
+Jonathan Littman
+No preview available
+- 2004
+The Art of Innovation
+Tom Kelley
+,
+Jonathan Littman
+No preview available
+- 2001
+View all »
+About the author
+(2001)
+Tom Kelley is general manager of IDEO, the world's leading design consultancy specializing in product development and innovation. Working together with his brother, IDEO founder David Kelley, he has helped manage the firm, as it has grown from twenty designers to a staff of over three hundred. During that time, he has been responsible for diverse areas such as business development, marketing, human resources, and operations. Like everyone else at IDEO, he also occasionally gets down on his knees to cut foam core alongside IDEO clients and designers, as part of the firm's brainstorming and prototyping efforts.
+Bibliographic information
+Title
+The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm, Volume 10
+A currency book
+The art of innovation: lessons in creativity from IDEO, America's leading design firm
+Author
+Tom Kelley
+Edition
+illustrated
+Publisher
+Crown, 2001
+ISBN
+0385499841, 9780385499842
+Length
+320 pages
+Subjects
+Business & Economics
+›
+Management
+Business & Economics / Management
+Business & Economics / Research & Development
+Design / Industrial
+Export Citation
+BiBTeX
+EndNote
+RefMan
+About Google Books
+-
+Privacy Policy
+-
+Terms of Service
+-
+Information for Publishers
+-
+Report an issue
+-
+Help
+-
+Google Home

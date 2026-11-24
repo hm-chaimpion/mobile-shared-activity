@@ -1,0 +1,24 @@
+# SOURCE: src-alex-albert-site
+# url: https://alexalbert.me/
+# final_url: https://alexalbert.me/
+# http_status: 200
+# fetched_at: 2026-11-24T21:46:33+13:00
+# title: Alex Albert
+# raw_sha256: d112cf67629fa2e42e58a3d2283474d83ef2e7a20a417cf06b3a01f3e645e654
+# raw_file: src-alex-albert-site.raw.html
+# tool: created-tools/save_source.py
+
+Alex Albert
+Alex Albert
+I handle Claude Relations at Anthropic. I help people do more with
+Claude
+.
+I grew up surrounded by apple orchards in a small town in the middle of Washington state. After 18 years, I had enough of the orchards and left to go study computers at the University of Washington in Seattle. Now, I live in downtown San Francisco. Someday I think I will return to the orchards.
+I like to find flow states wherever I can - I lift weights, play sports (tennis, basketball, pickleball), slalom waterski, meditate, run, and am trying (mainly struggling) to learn to play piano.
+I'm starting to track the books I read
+here
+.
+Newsletter
+Twitter
+LinkedIn
+GitHub

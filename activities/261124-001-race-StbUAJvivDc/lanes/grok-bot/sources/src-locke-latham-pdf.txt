@@ -1,0 +1,767 @@
+# SOURCE: src-locke-latham-pdf
+# url: https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf
+# final_url: https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf
+# http_status: 200
+# fetched_at: 2026-11-24T21:46:11+13:00
+# title: (PDF via pdftotext)
+# raw_sha256: 57eb4d8f85e3fe13d88cf51965387d3589c50d1f2f0c8d9a8fda58a59789ac8b
+# raw_file: src-locke-latham-pdf.raw.pdf
+# tool: created-tools/save_source.py
+
+Building a Practically Useful Theory of Goal Setting
+and Task Motivation
+A 35-Year Odyssey
+Edwin A. Locke University of Maryland
+Gary P. Latham University of Toronto
+The authors summarize 35 years of empirical research on largely ignored, however, except for a citation in Ryan’s
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+goal-setting theory. They describe the core findings of the classic text with Smith on industrial psychology (Ryan &
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+theory, the mechanisms by which goals operate, modera- Smith, 1954).
+tors of goal effects, the relation of goals and satisfaction, Goal-setting theory was formulated inductively
+and the role of goals as mediators of incentives. The largely on the basis of our empirical research conducted
+external validity and practical significance of goal-setting over nearly four decades. It is based on Ryan’s (1970)
+theory are explained, and new directions in goal-setting premise that conscious goals affect action. A goal is the
+research are discussed. The relationships of goal setting to object or aim of an action, for example, to attain a specific
+other theories are described as are the theory’s limitations. standard of proficiency, usually within a specified time
+limit. As industrial– organizational psychologists, our pri-
+mary interest has been to predict, explain, and influence
+I
+performance on organizational or work-related tasks. Thus,
+n the 1950s and 1960s, the study of motivation in we focused on the relationship between conscious perfor-
+North American psychology was not considered a re- mance goals and level of task performance rather than on
+spectable pursuit. The field was dominated by behav- discrete intentions to take specific actions (e.g., to apply to
+iorists, and “motivation” was argued by them to lie outside graduate school, to get a medical examination). The latter
+the person in the form of reinforcers and punishers. When type of intention has been studied extensively by social
+internal mechanisms were acknowledged, as in drive re- psychologists, such as Fishbein and Ajzen (1975).
+duction theory, it was said that they were primarily
+physiological. Core Findings
+McClelland, a nonbehaviorist, argued for the exis-
+tence of internal motives, such as need for achievement, but The first issue we addressed was the relationship of goal
+these were asserted to be subconscious (McClelland, At- difficulty to performance. Atkinson (1958), a student of
+kinson, Clark, & Lowell, 1953) and hence measurable only McClelland, had shown that task difficulty, measured as
+by projective tests. Behaviorists, drive reductionists, and probability of task success, was related to performance in a
+advocates of subconscious motives all agreed that intro- curvilinear, inverse function. The highest level of effort
+spection was not a valid method of understanding human occurred when the task was moderately difficult, and the
+motivation. This ruled out the possibility of studying the lowest levels occurred when the task was either very easy
+conscious regulation of action. or very hard. Atkinson did not measure personal perfor-
+An exception to the anticonsciousness zeitgeist was mance goals or goal difficulty. Moreover, his task-difficulty
+the work of Ryan. Anticipating the cognitive revolution in findings have not been replicated when task performance
+psychology, Ryan (1970) argued that “it seems a simple
+fact that human behavior is affected by conscious purposes,
+plans, intentions, tasks and the like” (p. 18). For Ryan, Editor’s note. Denise C. Park served as action editor for this article.
+these, which he called first-level explanatory concepts,
+were the immediate motivational causes of most human Author’s note. Edwin A. Locke, R. H. Smith School of Business, Uni-
+action. versity of Maryland; Gary P. Latham, Joseph L. Rotman School of
+Business, University of Toronto, Toronto, Ontario, Canada.
+Lewin and his colleagues (e.g., Lewin, Dembo, Fest- This article is based in part on Edwin A. Locke’s G. Stanley Hall
+inger, & Sears, 1944) studied conscious goals, or levels of lectures at the annual meetings of the American Psychological Associa-
+aspiration, years prior to Ryan’s work. However, they tion in 1999 and of the Southeastern Psychological Association in 2000.
+treated levels of aspiration as a dependent rather than an It is also based on Gary P. Latham’s presidential address to the Canadian
+independent variable. Mace (1935), a British investigator Psychological Association in 2001 and on his invited address to the
+American Psychological Society in 2001.
+who was perhaps less influenced than others by American Correspondence concerning this article should be addressed to Edwin
+behaviorism, was the first to examine the effects of differ- A. Locke, 32122 Canyon Ridge Drive, Westlake Village, CA 91361.
+ent types of goals on task performance. His work was E-mail: elocke@rhsmith.umd.edu
+September 2002 ● American Psychologist 705
+Copyright 2002 by the American Psychological Association, Inc. 0003-066X/02/$5.00
+Vol. 57, No. 9, 705–717 DOI: 10.1037//0003-066X.57.9.705
+valence (anticipated satisfaction), instrumentality (the be-
+lief that performance will lead to rewards), and expectancy
+(the belief that effort will lead to the performance needed to
+attain the rewards). Other factors being equal, expectancy
+is said to be linearly and positively related to performance.
+However, because difficult goals are harder to attain than
+easy goals, expectancy of goal success would presumably
+be negatively related to performance.
+The apparent contradiction between the two theories is
+resolved by distinguishing expectancy within versus ex-
+pectancy between goal conditions. Locke, Motowidlo, and
+Bobko (1986) found that when goal level is held constant,
+which is implicitly assumed by valence–instrumentality–
+expectancy theory, higher expectancies lead to higher lev-
+els of performance. Across goal levels, lower expectancies,
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+associated with higher goal levels, are associated with
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+higher performance.
+This within– between distinction is not an issue in
+social– cognitive theory (Bandura, 1986, 1997). Self-
+efficacy (task-specific confidence) is measured by getting
+Edwin A. efficacy ratings across a whole range of possible perfor-
+Locke mance outcomes rather than from a single outcome (Locke
+et al., 1986). The concept of self-efficacy is important in
+goal-setting theory in several ways. When goals are self-
+set, people with high self-efficacy set higher goals than do
+goals were measured.1 We found a positive, linear function people with lower self-efficacy. They also are more com-
+in that the highest or most difficult goals produced the mitted to assigned goals, find and use better task strategies
+highest levels of effort and performance. Goal difficulty to attain the goals, and respond more positively to negative
+effect sizes (d) in meta-analyses ranged from .52 to .82 feedback than do people with low self-efficacy (Locke &
+(Locke & Latham, 1990). Performance leveled off or de- Latham, 1990; Seijts & B. W. Latham, 2001). These issues
+creased only when the limits of ability were reached or are addressed further below.
+when commitment to a highly difficult goal lapsed (Erez &
+Zidon, 1984). Goal Mechanisms
+We also compared the effect of specific, difficult goals
+to a commonly used exhortation in organizational settings, Goals affect performance through four mechanisms. First,
+namely, to do one’s best. We found that specific, difficult goals serve a directive function; they direct attention and
+goals consistently led to higher performance than urging effort toward goal-relevant activities and away from goal-
+people to do their best. The effect sizes in meta-analyses irrelevant activities. This effect occurs both cognitively and
+ranged from .42 to .80 (Locke & Latham, 1990). In short, behaviorally. For example, Rothkopf and Billington (1979)
+when people are asked to do their best, they do not do so. found that students with specific learning goals paid atten-
+This is because do-your-best goals have no external refer- tion to and learned goal-relevant prose passages better than
+ent and thus are defined idiosyncratically. This allows for a goal-irrelevant passages. Locke and Bryan (1969) observed
+wide range of acceptable performance levels, which is not that people who were given feedback about multiple as-
+the case when a goal level is specified. Goal specificity in pects of their performance on an automobile-driving task
+itself does not necessarily lead to high performance be- improved their performance on the dimensions for which
+cause specific goals vary in difficulty. However, insofar as they had goals but not on other dimensions.
+performance is fully controllable, goal specificity does re- Second, goals have an energizing function. High goals
+duce variation in performance by reducing the ambiguity lead to greater effort than low goals. This has been shown
+about what is to be attained (Locke, Chah, Harrison, & with tasks that (a) directly entail physical effort, such as the
+Lustgarten, 1989). Goal studies have also compared the ergometer (Bandura & Cervone, 1983); (b) entail repeated
+effects of learning versus performance goals and proximal performance of simple cognitive tasks, such as addition; (c)
+versus distal goals. These results are discussed below in include measurements of subjective effort (Bryan & Locke,
+relation to the moderating effects of task complexity.
+Expectancy and Social–Cognitive 1
+Task and goal difficulty are not synonymous and can be measured
+separately. An example of a difficult task would be solving a complex
+Theories anagram or a student pilot landing a plane. The term performance goal, as
+we use it, refers to the score one attains on the task (e.g., how many
+Goal-setting theory appears to contradict Vroom’s (1964) anagrams solved in three minutes or the proficiency level one attains in
+valence–instrumentality– expectancy theory, which states practice landings). A learning goal refers to the number of ideas or
+that the force to act is a multiplicative combination of strategies one acquires or develops to accomplish the task effectively.
+706 September 2002 ● American Psychologist
+3. If the task for which a goal is assigned is new to
+people, they will engage in deliberate planning to develop
+strategies that will enable them to attain their goals (Smith,
+Locke, & Barry, 1990).
+4. People with high self-efficacy are more likely than
+those with low self-efficacy to develop effective task strat-
+egies (Latham, Winters, & Locke, 1994; Wood & Bandura,
+1989). There may be a time lag between assignment of the
+goal and the effects of the goal on performance, as people
+search for appropriate strategies (Smith et al., 1990).
+5. When people are confronted with a task that is
+complex for them, urging them to do their best sometimes
+leads to better strategies (Earley, Connolly, & Ekegren,
+1989) than setting a specific difficult performance goal.
+This is because a performance goal can make people so
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+anxious to succeed that they scramble to discover strategies
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+in an unsystematic way and fail to learn what is effective.
+This can create evaluative pressure and performance anx-
+iety. The antidote is to set specific challenging learning
+goals, such as to discover a certain number of different
+Gary P. strategies to master the task (Seijts & G. P. Latham, 2001;
+Latham Winters & Latham, 1996).
+6. When people are trained in the proper strategies,
+those given specific high-performance goals are more
+likely to use those strategies than people given other types
+1967a); and (d) include physiological indicators of effort of goals; hence, their performance improves (Earley &
+(Sales, 1970). Perry, 1987). However, if the strategy used by the person is
+Third, goals affect persistence. When participants are inappropriate, then a difficult performance-outcome goal
+allowed to control the time they spend on a task, hard goals leads to worse performance than an easy goal (Audia,
+prolong effort (LaPorte & Nath, 1976). There is often, Locke, & Smith, 2000; Earley & Perry, 1987). For a
+however, a trade-off in work between time and intensity of detailed discussion of the relation of task goals and knowl-
+effort. Faced with a difficult goal, it is possible to work edge, see Locke (2000).
+faster and more intensely for a short period or to work more
+slowly and less intensely for a long period. Tight deadlines Moderators
+lead to a more rapid work pace than loose deadlines in the
+laboratory (Bryan & Locke, 1967b) as well as in the field Goal Commitment
+(Latham & Locke, 1975).
+Fourth, goals affect action indirectly by leading to the The goal–performance relationship is strongest when peo-
+arousal, discovery, and/or use of task-relevant knowledge ple are committed to their goals. Seijts and Latham (2000a)
+and strategies (Wood & Locke, 1990). It is a virtual axiom found goal commitment questionnaires to have high reli-
+that all action is the result of cognition and motivation, but ability and validity. Commitment is most important and
+these elements can interact in complex ways. Below is a relevant when goals are difficult (Klein, Wesson, Hollen-
+summary of what has been found in goal-setting research: beck, & Alge, 1999). This is because goals that are difficult
+1. When confronted with task goals, people automat- for people require high effort and are associated with lower
+ically use the knowledge and skills they have already chances of success than easy goals (Erez & Zidon, 1984).
+acquired that are relevant to goal attainment. For example, Two key categories of factors facilitating goal com-
+if the goal involves cutting logs, loggers use their knowl- mitment are (a) factors that make goal attainment important
+edge of logging without the need for additional conscious to people, including the importance of the outcomes that
+planning in their choice to exert effort and persist until the they expect as a result of working to attain a goal, and (b)
+goal is attained (Latham & Kinne, 1974). their belief that they can attain the goal (self-efficacy).
+2. If the path to the goal is not a matter of using Importance. There are many ways to convince
+automatized skills, people draw from a repertoire of skills people that goal attainment is important. Making a public
+that they have used previously in related contexts, and they commitment to the goal enhances commitment, presum-
+apply them to the present situation. For example, Latham ably because it makes one’s actions a matter of integrity in
+and Baldes (1975) found that truck drivers who were as- one’s own eyes and in those of others (Hollenbeck, Wil-
+signed the goal of increasing the weight of their truck loads liams, & Klein, 1989). Goal commitment can also be
+made modifications to their trucks so that they could better enhanced by leaders communicating an inspiring vision
+estimate truck weight before driving to the weighing and behaving supportively. In field settings (e.g., Ronan,
+station. Latham, & Kinne, 1973) and laboratory settings (e.g.,
+September 2002 ● American Psychologist 707
+Latham & Saari, 1979b), the supervisor’s legitimate au- Self-efficacy. As noted, self-efficacy enhances
+thority to assign goals creates demand characteristics. goal commitment. Leaders can raise the self-efficacy of
+An alternative to assigning goals is to allow subordi- their subordinates (a) by ensuring adequate training to
+nates to participate in setting them. The theory is that this increase mastery that provides success experiences, (b) by
+would make goals more important to the person because role modeling or finding models with whom the person can
+one would, at least in part, own the goals. A series of identify, and (c) through persuasive communication that
+studies by Latham and his colleagues revealed that, when expresses confidence that the person can attain the goal
+goal difficulty is held constant, performances of those with (Bandura, 1997; White & Locke, 2000). The latter may
+participatively set versus assigned goals do not differ sig- involve giving subordinates information about strategies
+nificantly (e.g., Dossett, Latham, & Mitchell, 1979; Latham that facilitate goal attainment. Transformational leaders
+& Marshall, 1982; Latham & Saari, 1979a, 1979b; Latham raise the efficacy of employees through inspiring messages
+& Steele, 1983). Erez and her colleagues (Erez, 1986; Erez, to and cognitive stimulation of subordinates (Bass, 1985).
+Earley, & Hulin, 1985; Erez & Kanfer, 1983), however, Feedback
+reached the opposite conclusion.
+Working collaboratively, with Locke as mediator, For goals to be effective, people need summary feedback
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Latham and Erez explored reasons for their contradictory that reveals progress in relation to their goals. If they do not
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+findings. They found that from a motivational perspective, know how they are doing, it is difficult or impossible for
+an assigned goal is as effective as one that is set participa- them to adjust the level or direction of their effort or to
+tively provided that the purpose or rationale for the goal is adjust their performance strategies to match what the goal
+given. However, if the goal is assigned tersely (e.g., “Do requires. If the goal is to cut down 30 trees in a day, people
+this . . . ”) without explanation, it leads to performance that have no way to tell if they are on target unless they know
+is significantly lower than for a participatively set goal how many trees have been cut. When people find they are
+(Latham, Erez, & Locke, 1988). Meta-analyses of the ef- below target, they normally increase their effort (Matsui,
+fects of participation in decision making on performance, Okada, & Inoshita, 1983) or try a new strategy. Summary
+for those studies that measured performance objectively, feedback is a moderator of goal effects in that the combi-
+yielded an effect size of only .11 (Wagner & Gooding, nation of goals plus feedback is more effective than goals
+alone (Bandura & Cervone, 1983; Becker, 1978; Erez,
+1987a, 1987b).
+1977; Strang, Lawrence, & Fowler, 1978).
+Subsequently, Locke, Alavi, and Wagner (1997)
+Control theory (Carver & Scheier, 1981) also empha-
+found that the primary benefit of participation in decision
+sizes the importance of goal setting and feedback for mo-
+making is cognitive rather than motivational in that it
+tivation. The assumptions that underlie control theory,
+stimulates information exchange. For example, Latham et
+however, are questionable (Locke, 1991a, 1994; Locke &
+al. (1994) found that with goal difficulty level controlled,
+Latham, 1990). In essence, the theory is based on a ma-
+participation in goal setting had no beneficial effect on chine model derived from cybernetic engineering (Powers,
+performance. However, people who participated with oth- 1978). The source of motivation is asserted to be a negative
+ers in formulating task strategies performed significantly feedback loop (such as that characterizing a thermostat)
+better and had higher self-efficacy than those who did not that eliminates goal–performance discrepancies. The natu-
+participate in formulating strategies. ral state of the organism is, by implication, one of motion-
+Monetary incentives are one practical outcome that lessness or rest.
+can be used to enhance goal commitment. However, there Control theory is in effect a mechanistic version of
+are important contingency factors. The first is the amount Hull’s drive reduction theory, which was abandoned de-
+of the incentive; more money gains more commitment. cades ago. However, machines do not possess internal
+Second, goals and incentive type interact. When the goal is motivational states and do not have goals of their own.
+very difficult, paying people only if they reach the goal Their “goals” are those of the machine’s builders. Further-
+(i.e., a task-and-bonus system) can hurt performance. Once more, discrepancy reduction is a consequence rather than a
+people see that they are not getting the reward, their per- cause of goal-directed behavior. As Bandura (1989) stated,
+sonal goal and their self-efficacy drop and, consequently, goal setting is first and foremost a discrepancy-creating
+so does their performance. This drop does not occur if the process. Motivation requires feed-forward control in addi-
+goal is moderately difficult or if people are given a difficult tion to feedback. After people attain the goal they have
+goal and are paid for performance (e.g., piece rate) rather been pursuing, they generally set a higher goal for them-
+than goal attainment (Latham & Kinne, 1974; Latham & selves. This adoption of higher goals creates rather than
+Yukl, 1975; T. Lee, Locke, & Phan, 1997). reduces motivation discrepancies to be mastered. “Self
+Latham (2001) developed an empathy box to help motivation thus involves a dual cyclic process of disequili-
+managers identify nonfinancial outcomes that employees bratory discrepancy production followed by equilibratory
+expected as a result of committing to or rejecting a specific reduction” (Bandura, 1989, p. 38).
+difficult goal. In a study where the goal was to reduce theft,
+when self-efficacy regarding honest behavior was high, Task Complexity
+actions taken to change outcome expectancies led to a A third moderator of goal effects is task complexity. As the
+significant decrease in stolen material (Latham, 2001). complexity of the task increases and higher level skills and
+708 September 2002 ● American Psychologist
+strategies have yet to become automatized, goal effects are ships among assigned goal difficulty, self-set goal diffi-
+dependent on the ability to discover appropriate task strat- culty, self-efficacy, and performance are shown in Figure 1.
+egies. Because people vary greatly in their ability to do this, Observe that assigning a challenging goal alone raises
+the effect size for goal setting is smaller on complex than self-efficacy because this is an implicit expression of con-
+on simple tasks. Meta-analyses (Wood, Mento, & Locke, fidence by a leader that the employee can attain the goal.
+1987) have revealed goal difficulty effect sizes (d) of .48 The correlation between self-set goals and self-efficacy is
+for the most complex tasks versus .67 for the least complex higher when no goals are assigned.
+tasks. For specific difficult goals versus a goal to do one’s The mediating effect of self-set goals and self-efficacy
+best, the effect size was .41 for the most complex tasks on monetary incentive effects was noted earlier (T. Lee et
+versus .77 for the least complex tasks. al., 1997). However, not all incentive studies have found a
+Because people use a greater variety of strategies on mediating effect. Wood, Atkins, and Bright (1999) showed
+tasks that are complex than on tasks that are easy, measures that incentive effects were mediated by instrumentality or
+of task strategy often correlate more highly with perfor- outcome expectancies rather than by goals and efficacy.
+mance than do measures of goal difficulty (Chesney & Also, when summary feedback is provided without any
+Locke, 1991). In addition, there are often goal–strategy goals, the feedback effects are mediated by the goals that
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+interactions, with goal effects strongest when effective are set in response to the feedback (Locke & Bryan, 1968).
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+strategies are used (Durham, Knight, & Locke, 1997). Bandura and Cervone (1986) found that both goals and
+R. Kanfer and Ackerman (1989) found that in an air self-efficacy mediated feedback effects. Self-efficacy is
+traffic controller simulation (a highly complex task), hav- especially critical when negative summary feedback is
+ing a performance-outcome goal actually interfered with given because the person’s level of self-efficacy following
+acquiring the knowledge necessary to perform the task. such feedback determines whether subsequent goals are
+People performed better when they were asked to do their raised or lowered.
+best. However, Winters and Latham (1996) showed that the As noted earlier, the benefits of participation in deci-
+fault was with the type of goal that had been set rather than sion making are primarily cognitive rather than motiva-
+with the theory. They found that when a specific difficult tional. However, Latham and Yukl (1976) and Latham,
+learning goal rather than a performance goal was set, Mitchell, and Dossett (1978) found that employees who
+consistent with goal-setting theory, high goals led to sig- were allowed to participate in setting goals set higher goals
+nificantly higher performance on a complex task than did and had higher performance than those who were assigned
+the general goal of urging people do their best. goals by the supervisor. The higher the goals, the higher the
+Another factor that may facilitate performance on performance. Finally, Kirkpatrick and Locke (1996) found
+new, complex tasks is the use of proximal goals. Latham that goals and self-efficacy mediated the effect of visionary
+and Seijts (1999), using a business game, found that do- leadership on employee performance.
+your-best goals were more effective than distal goals, but
+when proximal outcome goals were set in addition to the Satisfaction
+distal outcome goal, self-efficacy and profits were signifi- Goals are, at the same time, an object or outcome to aim for
+cantly higher than in the do-your-best condition or in the and a standard for judging satisfaction. To say that one is
+condition where only a distal outcome goal had been set. In trying to attain a goal of X means that one will not be
+dynamic situations, it is important to actively search for satisfied unless one attains X. Thus, goals serve as the
+feedback and react quickly to it to attain the goal (Frese & inflection point or reference standard for satisfaction versus
+Zapf, 1994). As Dorner (1991) noted, performance errors dissatisfaction (Mento, Locke, & Klein, 1992). For any
+on a dynamic task are often due to deficient decomposition given trial, exceeding the goal provides increasing satisfac-
+of a distal goal into proximal goals. Proximal goals can tion as the positive discrepancy grows, and not reaching the
+increase what Frese and Zapf (1994) called error manage- goal creates increasing dissatisfaction as the negative dis-
+ment. Proximal feedback regarding errors can yield infor-
+mation for people about whether their picture of reality is
+aligned with what is required to attain their goal.
+Personal Goals as Mediators of Figure 1
+External Incentives Relationships Among Assigned Goals, Self-Set Goals,
+Self-Efficacy, and Performance
+What Locke (1991b) called the motivation hub, meaning
+where the action is, consists of personal goals, including
+goal commitment, and self-efficacy. These variables are
+often, though not invariably, the most immediate, con-
+scious motivational determinants of action. As such, they
+can mediate the effects of external incentives. Note. Adapted from A Theory of Goal Setting and Task Performance (p. 72),
+For example, assigned goal effects are mediated by by E. A. Locke and G. P. Latham, 1990, Englewood Cliffs, NJ: Prentice Hall.
+personal or self-set goals that people choose in response to Copyright 1990 by Prentice Hall. Reprinted with permission.
+the assignment, as well as by self-efficacy. The relation-
+September 2002 ● American Psychologist 709
+crepancy grows. Across trials, the more goal successes one These outcomes were pride in performance; academic out-
+has, the higher one’s total satisfaction. comes, such as admission into graduate school or receiving
+There is a paradox here, however. How can people who a scholarship; future benefits, such as an excellent job offer
+produce the most, those with difficult goals, be the least or a high starting salary; and life benefits, such as career
+satisfied? The answer is implicit in the question. People with success. At the same time, expected satisfaction with per-
+high goals produce more because they are dissatisfied with formance showed the opposite pattern. The highest degree
+less. The bar for their satisfaction is set at a high level. This is of anticipated satisfaction, averaged across all grade out-
+why they are motivated to do more than those with easy goals. comes, was for students with a goal of C, and the lowest
+But why would people be motivated to set high goals? was for students with a goal of earning an A. The relation-
+People can expect many psychological and practical out- ships found by Mento et al. (1992) are shown in Figure 2.
+comes from setting and attaining those goals. For example, Setting specific challenging goals is also a means of en-
+undergraduate business students reported four beneficial hancing task interest (Locke & Bryan, 1967) and of helping
+outcomes that they expected as a result of having a grade people to discover the pleasurable aspects of an activity
+point average of A versus B versus C (Mento et al., 1992). (Harackiewicz, Manderlink, & Sansone, 1984).
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+Figure 2
+Achievement Valence and Instrumentality Functions for Grade Goals or Outcomes
+Note. From “Relationship of Goal Level to Valence and Instrumentality,” by A. Mento, E. Locke, and H. Klein, 1992, Journal of Applied Psychology, 77, p. 401.
+Copyright 1992 by the American Psychological Association.
+710 September 2002 ● American Psychologist
+Practical Applications Performance Appraisal
+Productivity and Cost Improvement Engineers and scientists who set goals for their scores on a
+behavioral index of their performance had higher subse-
+Numerous studies have shown that setting a specific diffi- quent performance than those who were urged to do their
+cult goal leads to significant increases in employee produc- best (Latham et al., 1978). Unionized telecommunications
+tivity (Locke & Latham, 1984). For example, loggers cut employees had high performance and high satisfaction with
+more trees (Latham & Kinne, 1974; Latham & Yukl, the performance appraisal process when specific high goals
+1975), and unionized truck drivers increased the logs were set. Moreover, self-efficacy correlated positively with
+loaded on their trucks from 60% to 90% of the legal subsequent performance (Brown & Latham, 2000a). As
+allowable weight (see Figure 3) as a result of assigned was the case with the engineers and scientists, the higher
+goals. The drivers saved the company $250,000 in 9 the goal, the higher and more positive the performance
+months (Latham & Baldes, 1975). A subsequent study appraisal.
+saved $2.7 million dollars in 18 weeks by assigning union-
+ized drivers the goal of increasing their number of daily Selection
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+trips to the mill (Latham & Saari, 1982). Word-processing Latham, Saari, Pursell, and Campion (1980) developed the
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+operators with specific high goals increased their perfor- situational interview to assess an applicant prior to employ-
+mance regardless of whether the goal was assigned or set ment. In brief, applicants are presented with situations,
+participatively (Latham & Yukl, 1976). In a survey of based on a job analysis. Each question contains a dilemma
+companies from Dun’s Business Rankings, Terpstra and that assesses an applicant’s goals or intentions for what he
+Rozell (1994) found a significant correlation between goal or she would do when confronted by these situations.
+setting and organizational profitability. Meta-analyses have shown that the situational interview
+Figure 3
+Effect of Goal Setting on Percentage of Legal Net Weight Achieved by Logging Truck Drivers
+Note. From “The ‘Practical Significance’ of Locke’s Theory of Goal Setting,” by G. P. Latham and J. Baldes, 1975, Journal of Applied Psychology, 60, p. 123.
+Copyright 1975 by the American Psychological Association.
+September 2002 ● American Psychologist 711
+has high criterion-related validity (e.g., Huffcutt & Arthur, 2002; Locke & Latham, 1990). The high-performance cy-
+1994; Latham & Sue-Chan, 1999). McDaniel, Whetzel, cle explains how high goals lead to high performance,
+Schmidt, and Maurer (1994) concluded that the mean cri- which in turn leads to rewards, such as recognition and
+terion-related validity of the situational interview is higher promotion. Rewards result in high satisfaction as well as
+than that of all other selection interviews. high self-efficacy regarding perceived ability to meet future
+challenges through the setting of even higher goals. This
+Self-Regulation at Work
+cycle explains the lack of a direct connection between job
+A key variable in self-regulation is goal setting. Job atten- satisfaction and subsequent productivity, an issue that has
+dance is a prerequisite of job performance. Consequently, long puzzled psychologists (e.g., Hersey, 1932; Kornhauser
+Frayne and Latham (1987) adapted F. H. Kanfer’s (1970, & Sharp, 1932). In the high-performance cycle, high sat-
+1996) methodology for the development of a training pro- isfaction is the result, not the cause, of high performance
+gram to teach unionized state government employees ways when rewards are commensurate with performance. The
+to overcome obstacles they perceived to coming to work. subsequent effect of satisfaction on action is therefore
+The training in self-regulation taught those employees to indirect rather than direct. Job satisfaction leads to perfor-
+set specific high goals for attendance, to monitor ways in mance only if it fosters organizational commitment, only if
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+which their environment facilitated or hindered attainment this commitment is to specific and challenging goals, and
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+of their goal, and to identify and administer rewards for only if the moderator variables discussed in this article are
+making goal progress, as well as punishments for failing to taken into account. Goal setting also has been applied
+make progress toward goal attainment. successfully to nonwork domains, such as sports (Lerner &
+Not only did this training in self-management enable Locke, 1995) and health management (Gauggel, 1999). It is
+these employees to cope effectively with personal and applicable to any self-regulated activity.
+social obstacles to their job attendance but, consistent with
+social– cognitive theory (Bandura, 1986, 1997), it increased New Directions and Limitations
+their self-efficacy because they could exercise influence Goal Conflict
+over their behavior. Increases in self-efficacy correlated
+significantly with subsequent increases in job attendance. In organizational settings, the organization’s goal and the
+Moreover, the job attendance of the people who were goal of the individual manager are sometimes in conflict.
+taught these self-management skills was significantly For example, working to attain the organization’s goals
+higher than that of the control group three months after the could be detrimental to the monetary bonus of a manager if
+training had taken place. managers are rewarded more for the performance of the
+In a follow-up study, Latham and Frayne (1989) found people they lead than for the performance of the overall
+that the increase in self-efficacy and the increase in job organization. Goal conflict undermines performance if it
+attendance were maintained over a nine-month period. motivates incompatible action tendencies (Locke, Smith,
+Then, the control group was provided with the same train- Erez, & Schaffer, 1994). Seijts and Latham (2000b) found
+ing in self-regulation skills as the original experimental that when specific, difficult goals of the person are aligned
+group. Three months later, their job attendance and self- with the group’s goal of maximizing performance, the
+efficacy regarding job attendance increased to the same group’s performance is enhanced. Without such alignment,
+level as that of the original experimental group. Similarly, personal goals have a detrimental effect on a group’s
+Brown and Latham (2000b) studied the team-playing be- performance.
+havior of master’s-level business students in their respec- Learning and Performance Goals
+tive study groups. Those students who set specific high
+goals regarding their evaluation by peers and who received We noted earlier that on tasks that are complex for people,
+training in verbal self-guidance regarding goal attainment learning goals can be superior to performance goals. How-
+had higher team-playing skills than those who did not set ever, there have been almost no studies examining the use
+goals. of both together. Intriguing findings have been obtained by
+Mental practice is symbolic guided rehearsal of a task Harackiewicz, Barron, Carter, Lehto, and Elliott (1997)
+in the absence of any physical involvement (Richardson, with college students. Performance goals improved grades
+1967). Using Richardson’s (1967) methodology, mental but did not affect interest, whereas learning goals enhanced
+practice in which goal setting was either implicit or explicit interest in the class but did not affect grades. The perfor-
+was investigated by Morin and Latham (2000) as a transfer- mance effect is contrary to Dweck’s (e.g., Dweck & Leg-
+of-training intervention to improve the communication gett, 1988) assertion that performance goals have a delete-
+skills of supervisors interacting with the union. Six months rious effect on a wide range of educationally relevant
+later, self-efficacy was significantly higher for the supervi- outcome measures.
+sors who had received training in mental practice and goal
+Goals and Risk
+setting than for those in the control group. Self-efficacy
+correlated significantly with goal commitment and commu- Organizations must take risks to remain competitive in the
+nication skills on the job. marketplace. Prospect theory (Kahneman & Tversky,
+Finally, goal-setting research led to the development 1979) emphasizes reference points, as does goal theory, but
+of the high-performance cycle (Latham, Locke, & Fassina, it does not incorporate the concept of aspiration level.
+712 September 2002 ● American Psychologist
+Knight, Durham, and Locke (2001) found that difficult Seijts and B. W. Latham (2001) conducted a study to
+performance goals increased the riskiness of the strategies determine whether a learning goal too is a strong variable.
+participants chose to use in a computer game and improved They found that individuals who have a high PGO but are
+performance. Obviously, higher risk strategies sometimes given a specific, difficult learning goal perform as well as
+lead to worse performance outcomes than lower risk ones, those with a learning goal who have an LGO. In short,
+and the conditions under which better or worse outcomes assigned goals neutralize goal orientation effects.
+occur need to be studied further. Further evidence that the setting of a high goal creates
+a strong situation was obtained by Harackiewicz and Elliott
+Personality
+(1998). Using a pinball machine, they found that, regard-
+Two related issues are involved here. First, do goals, along less of whether a person scored high or low on need for
+with self-efficacy, mediate personality effects? It must achievement (as measured by a self-report questionnaire), a
+be noted here that there is some doubt about the meaning specific high-performance goal that was accompanied by a
+of personality test scores (Bandura, 1986, 1997). If a rationale or purpose that emphasized a PGO resulted in a
+trait measure refers only to past behavior, then trait– higher level of intrinsic motivation (e.g., continued perfor-
+performance correlations involve predicting current behav- mance during free time) than a performance goal that
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+ior from past behavior. Traits, in this case, would predict emphasized an LGO. In the absence of a statement of
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+but not explain behavior. If, however, traits are viewed, purpose, a specific high-performance goal that emphasized
+explicitly or implicitly, as reflecting, in some form, under- an LGO resulted in the highest level of intrinsic interest in
+lying motives, then they would constitute an explanation. the task.
+Regardless of one’s opinion on this issue, a number of
+studies have found that goals, along with self-efficacy, Goals and Subconscious Motivation
+mediate the effect of personality measures on work perfor-
+mance (see Locke, 2001, for a summary). For example, Because we had studied conscious goals and McClelland et
+Matsui, Okada, and Kakuyama (1982) found that the rela- al. (1953) had asserted that achievement motivation was
+tionship between achievement motivation (measured with a subconscious, McClelland collaborated with Locke and
+questionnaire) and performance disappeared when the dif- others to see if there was a relationship between these two
+ficulty level of self-set goals was controlled. Barrick, concepts. The results, involving entrepreneurs in the print-
+Mount, and Strauss (1993) found that the effects of con- ing business, showed that need for achievement, measured
+scientiousness on sales performance were partially medi- by the Thematic Apperception Test (TAT; a projective
+ated by goals and goal commitment. VandeWalle, Cron, test), had no concurrent or longitudinal relationship with a
+and Slocum (2001) found that goals and self-efficacy me- firm’s performance and no relationship to entrepreneur-set
+diated the effect of a person’s goal orientation on student goals. However, goal effects were highly significant in both
+performance. cases (Tracy, Locke, & Renard, 1999).
+The second issue involved is whether goals are better Howard and Bray (1988) collected TAT data in a
+predictors of action than traits. If goals mediate personality 25-year study of managers at AT&T. Collaborating with
+effects, then the former should predict better than the latter. McClelland, they constructed a pattern score for leaders’
+Adler and Weiss (1988), in their review of the goal-setting motives from the TAT. This score combined need for
+literature, argued that a performance goal is a strong vari- power, power inhibition, and need for affiliation (weighted
+able that masks personality differences. Yukl and Latham negatively). Howard also possessed unscored TAT proto-
+(1978) found that goals predicted performance and satis- cols that she subsequently added to the data set. In addition,
+faction better than a measure of need for achievement. she made scoring adjustments, after consulting with Mc-
+Dweck and her colleagues (Dweck, 1986; Dweck & Leg- Clelland about recent refinements in the procedure, for
+gett, 1988; Elliott & Dweck, 1988) found that two person- calculating leader motive pattern. In the reanalysis, the
+ality traits characterized children in the classroom. Those leader motive pattern was not significantly related to man-
+with a desire to acquire knowledge and skills—that is, agers’ number of promotions. However, managers’ ambi-
+those with a learning goal orientation (LGO)—performed tion was a significant motivational predictor of number of
+better on school-related subjects than whose focus was promotions over the 25-year period. Howard (personal
+primarily on attaining a performance outcome such as a communication) noted that the core item in the ambition
+grade or score—that is, those with a performance goal factor was a single interview question: “How many levels
+orientation (PGO). In industrial/organizational psychology, up do you want to go?” This was the managers’ conscious
+PGO has been measured as a desire not for challenging goal for number of promotions. Managers’ motive patterns
+goals but rather for certain or easy success that results in and their promotion goals were unrelated.
+praise (Button, Mathieu, & Zajac, 1996)—a focus that goal Two tentative conclusions may be drawn from
+theory predicts would be associated with low performance. Howard and Bray’s (1988) results. First, even over a long
+Thus, it would be an LGO rather than a PGO that would be period, Ryan’s (1970) first-level explanation of motivation,
+more likely to lead people to undertake challenges, thus namely, conscious goal setting, may be more reliably and
+leading to high performance, as was found by VandeWalle directly tied to action than are second-level explanations
+et al. (2001). As noted, the latter study found LGO effects (e.g., motives). Second, the conscious and subconscious
+to be fully mediated by goals. aspects of achievement motivation are unrelated.
+September 2002 ● American Psychologist 713
+Despite the above results, there can be no doubt that level; goal effects at the individual, group, and organization
+the subconscious is a storehouse of knowledge and values levels; the proper use of learning versus performance goals;
+beyond that which is in focal awareness at any given time mediators of goal effects; the moderators of goal effects;
+(Murphy, 2001). People can take action without being fully the role of goals as mediators of other incentives; and the
+aware of what is motivating them or what stored knowl- effect of goal source (e.g., assigned vs. self-set vs. partici-
+edge is affecting their choices. The lack of focus on the patively set).
+subconscious is a limitation of goal-setting theory. In the Goal-setting theory is not limited to but focuses pri-
+19th century, the Wurzburg school (Ach, Watt, Kulpe, and marily on motivation in work settings. Social– cognitive
+others)—a school that influenced Lewin—showed that as- theory and the research that underlies it are primarily
+signed goals (they used the term tasks) could affect action focused on self-efficacy, its measurement, its causes, and
+at a later time without people being aware of it. Research is its consequences at the individual, group, and societal
+now needed on the effect of the subconscious on goals and levels in numerous domains of functioning. Social– cogni-
+on the ways in which goals arouse and affect subconscious tive theory also discusses the effects of and processes
+knowledge. As an initial step in this direction, Wegge and underlying modeling, cognitive development, moral judg-
+Dibbelt (2000) found that hard goals automatically en- ment, language development, and physiological arousal.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+hanced the speed of information processing. Despite these differences, the two theories agree about
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+Goal-setting theory states that, irrespective of the sub- what is considered important in performance motivation. A
+conscious, conscious motivation affects performance and detailed discussion of the relationship of goal theory to
+job satisfaction. This is especially true for people who other work motivation theories is presented in Locke
+choose to be purposeful and proactive (Binswanger, 1991). (1997).
+As Bandura (1997) noted, people have the power to ac- The effects of goal setting are very reliable. Failures to
+tively control their lives through purposeful thought; this replicate them are usually due to errors, such as not match-
+includes the power to program and reprogram their sub- ing the goal to the performance measure, not providing
+conscious, to choose their own goals, to pull out from the feedback, not getting goal commitment, not measuring the
+subconscious what is relevant to their purpose and to ignore person’s personal (self-set) goals, not conveying task
+what is not, and to guide their actions based on what they knowledge, setting a performance goal when a specific
+want to accomplish. high-learning goal is required, not setting proximal goals
+when the environment is characterized by uncertainty, or
+Conclusion not including a sufficient range of goal difficulty levels (see
+The essential elements of goal-setting theory, along with Locke & Latham, 1990, chapter 2).
+the high-performance cycle model, are summarized in A key issue involved in theory building is that of
+Figure 4. Goal-setting theory is fully consistent with generalization. With goal-setting theory, specific difficult
+social– cognitive theory in that both acknowledge the im- goals have been shown to increase performance on well
+portance of conscious goals and self-efficacy. The two over 100 different tasks involving more than 40,000 par-
+theories differ in emphasis and scope. The focus of goal- ticipants in at least eight countries working in laboratory,
+setting theory is on the core properties of an effective goal. simulation, and field settings. The dependent variables have
+These properties are as follows: specificity and difficulty included quantity, quality, time spent, costs, job behavior
+measures, and more. The time spans have ranged from 1
+minute to 25 years. The effects are applicable not only to
+the individual but to groups (O’Leary-Kelly, Martocchio,
+& Frink, 1994), organizational units (Rogers & Hunter,
+Figure 4
+Essential Elements of Goal-Setting Theory and the 1991), and entire organizations (Baum, Locke, & Smith,
+High-Performance Cycle 2001). The effects have been found using experimental,
+quasi-experimental, and correlational designs. Effects have
+been obtained whether the goals are assigned, self-set, or
+set participatively. In short, goal-setting theory is among
+the most valid and practical theories of employee motiva-
+tion in organizational psychology (C. Lee & Earley, 1992;
+Miner, 1984; Pinder, 1998). Isn’t it time that psychologists
+took consciousness, including conscious motivation, seri-
+ously (Locke, 1995)?
+REFERENCES
+Adler, S., & Weiss, H. M. (1988). Recent developments in the study of
+personality and organizational behavior. In C. L. Cooper & I. T.
+Robertson (Eds.), International review of industrial and organizational
+psychology (pp. 307–330). New York: Wiley.
+Atkinson, J. (1958). Towards experimental analysis of human motivation
+in terms of motives, expectancies and incentives. In J. Atkinson (Ed.),
+714 September 2002 ● American Psychologist
+Motives in fantasy, action and society (pp. 288 –305). Princeton, NJ: An assessment of task strategy priming on subsequent task completion.
+Van Nostrand. Organizational Behavior and Human Decision Processes, 39, 279 –
+Audia, P., Locke, E., & Smith, K. (2000). The paradox of success: An 302.
+archival and a laboratory study of strategic persistence following a Elliott, E. S., & Dweck, C. S. (1988). Goals: An approach to motivation
+radical environmental change. Academy of Management Journal, 43, and achievement. Journal of Personality and Social Psychology, 54,
+837– 853. 5–12.
+Bandura, A. (1986). Social foundations of thought and action: A social– Erez, M. (1977). Feedback: A necessary condition for the goal–
+cognitive theory. Englewood Cliffs, NJ: Prentice Hall. performance relationship. Journal of Applied Psychology, 62, 624 –
+Bandura, A. (1989). Self-regulation of motivation and action through 627.
+internal standards and goal systems. In L. A. Pervin (Ed.), Goal con- Erez, M. (1986). The congruence of goal-setting strategies with socio-
+cepts in personality and social psychology (pp. 19 – 85). Hillsdale, NJ: cultural values and its effect on performance. Journal of Management,
+Erlbaum. 12, 585–592.
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York: Erez, M., Earley, P. C., & Hulin, C. L. (1985). The impact of participation
+Freeman. on goal acceptance and performance: A two step model. Academy of
+Bandura, A., & Cervone, D. (1983). Self-evaluative and self-efficacy Management Journal, 28, 50 – 66.
+mechanisms governing the motivational effects of goal systems. Jour- Erez, M., & Kanfer, F. H. (1983). The role of goal congruence in goal
+nal of Personality and Social Psychology, 45, 1017–1028. setting and task performance. Academy of Management Review, 8,
+Bandura, A., & Cervone, D. (1986). Differential engagement of self- 454 – 463.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+reactive influences in cognitive motivation. Organizational Behavior Erez, M., & Zidon, I. (1984). Effects of goal acceptance on the relation-
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+and Human Decision Processes, 38, 92–113. ship of goal setting and task performance. Journal of Applied Psychol-
+Barrick, M., Mount, M., & Strauss, J. (1993). Conscientiousness and ogy, 69, 69 –78.
+performance of sales representatives: Test of the mediating effects of Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention and behavior:
+goal setting. Journal of Applied Psychology, 78, 715–722. An introduction to theory and research. Reading, MA: Addison-
+Bass, B. (1985). Leadership and performance beyond expectations. New Wesley.
+York: Free Press. Frayne, C. A., & Latham, G. P. (1987). The application of social learning
+Baum, R., Locke, E., & Smith, K. (2001). A multi-dimensional model of theory to employee self-management of attendance. Journal of Applied
+venture growth. Academy of Management Journal, 44, 292–303. Psychology, 72, 387–392.
+Becker, L. (1978). Joint effect of feedback and goal setting on perfor- Frese, M., & Zapf, D. (1994). Action as the core of work psychology: A
+mance: A field study of residential energy conservation. Journal of German approach. In H. C. Triandis & M. D. Dunnette (Eds.), Hand-
+Applied Psychology, 63, 428 – 433. book of industrial and organizational psychology (2nd ed., pp. 271–
+Binswanger, H. (1991). Volition as cognitive self-regulation. Organiza- 340). Palo Alto, CA: Consulting Psychologists Press.
+tional Behavior and Human Decision Processes, 50, 154 –178. Gauggel, S. (1999). Goal setting and its influence on the performance of
+Brown, T. C., & Latham, G. P. (2000a). The effects of goal setting and brain-damaged patients. Unpublished doctoral dissertation, Philipps
+self-instruction training on the performance of unionized employees. University of Marburg, Marburg, Germany.
+Industrial Relations, 55, 80 –94. Harackiewicz, J. M., Barron, K. E., Carter, S. M., Lehto, A. T., & Elliott,
+Brown, T. C., & Latham, G. P. (2000b, August). The effects of training in A. J. (1997). Predictors and consequences of achievement goals in the
+verbal self-guidance and goal setting on teamplaying behavior. Paper college classroom: Maintaining interest and making the grade. Journal
+presented at the meetings of the Academy of Management, Toronto, of Personality and Social Psychology, 73, 1284 –1295.
+Ontario, Canada. Harackiewicz, J. M., & Elliott, N. J. (1998). The joint effects of target and
+Bryan, J., & Locke, E. (1967a). Goal setting as a means of increasing purpose goals on intrinsic motivation. Personality and Social Psychol-
+motivation. Journal of Applied Psychology, 51, 274 –277. ogy Bulletin, 24, 675– 689.
+Bryan, J., & Locke, E. (1967b). Parkinson’s law as a goal-setting phe- Harackiewicz, J. M., Manderlink, G., & Sansone, C. (1984). Rewarding
+nomenon. Organizational Behavior and Human Performance, 2, 258 – pinball wizardry: Effects of evaluation and cue value on intrinsic
+275. interest. Journal of Personality and Social Psychology, 47, 287–300.
+Button, S., Mathieu, J., & Zajac, D. (1996). Goal orientation in organi- Hersey, R. B. (1932). Workers’ emotions in shop and home: A study of
+zational research: A conceptual and empirical foundation. Organiza- individual workers from the psychological and physiological stand-
+tional Behavior and Human Decision Processes, 67, 26 – 48. point. Philadelphia: University of Pennsylvania Press.
+Carver, C., & Scheier, M. (1981). Attention and self-regulation: A control Hollenbeck, J., Williams, C., & Klein, H. (1989). An empirical examina-
+theory approach to human behavior. New York: Springer-Verlag. tion of the antecedents of commitment to difficult goals. Journal of
+Chesney, A., & Locke, E. (1991). An examination of the relationship Applied Psychology, 74, 18 –23.
+among goal difficulty, business strategies, and performance on a com- Howard, A., & Bray, D. (1988). Managerial lives in transition. New
+plex management simulation task. Academy of Management Journal, York: Guilford Press.
+34, 400 – 424. Huffcutt, A. I., & Arthur, W. A. (1994). Hunter and Hunter (1984)
+Dorner, D. (1991). The investigation of action regulation in uncertain and revisited: Interview validity for entry-level jobs. Journal of Applied
+complex situations. In J. Rasmussen & B. Brehmer (Eds.), Distributed Psychology, 79, 184 –190.
+decision making: Cognitive models for cooperative work (pp. 349 – Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of
+354). Chichester, England: Wiley. decision under risk. Econometrica, 47, 263–291.
+Dossett, D. L., Latham, G. P., & Mitchell, T. R. (1979). Effects of Kanfer, F. H. (1970). Self-regulation: Research, issues and speculation. In
+assigned vs. participatively set goals, knowledge of results, and indi- C. Neuringer & J. L. Michael (Eds.), Behavior modification in clinical
+vidual differences on employee behavior when goal difficulty is held psychology (pp. 178 –220). New York: Appleton-Century-Crofts.
+constant. Journal of Applied Psychology, 64, 291–298. Kanfer, F. H. (1996). Motivation and emotion in behavior therapy. In
+Durham, C., Knight, D., & Locke, E. (1997). Effects of leader role, K. S. Dobson & K. D. Craig (Eds.), Advances in cognitive– behavioral
+team-set goal difficulty, efficacy, and tactics on team effectiveness. therapy (pp. 1–30). Thousand Oaks, CA: Sage.
+Organizational Behavior and Human Decision Processes, 72, 203–231. Kanfer, R., & Ackerman, P. L. (1989). Motivation and cognitive abilities:
+Dweck, C. S. (1986). Motivational processes affecting learning. American An integrative aptitude treatment interaction approach to skill acquisi-
+Psychologist, 41, 1040 –1048. tion. Journal of Applied Psychology, 74, 657– 690.
+Dweck, C. S., & Leggett, E. L. (1988). A social– cognitive approach to Kirkpatrick, S., & Locke, E. (1996). Direct and indirect effects of three
+motivation and personality. Psychological Review, 95, 256 –273. core charismatic leadership components on performance and attitudes.
+Earley, P. C., Connolly, T., & Ekegren, G. (1989). Goals, strategy devel- Journal of Applied Psychology, 81, 36 –51.
+opment and task performance: Some limits on the efficacy of goal Klein, H., Wesson, M., Hollenbeck, J., & Alge, B. (1999). Goal commit-
+setting. Journal of Applied Psychology, 74, 24 –33. ment and the goal-setting process: Conceptual clarification and empir-
+Earley, P. C., & Perry, B. (1987). Work plan availability and performance: ical synthesis. Journal of Applied Psychology, 84, 885– 896.
+September 2002 ● American Psychologist 715
+Knight, D., Durham, C., & Locke, E. (2001). The relationship of team endurance task. Journal of Sport and Exercise Psychology, 17, 138 –
+goals, incentives and efficacy to strategic risk, tactical implementation 152.
+and performance. Academy of Management Journal, 44, 326 –338. Lewin, K., Dembo, T., Festinger, L., & Sears, P. (1944). Level of
+Kornhauser, A. W., & Sharp, A. A. (1932). Employee attitudes: Sugges- aspiration. In J. Hunt (Ed.), Personality and the behavior disorders
+tions from a study in a factory. Personnel Journal, 10, 393– 404. (Vol. 1). New York: Ronald Press.
+LaPorte, R., & Nath, R. (1976). Role of performance goals in prose Locke, E. A. (1991a). Goal theory vs. control theory: Contrasting ap-
+learning. Journal of Educational Psychology, 68, 260 –264. proaches to understanding work motivation. Motivation and Emotion,
+Latham, G. P. (2001). The importance of understanding and changing 15, 9 –28.
+employee outcome expectancies for gaining commitment to an organi- Locke, E. A. (1991b). The motivation sequence, the motivation hub and
+zational goal. Personnel Psychology, 54, 707–716. the motivation core. Organizational Behavior and Human Decision
+Latham, G. P., & Baldes, J. (1975). The “practical significance” of Processes, 50, 288 –299.
+Locke’s theory of goal setting. Journal of Applied Psychology, 60, Locke, E. A. (1994). The emperor is naked. Applied Psychology: An
+122–124. International Review, 43, 367–370.
+Latham, G. P., Erez, M., & Locke, E. (1988). Resolving scientific disputes Locke, E. A. (1995). Beyond determinism and materialism, or isn’t it time
+by the joint design of crucial experiments by the antagonists: Applica- we took consciousness seriously? Journal of Behavior Therapy and
+tion to the Erez–Latham dispute regarding participation in goal setting. Experimental Psychiatry, 26, 265–273.
+Journal of Applied Psychology, 73, 753–772. Locke, E. A. (1997). The motivation to work: What we know. In M.
+Latham, G. P., & Frayne, C. A. (1989). Self-management training for Maehr & P. Pintrich (Eds.), Advances in motivation and achievement
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+increasing job attendance: A follow-up and a replication. Journal of (Vol. 10, pp. 375– 412). Greenwich, CT: JAI Press.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+Applied Psychology, 74, 411– 416. Locke, E. A. (2000). Motivation, cognition, and action: An analysis of
+Latham, G. P., & Kinne, S. B. (1974). Improving job performance through studies of task goals and knowledge. Applied Psychology: An Interna-
+training in goal setting. Journal of Applied Psychology, 59, 187–191. tional Review, 49, 408 – 429.
+Latham, G. P., & Locke, E. A. (1975). Increasing productivity with Locke, E. A. (2001). Self-set goals and self-efficacy as mediators of
+decreasing time limits: A field replication of Parkinson’s law. Journal incentives and personality. In M. Erez, H. U. Kleinbeck, & H. Thierry
+of Applied Psychology, 60, 524 –526. (Eds.), Work motivation in the context of a globalizing economy (pp.
+Latham, G. P., Locke, E. A., & Fassina, N. E. (2002). The high perfor- 13–26). Mahwah, NJ: Erlbaum.
+mance cycle: Standing the test of time. In S. Sonnentag (Ed.), Psycho- Locke, E. A., Alavi, M., & Wagner, J. (1997). Participation in decision-
+logical management of individual performance (pp. 201–228). Chich- making: An information exchange perspective. In G. Ferris (Ed.),
+ester, England: Wiley. Research in personnel and human resources management (Vol. 15, pp.
+Latham, G. P., & Marshall, H. A. (1982). The effects of self-set, partici- 293–331). Greenwich, CT: JAI Press.
+patively set, and assigned goals on the performance of government Locke, E., & Bryan, J. (1967). Performance goals as determinants of level
+employees. Personnel Psychology, 35, 399 – 404. of performance and boredom. Journal of Applied Psychology, 51,
+Latham, G. P., Mitchell, T. R., & Dossett, D. L. (1978). The importance 120 –130.
+of participative goal setting and anticipated rewards on goal difficulty Locke, E. A., & Bryan, J. (1968). Goal setting as a determinant of the
+and job performance. Journal of Applied Psychology, 63, 163–171. effects of knowledge of score in performance. American Journal of
+Latham, G. P., & Saari, L. M. (1979a). The effects of holding goal Psychology, 81, 398 – 406.
+difficulty constant on assigned and participatively set goals. Academy of Locke, E. A., & Bryan, J. (1969). The directing function of goals in task
+Management Journal, 22, 163–168. performance. Organizational Behavior and Human Performance, 4,
+Latham, G. P., & Saari, L. M. (1979b). The importance of supportive 35– 42.
+relationships in goal setting. Journal of Applied Psychology, 64, 151– Locke, E. A., Chah, D., Harrison, S., & Lustgarten, N. (1989). Separating
+156. the effects of goal specificity from goal level. Organizational Behavior
+Latham, G. P., & Saari, L. M. (1982). The importance of union acceptance and Human Performance, 43, 270 –287.
+for productivity improvement through goal setting. Personnel Psychol- Locke, E. A., & Latham, G. P. (1984). Goal setting: A motivational
+ogy, 69, 569 –573. technique that works! Englewood Cliffs, NJ: Prentice Hall.
+Latham, G. P., Saari, L. M., Pursell, E. D., & Campion, M. (1980). The Locke, E. A., & Latham, G. P. (1990). A theory of goal setting and task
+situational interview. Journal of Applied Psychology, 65, 422– 427. performance. Englewood Cliffs, NJ: Prentice Hall.
+Latham, G. P., & Seijts, G. H. (1999). The effects of proximal and distal Locke, E. A., Motowidlo, S., & Bobko, P. (1986). Using self-efficacy
+goals on performance on a moderately complex task. Journal of Orga- theory to resolve the conflict between goal-setting theory and expec-
+nizational Behavior, 20, 421– 429. tancy theory in organizational behavior and industrial/organizational
+Latham, G. P., & Steele, T. P. (1983). The motivational effects of psychology. Journal of Social and Clinical Psychology, 4, 328 –338.
+participation versus goal setting on performance. Academy of Manage- Locke, E. A., Smith, K., Erez, M., Chah, D., & Schaffer, A. (1994). The
+ment Journal, 26, 406 – 417. effects of intra-individual goal conflict on performance. Journal of
+Latham, G. P., & Sue-Chan, C. (1999). A meta-analysis of the situational Management, 20, 67–91.
+interview: An enumerative review of reasons for its validity. Canadian Mace, C. A. (1935). Incentives: Some experimental studies (Report No.
+Psychology, 40, 56 – 67. 72). London: Industrial Health Research Board.
+Latham, G. P., Winters, D., & Locke, E. (1994). Cognitive and motiva- Matsui, T., Okada, A., & Inoshita, O. (1983). Mechanism of feedback
+tional effects of participation: A mediator study. Journal of Organiza- affecting task performance. Organizational Behavior and Human Per-
+tional Behavior, 15, 49 – 63. formance, 31, 114 –122.
+Latham, G. P., & Yukl, G. A. (1975). Assigned versus participative goal Matsui, T., Okada, A., & Kakuyama, T. (1982). Influence of achievement
+setting with educated and uneducated wood workers. Journal of Ap- need on goal setting, performance, and feedback effectiveness. Journal
+plied Psychology, 60, 299 –302. of Applied Psychology, 67, 645– 648.
+Latham, G. P., & Yukl, G. (1976). Effects of assigned and participative McClelland, D., Atkinson, J., Clark, J., & Lowell, E. (1953). The achieve-
+goal setting on performance and job satisfaction. Journal of Applied ment motive. New York: Appleton-Century-Crofts.
+Psychology, 61, 166 –171. McDaniel, M. A., Whetzel, D. L., Schmidt, F. L., & Maurer, S. D. (1994).
+Lee, C., & Earley, P. C. (1992). Comparative peer evaluations of orga- The validity of employment interviews: A comprehensive review and
+nizational behavior theories. Organization Development Journal, 10, meta-analysis. Journal of Applied Psychology, 79, 599 – 616.
+37– 42. Mento, A., Locke, E., & Klein, H. (1992). Relationship of goal level to
+Lee, T., Locke, E., & Phan, S. (1997). Explaining the assigned goal– valence and instrumentality. Journal of Applied Psychology, 77, 395–
+incentive interaction: The role of self-efficacy and personal goals. 405.
+Journal of Management, 23, 541–559. Miner, J. B. (1984). The validity and usefulness of theories in emerging
+Lerner, B., & Locke, E. A. (1995). The effects of goal setting, self- organizational science. Academy of Management Review, 9, 296 –306.
+efficacy, competition and personal traits on the performance of an Morin, L., & Latham, G. P. (2000). Effect of mental practice and goal
+716 September 2002 ● American Psychologist
+setting as a transfer of training intervention on supervisors’ self-efficacy proximal goals on a moderately complex task. Journal of Organiza-
+and communication skills: An exploratory study. Applied Psychology: tional Behavior, 22, 291–302.
+An International Review, 49, 566 –578. Smith, K., Locke, E., & Barry, D. (1990). Goal setting, planning and
+Murphy, S. T. (2001). Feeling without thinking: Affective primacy and organizational performance: An experimental simulation. Organiza-
+the nonconscious processing of emotion. In J. A. Bargh & D. K. Apsley tional Behavior and Human Decision Processes, 46, 118 –134.
+(Eds.), Unraveling the complexities of social life: A festschrift in honor Strang, H. R., Lawrence, E. C., & Fowler, P. C. (1978). Effects of
+of Robert B. Zajonc (pp. 39 –53). Washington, DC: American Psycho- assigned goal level and knowledge of results on arithmetic compensa-
+logical Association. tion: A laboratory study. Journal of Applied Psychology, 63, 446 – 450.
+O’Leary-Kelly, A., Martocchio, J., & Frink, D. (1994). A review of the Terpstra, D. E., & Rozell, E. J. (1994). The relationship of goal setting to
+influence of group goals on group performance. Academy of Manage- organizational profitability. Group and Organization Management, 19,
+ment Journal, 37, 1285–1301. 285–294.
+Pinder, C. (1998). Work motivation in organizational behavior. Engle- Tracy, K., Locke, E., & Renard, M. (1999, August). Conscious goal
+wood Cliffs, NJ: Prentice Hall. setting versus subconscious motives: Longitudinal and concurrent ef-
+Powers, W. (1978). Quantitative analysis of purposive systems: Some fects on the performance of entrepreneurial firms. Paper presented at
+spadework at the foundations of scientific psychology. Psychological the annual meeting of the Academy of Management, Chicago, IL.
+Review, 85, 417– 435. VandeWalle, D., Cron, W., & Slocum, J. (2001). The role of goal
+Richardson, A. (1967). Mental practice: A review and discussion: Part I. orientation following performance feedback. Journal of Applied Psy-
+Research Quarterly, 38, 95–107. chology, 86, 629 – 640.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Rogers, R., & Hunter, J. (1991). Impact of management by objectives on Vroom, V. (1964). The motivation to work. New York: Wiley.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+organizational productivity. Journal of Applied Psychology, 76, 322– Wagner, J., & Gooding, R. (1987a). Effects of societal trends on partic-
+336. ipation research. Administrative Science Quarterly, 32, 241–262.
+Wagner, J., & Gooding, R. (1987b). Shared influence and organizational
+Ronan, W. W., Latham, G. P., & Kinne, S. B. (1973). The effects of goal
+behavior: A meta-analysis of situational variables expected to moderate
+setting and supervision on worker behavior in an industrial situation.
+participation– outcome relationships. Academy of Management Journal,
+Journal of Applied Psychology, 58, 302–307.
+30, 524 –541.
+Rothkopf, E., & Billington, M. (l979). Goal-guided learning from text:
+Wegge, J., & Dibbelt, S. (2000). Zur wirkung von Zielsetzungen auf die
+Inferring a descriptive processing model from inspection times and eye
+Informationsverarbeitung bei Buchstabenvergleichsaufgaben [Effects
+movements. Journal of Educational Psychology, 71, 310 –327.
+of goal setting on information processing in letter-matching tasks].
+Ryan, T. A. (1970). Intentional behavior. New York: Ronald Press. Zeitschrift fuer Experimentelle Psychologie, 47, 89 –114.
+Ryan, T. A., & Smith, P. C. (1954). Principles of industrial psychology. White, S., & Locke, E. (2000). Problems with the Pygmalion effect and
+New York: Ronald Press. some proposed solutions. Leadership Quarterly, 11, 389 – 415.
+Sales, M. (1970). Some effects of role overload and role underload. Winters, D., & Latham, G. (1996). The effect of learning versus outcome
+Organizational Behavior and Human Performance, 5, 592– 608. goals on a simple versus a complex task. Group and Organization
+Seijts, G. H., & Latham, B. W. (2001, June). Can goal orientation be Management, 21, 236 –250.
+induced? Further exploration of the state versus trait debate. In C. Wood, R., Atkins, P., & Bright, J. (1999). Bonuses, goals and instrumen-
+Sue-Chan (Chair), Justice, efficacy, goal orientation, culture, and cre- tality effects. Journal of Applied Psychology, 84, 703–720.
+ativity: New findings in motivation. Symposium conducted at the annual Wood, R., & Bandura, A. (1989). Social– cognitive theory of organiza-
+meeting of the Canadian Psychological Association, St. Foy, Quebec, tional management. Academy of Management Review, 14, 361–384.
+Canada. Wood, R., & Locke, E. (1990). Goal setting and strategy effects on
+Seijts, G. H., & Latham, G. P. (2000a). The construct of goal commit- complex tasks. In B. Staw & L. Cummings (Eds.), Research in orga-
+ment: Measurement and relationships with task performance. In R. nizational behavior (Vol. 12, pp. 73–109). Greenwich, CT: JAI Press.
+Goffin & E. Helmes (Eds.), Problems and solutions in human assess- Wood, R., Mento, A., & Locke, E. (1987). Task complexity as a moder-
+ment (pp. 315–332). Dordrecht, the Netherlands: Kluwer Academic. ator of goal effects. Journal of Applied Psychology, 17, 416 – 425.
+Seijts, G. H., & Latham, G. P. (2000b). The effects of goal setting and Yukl, G. A., & Latham, G. P. (1978). Interrelationships among employee
+group size on performance in a social dilemma. Canadian Journal of participation, individual differences, goal difficulty, goal acceptance,
+Behavioural Science, 32, 104 –116. goal instrumentality, and performance. Personnel Psychology, 31, 305–
+Seijts, G. H., & Latham, G. P. (2001). The effect of learning, outcome, and 324.
+September 2002 ● American Psychologist 717

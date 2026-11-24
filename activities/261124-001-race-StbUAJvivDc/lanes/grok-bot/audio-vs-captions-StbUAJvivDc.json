@@ -1,0 +1,37 @@
+{
+ "caption_words": 301,
+ "audio_words": 300,
+ "similarity": 0.9817,
+ "differences": [
+  {
+   "op": "replace",
+   "t_caption": 4.0,
+   "captions": "rieseberg",
+   "audio": "riesberg"
+  },
+  {
+   "op": "replace",
+   "t_caption": 6.56,
+   "captions": "anthropic",
+   "audio": "anthropik"
+  },
+  {
+   "op": "replace",
+   "t_caption": 25.44,
+   "captions": "his",
+   "audio": "this"
+  },
+  {
+   "op": "replace",
+   "t_caption": 27.76,
+   "captions": "kelley",
+   "audio": "kelly"
+  },
+  {
+   "op": "replace",
+   "t_caption": 108.2,
+   "captions": "role play",
+   "audio": "roleplay"
+  }
+ ]
+}

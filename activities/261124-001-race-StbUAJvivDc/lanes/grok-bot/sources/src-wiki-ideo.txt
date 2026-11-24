@@ -1,0 +1,965 @@
+# SOURCE: src-wiki-ideo
+# url: https://en.wikipedia.org/wiki/IDEO
+# final_url: https://en.wikipedia.org/wiki/IDEO
+# http_status: 200
+# fetched_at: 2026-11-24T21:46:34+13:00
+# title: IDEO - Wikipedia
+# raw_sha256: 08460ec1d1e624f7412923e00e254ce0d0dad4779ae76b9d091c56121128248e
+# raw_file: src-wiki-ideo.raw.html
+# tool: created-tools/save_source.py
+
+IDEO - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+History
+Toggle History subsection
+1.1
+Leadership
+1.2
+The Deep Dive
+1.3
+Ownership
+1.4
+Acquisitions and partnerships
+2
+Organizational culture
+3
+Products and services
+Toggle Products and services subsection
+3.1
+OpenIDEO
+3.2
+Design education
+4
+Further reading
+5
+References
+Toggle the table of contents
+IDEO
+10 languages
+Deutsch
+Español
+فارسی
+Français
+日本語
+한국어
+Português
+Svenska
+தமிழ்
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Save
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+Save
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+American design and consulting firm
+IDEO
+Type
+Private
+Industry
+Design firm
+[
+1
+]
+Founded
+1991, with the merging of
+David Kelley Design
+(est 1978),
+Moggridge Associates
+(est 1969),
+ID Two
+(est 1979), and
+Matrix Product Design
+(est 1983).
+Founders
+David Kelley
+[
+2
+]
+Bill Moggridge
+[
+3
+]
+Mike Nuttall
+Headquarters
+San Francisco, California
+[
+4
+]
+Key
+people
+Mike Peng, CEO
+Tim Brown, Chair
+Number of employees
+500+ (2023)
+[
+5
+]
+Website
+www
+.ideo
+.com
+IDEO
+(
+/
+ˈ
+aɪ
+d
+i
+oʊ
+/
+) is a
+design
+and
+consulting firm
+with offices in the U.S., England, and China. It was founded in
+Palo Alto, California
+, in 1991, with the merger of several established firms.
+[
+6
+]
+[
+7
+]
+[
+8
+]
+The company's 500 staff uses a
+design thinking
+approach to design products, services, environments, brands, and digital experiences.
+[
+9
+]
+[
+6
+]
+[
+10
+]
+By the early 2000s, the company had expanded into
+management consulting
+and
+organizational design
+.
+[
+11
+]
+Since 2016, IDEO has been a member of Kyu Collective, after they purchased a minority stake in the firm
+[
+12
+]
+[
+13
+]
+History
+[
+edit
+]
+IDEO was formed in 1991 by a merger of David Kelley Design (founded by
+Stanford University
+professor
+David Kelley
+in 1978), London-based Moggridge Associates and San Francisco's ID Two (both founded by British-born
+Bill Moggridge
+, in 1969 and 1979, respectively), and Matrix Product Design (founded by
+Mike Nuttall
+in 1983).
+[
+14
+]
+[
+15
+]
+David Kelley Design was previously Hovey-Kelley Design, which was a partnership between David Kelley and Dean Hovey.
+[
+16
+]
+Hovey-Kelley Design worked on the design for the computer mice for the
+Apple Lisa
+and the
+original Apple Macintosh
+.
+[
+17
+]
+While the company started with a focus on designing consumer products (e.g., toothbrush, personal assistant, computers), by 2001, IDEO began to widen its focus on consumer experiences and services, and expanded its service offerings to include
+management consulting
+and
+organizational design
+.
+[
+11
+]
+In 2011, IDEO incubated IDEO.org, a registered 501(c)(3) nonprofit focused on doing work that centers people in poor and vulnerable communities.
+[
+18
+]
+Leadership
+[
+edit
+]
+Tim Brown in 2018
+Sandy Speicher in 2011
+In April 2019, the company announced that Sandy Speicher would replace Tim Brown as CEO of the company.
+[
+19
+]
+In November 2022, the company announced that Derek Robson would become CEO effective January 5, 2023.
+[
+20
+]
+In April 2025, the company announced that Mike Peng would become CEO effective June 2025.
+[
+21
+]
+The Deep Dive
+[
+edit
+]
+On February 9, 1999, the ABC show
+Nightline
+featured IDEO in a segment called
+The Deep Dive: One Company's Secret Weapon for Innovation
+.
+[
+22
+]
+[
+23
+]
+The segment featured Jack Smith of ABC touring the IDEO office and challenging the company to redesign the
+shopping cart
+in five days to demonstrate IDEO's process for innovation.
+[
+24
+]
+The result was a shopping cart with a nestable steel frame which holds removable plastic baskets to help deter theft and increase shopper flexibility. A dual child seat with a swing-up tray was also included in the design, as well as a
+cup holder
+, a
+barcode reader
+to skip the checkout line and steerable back wheels for manoeuvrability.
+[
+24
+]
+The demonstration of IDEO's innovation process has led to the segment becoming part of numerous curricula, including
+Project Lead the Way
+[
+25
+]
+and multiple universities.
+[
+26
+]
+[
+27
+]
+[
+28
+]
+Ownership
+[
+edit
+]
+In 1996, Office-furniture maker
+Steelcase
+took a majority ownership stake in IDEO, which continued to operate independently. Steelcase
+[
+11
+]
+began divesting its shares through a five-year management buy-back program in 2007.
+[
+29
+]
+[
+11
+]
+In 2016, Japanese holding company
+Kyu Collective
+- a strategic operating unit of Japanese advertising and communications holding company Hakuhodo DY Holdings - purchased a minority stake in the firm,
+[
+13
+]
+[
+12
+]
+and Steelcase no longer holds an owership stake. With IDEO's acquisition by Kyu, the firm increasingly partners with other member firms of the collective.
+[
+30
+]
+[
+31
+]
+Acquisitions and partnerships
+[
+edit
+]
+On October 17, 2017, IDEO acquired
+Datascope
+, a data science firm based in Chicago.
+[
+32
+]
+Datascope has worked with IDEO as a consultant on many projects over the past four years.
+[
+33
+]
+Tim Brown, Chair of IDEO, states that the acquisition is largely motivated by advances in data sciences and machine learning.
+[
+34
+]
+Datascope's 15-person team merged with IDEO's Chicago office.
+Organizational culture
+[
+edit
+]
+IDEO's
+organizational culture
+consists of project teams, flat hierarchy, individual autonomy, creativity, and collaboration.
+[
+35
+]
+The firm currently employs over 500 people across many disciplines, including: Behavioral Science, Branding, Business Design, Communication Design, Design Research, Digital Design, Education, Electrical Engineering, Environments Design, Food Science, Healthcare Services, Industrial Design, Interaction Design, Mechanical Engineering, Organizational Design, and Software Engineering.
+[
+36
+]
+Products and services
+[
+edit
+]
+IDEO has worked on projects in the consumer food and beverage, retail, computer, medical, educational, furniture, office, and automotive industries. Some examples include
+Apple
+'s first
+mouse
+, the
+Palm V
+PDA
+, and Steelcase's Leap chair. Clients include Air New Zealand, Coca-Cola,
+ConAgra Foods
+,
+Eli Lilly
+,
+Ford
+,
+Medtronic
+,
+Mexichem
+, Sealy,
+ShinHo
+, and
+Steelcase
+among many others.
+[
+36
+]
+Early Apple computer mice
+Palm V
+OpenIDEO
+[
+edit
+]
+In August 2010, IDEO introduced OpenIDEO, a collaborative platform for the design process.
+[
+37
+]
+OpenIDEO was designed to be an internal tool for IDEO to collaborate with clients, but it is now a public tool.
+[
+38
+]
+The purpose of the tool is to virtually drive the creative process to solve social problems, allowing for people of different expertise and backgrounds to collaborate. Examples of projects that have been facilitated by OpenIDEO include various projects of the
+WWF
+and TEDPrize winner
+Jamie Oliver
+'s
+Food Revolution movement
+.
+[
+39
+]
+In a collaboration with
+Sutter Health
+, London's Helix Centre and
+Shoshana R. Ungerleider
+,
+[
+40
+]
+they completed an OpenIDEO Challenge to "reimagine the end of life experience" which later led to the founding of international initiatives, End Well and Re:imagine.
+[
+41
+]
+Design education
+[
+edit
+]
+IDEO U is an online educational program released in early 2015.
+[
+42
+]
+[
+43
+]
+Course participants are instructed on the concepts surrounding human-centered design thinking.
+In addition to the online program, IDEO and its affiliates have released multiple books on design thinking, including New York Times best-selling
+Creative Confidence: Unleashing the Creative Potential Within Us All
+.
+[
+44
+]
+Former CEO Tim Brown is the author of
+Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation
+(2009) in which he argues that design can transform problems into opportunities – emphasizing design thinking as a human-centered activity, he specifically prizes the feeling of empathy, where designers are capable of understanding the perspectives and problems the end users face.
+[
+45
+]
+Further reading
+[
+edit
+]
+Dobbin, Frank. "High Commitment Practices". Harvard University. October 10, 2012. Lecture.
+Thomke, Stefan and Ashok Nimgade. "
+IDEO
+." Harvard Business School Case 600-143, June 2000. Boston. Harvard Business Publishing.
+Kelley, Tom, and Jonathan Littman.
+The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm
+. New York: Currency/Doubleday, 2001. page 70.
+ISBN
+978-0-385-49984-2
+.
+"
+Recruiting Q&A: IDEO
+"
+Businessweek
+. January 10, 2001.
+"Designed Chaos - An Interview with David Kelley, Founder and CEO of IDEO." Designed Chaos. N.p., n.d.
+"Navigate." Careers FAQ. N.p., n.d.
+Stevents, Tim. "Creative Genius".
+Industry Week
+. July 4, 1994. Skokie, IL.
+References
+[
+edit
+]
+↑
+Harris, Jessica (June 26, 2014).
+"David Kelley, Co-Founder of IDEO"
+.
+NPR
+.
+Archived
+from the original on January 8, 2015
+. Retrieved
+September 25,
+2014
+.
+↑
+Eng, Dinah (April 11, 2013).
+"How IDEO brings design to corporate America"
+.
+Fortune
+.
+↑
+"Bill Moggridge"
+.
+www.ideo.com
+. Retrieved
+September 15,
+2021
+.
+↑
+"IDEO"
+.
+Forbes
+.
+↑
+"About IDEO"
+.
+IDEO Inc
+. Retrieved
+September 9,
+2020
+.
+1
+2
+"IDEO LLC"
+.
+Bloomberg Businessweek
+. Archived from
+the original
+on December 20, 2011
+. Retrieved
+November 12,
+2011
+.
+↑
+"IDEO Contact page"
+. Ideo.com.
+Archived
+from the original on November 10, 2011
+. Retrieved
+November 12,
+2011
+.
+↑
+"Contact"
+.
+www.ideo.com
+. Retrieved
+June 9,
+2020
+.
+↑
+Brown, Tim. "The Making of a Design Thinker."
+Metropolis
+Oct. 2009: 60–62. p. 60: "David Kelley
+... said that every time someone came to ask him about design, he found himself inserting the word thinking to explain what it is that designers do. The term design thinking stuck."
+↑
+Kelley, David; Kelley, Tom (2013).
+Creative Confidence
+. United States of America: Crown Business. p.
+21
+.
+ISBN
+9780385349369
+.
+1
+2
+3
+4
+Nussbaum, Bruce (May 17, 2004).
+"The Power of Design"
+. Business Week. Archived from
+the original
+on January 8, 2007
+. Retrieved
+December 19,
+2006
+.
+1
+2
+Budds, Diana (February 9, 2016).
+"Ideo, Silicon Valley's Most Influential Design Firm, Sells A Minority Stake"
+.
+Fast Company
+. Retrieved
+April 6,
+2020
+.
+1
+2
+"Ideo Sold Part of Itself and Joined a Collective. But Why?"
+.
+Wired
+.
+↑
+"International Directory of Company Histories"
+. 1994. Archived from the original on August 17, 2010
+. Retrieved
+November 12,
+2011
+.
+↑
+"Bill Moggridge dies at 69; developer of laptop design"
+.
+Los Angeles Times
+. September 11, 2012
+. Retrieved
+April 6,
+2020
+.
+↑
+"David Kelley interview – Founding Hovey-Kelley"
+.
+Making the Macintosh: Technology and Culture in Silicon Valley
+. July 24, 2000. Archived from
+the original
+on September 20, 2012
+. Retrieved
+September 1,
+2012
+.
+↑
+"Hovey-Kelley and the Mouse"
+.
+web.stanford.edu
+. Retrieved
+November 21,
+2023
+.
+↑
+Miller, Meg (November 7, 2016).
+"How Ideo.org Helps Fight Global Poverty With Design"
+.
+Fast Company
+. Retrieved
+April 6,
+2020
+.
+↑
+Wilson, Mark (April 4, 2019).
+"Ideo CEO Tim Brown, who helped popularize design thinking, steps down"
+.
+Fast Company
+. Retrieved
+April 6,
+2020
+.
+↑
+"IDEO APPOINTS DEREK ROBSON AS CHIEF EXECUTIVE OFFICER"
+.
+PRNewswire
+. November 29, 2022
+. Retrieved
+April 25,
+2023
+.
+↑
+"IDEO Appoints Design Luminary, Venture Innovator and IDEO Alumnus Michael Peng as Chief Executive Officer To Spearhead Growth"
+.
+San Francisco
+:
+Business Wire
+. April 30, 2025
+. Retrieved
+September 11,
+2026
+.
+↑
+"IDEO Nightline Transcript"
+(PDF)
+.
+ciow.org
+. THE TRANSCRIPTION COMPANY.
+Archived
+(PDF)
+from the original on December 23, 2015
+. Retrieved
+January 8,
+2017
+.
+↑
+"No mystery why IDEO became the home of good ideas"
+.
+The Independent
+. May 9, 2001.
+Archived
+from the original on January 9, 2017
+. Retrieved
+January 8,
+2017
+.
+1
+2
+"Reimagining the Shopping Cart"
+.
+ideo.com
+. IDEO. April 1999.
+Archived
+from the original on January 9, 2017
+. Retrieved
+January 8,
+2017
+.
+↑
+"Activity 1.5 The Deep Dive"
+.
+studylib.net
+.
+Project Lead the Way
+.
+Archived
+from the original on January 8, 2017
+. Retrieved
+January 8,
+2017
+.
+↑
+"CIOW - Videos"
+.
+ciow.org
+. University of Pennsylvania.
+Archived
+from the original on January 8, 2017
+. Retrieved
+January 8,
+2017
+.
+↑
+Smith, Karl.
+"The Art of Innovation - University of Minnesota"
+. University of Minnesota. Archived from
+the original
+on July 13, 2017
+. Retrieved
+January 8,
+2017
+.
+↑
+"The Deep Dive - Weber State University"
+. Weber State University.
+Archived
+from the original on January 9, 2017.
+↑
+Bauer, Julia (September 20, 2007).
+"Steelcase's IDEO will be sold over next five years"
+. Grand Rapids Press.
+Archived
+from the original on May 28, 2009
+. Retrieved
+September 20,
+2007
+.
+↑
+Stinson, Liz.
+"Ideo Sold Part of Itself and Joined a Collective. But Why?"
+.
+Wired
+.
+ISSN
+1059-1028
+. Retrieved
+January 27,
+2022
+.
+↑
+Budds, Diana (February 9, 2016).
+"Ideo, Silicon Valley's Most Influential Design Firm, Sells A Minority Stake"
+.
+Fast Company
+. Retrieved
+January 27,
+2022
+.
+↑
+IDEO.
+"Datascope joins the IDEO Family"
+.
+IDEO News
+.
+↑
+Budds, Diana.
+"Exclusive: Ideo's Plan To Stage An AI Revolution"
+.
+CO.DESIGN
+.
+↑
+Brown, Tim (October 17, 2017).
+"Design for Augmented Intelligence"
+.
+Medium
+.
+↑
+Dobbin, Frank (October 10, 2012).
+High Commitment Practices
+. Harvard University. pp.
+Lecture.
+1
+2
+"IDEO Fact Sheet"
+(PDF)
+. Archived from
+the original
+on September 5, 2015
+. Retrieved
+January 8,
+2017
+.
+↑
+Grams, Chris.
+"OpenIDEO: a new experiment in open innovation"
+.
+opensource
+.
+↑
+Diamandis, Peter.
+"INNOVATION ON STEROIDS: THE OPENIDEO APPROACH TO A BETTER SOCIETY"
+.
+XPRIZE
+. Archived from
+the original
+on May 22, 2018
+. Retrieved
+December 4,
+2017
+.
+↑
+Popova, Maria.
+"OpenIDEO: Collaborative Design Thinking"
+.
+Big Think
+.
+↑
+"How to Design for Death: OpenIDEO Challenges Designers to Reimagine the End of Life Experience"
+.
+core77.com
+. Retrieved
+August 26,
+2020
+.
+↑
+"The Journey"
+.
+endwellproject.org
+. December 5, 2017
+. Retrieved
+August 25,
+2020
+.
+↑
+"Introducing IDEO U: IDEO's online learning school!"
+.
+www.ideo.com
+. Retrieved
+April 6,
+2020
+.
+↑
+Peters, Adele.
+"5 Things You'll Learn In Ideo's New Online Innovation Class"
+.
+Fast Company
+. Fast Company.
+↑
+Stober, Dan (January 23, 2023).
+"Stanford d.school founder fosters creative confidence with design thinking"
+. Stanford News.
+↑
+Kimbell, Lucy (2011). "Rethinking Design Thinking: Part I".
+Design and Culture
+.
+3
+(3):
+285–
+306.
+doi
+:
+10.2752/175470811X13071166525216
+.
+S2CID
+145069798
+.
+Authority control databases
+International
+ISNI
+VIAF
+GND
+National
+United States
+France
+BnF data
+Czech Republic
+Norway
+Israel
+Artists
+Museum of Modern Art
+Other
+Yale LUX
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=IDEO&oldid=1383372279
+"
+Categories
+:
+Industrial design firms
+Companies based in Palo Alto, California
+Design companies established in 1991
+Design companies of the United States
+1991 establishments in California
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use mdy dates from July 2017
+CS1: unfit URL
+This page was last edited on 2 November 2026, at 09:55
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+IDEO
+10 languages
+Add topic

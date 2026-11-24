@@ -1,0 +1,780 @@
+# SOURCE: src-felix-linkedin
+# url: https://www.linkedin.com/in/felixrieseberg/
+# final_url: https://www.linkedin.com/in/felixrieseberg
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:34+13:00
+# title: Felix Rieseberg - Anthropic | LinkedIn
+# raw_sha256: f6735c08dc6c21e2bac5c893e631be01571413ed8a9f9dfc020d9d87a2458b56
+# raw_file: src-felix-linkedin.raw.html
+# tool: created-tools/save_source.py
+
+Felix Rieseberg - Anthropic | LinkedIn
+Skip to main content
+LinkedIn
+Top Content
+People
+Learning
+Jobs
+Games
+Sign in
+Join now
+Sign in to view Felix’s full profile
+Felix can introduce you to 10+ people at Anthropic
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Felix Rieseberg
+Sign in to view Felix’s full profile
+Felix can introduce you to 10+ people at Anthropic
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+San Francisco, California, United States
+Contact Info
+Sign in to view Felix’s full profile
+Felix can introduce you to 10+ people at Anthropic
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+22K followers
+500+ connections
+See your mutual connections
+View mutual connections with Felix
+Felix can introduce you to 10+ people at Anthropic
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Join to view profile
+Message
+Sign in to view Felix’s full profile
+Felix can introduce you to 10+ people at Anthropic
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Anthropic
+University of Oxford
+Personal Website
+Report this profile
+About
+Member of Technical Staff at Anthropic. Previously at Notion, Stripe, Slack, and…
+see more
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Activity
+22K followers
+Posts
+Comments
+Reactions
+No more previous content
+Felix Rieseberg
+Felix Rieseberg
+2w
+Report this post
+Felix Rieseberg shared this
+We're releasing Claude Fable & Mythos 5.2! They're good models, I have some demos and tips for you.
+Fable beats Opus on big, long tasks. Good examples are rewriting an entire codebase, creating an excellent first draft of a large artifact, or exploring ambiguous scenarios. I expect to see it used to port a lot of stuff to Rust, support journalists in large-scale investigations, and help with research & science. I often still prefer Opus 5.5 for everyday work. Fable's got a big brain and thinks a little slower.
+🎮 I've asked it to make some games, keeping the very first draft. I'm most impressed with Claude's first-person shooter! Try them here:
+https://lnkd.in/g42eZuiy
+🖼️ I also asked it to create 20 different logos for a made-up group called "Interchange":
+https://lnkd.in/gmqbcZCf
+🔒 Mythos is once again a step up in cybersecurity. If you're a defender and hardening your own work, a reminder that it's much easier to get access to Mythos now, even for individuals:
+https://lnkd.in/gd9zs3-2
+public_profile__posts
+219
+25 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+3w
+Report this post
+Felix Rieseberg shared this
+The coding interview is dead, at least for my team at Anthropic. I've seen enough to know that it no longer provides signal. I removed it from loops this month.
+I have a spicy, optimistic take - I think there's an opportunity for junior engineers:
+https://lnkd.in/gX4qUhti
+Hunger beats tenure: Advice for junior engineers
+Hunger beats tenure: Advice for junior engineers
+2,066
+170 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+1mo
+Report this post
+Felix Rieseberg shared this
+Hi, I'm Felix. I'm an eng lead working on Claude. I love watching people take flight and do things they never thought possible.
+We often describe that as "being more ambitious" when using AI, which is tricky advice to follow. I wrote a tutorial:
+https://lnkd.in/dBJ-32ce
+How to be more ambitious: A tutorial for humans with models
+How to be more ambitious: A tutorial for humans with models
+1,324
+77 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+1mo
+Report this post
+Felix Rieseberg shared this
+I remade my homepage with Opus 5.5 and pushed it hard, using billions of tokens to see how far we can go. We made music & movies, drew textures, modeled things in Blender. I'm really happy with the result! You can check it out at
+www.felixrieseberg.com
+.
+Working on Claude, people often ask about my workflow. You might be surprised that I'm not using classic Claude Code anymore, opening a terminal, or even running code on my Mac. No GitHub or PRs. I've never felt more creative.
+I wrote up my personal "as of September 2026" workflow here:
+https://lnkd.in/guY4iTDU
+public_profile__posts
+414
+73 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+2mo
+Report this post
+Felix Rieseberg posted this
+Today, we're combining Cowork and Chat into one Claude.
+You can fire off questions and then turn to serious work in the same conversation. When your computer is open, Claude can use your local files and apps - and if you close it, Claude will keep working with its own computer in the cloud.
+But wait, there's more: Claude Design, Claude Docs, and Claude Slides are now part of your conversations, too. Ask for a doc and you write it together. Ask for a deck and Claude drafts the slides. Edit, present straight from Claude, or download as PowerPoint. Design, my personal fav, will have Claude make snazzy interfaces and layouts.
+If you've been working in Cowork: there is nothing to turn on and nothing to move. Your chats, projects, artifacts, connectors and skills are all still there. Open the app, pick up where you left off. That part mattered a LOT to us.
+I'm a big believer in making tools simpler while exposing our users to as much magic as possible. I could write a whole post about the philosophy here (and maybe should), but I'm very proud of the team!
+If you've been saving up a big messy project, now's the time:
+https://lnkd.in/gf2TF8hX
+1,013
+95 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+2mo
+Report this post
+Felix Rieseberg shared this
+The model is a little better at most things, but the change I expect people to feel first is cost: Fable 5.1 solves agentic coding tasks at roughly half the cost of Fable 5. On CursorBench, it's state of the art at max effort while costing a little over half of what Fable 5 did.
+I also like its writing. It sounds a lot more natural and a lot less "Claude-y" than our previous models, and it (imho) follows style instructions more reliably.
+The other thing I'd watch is science. Everyone has been talking about math for a few weeks, and I think other disciplines will see similar breakthroughs soon. On Terminal-Bench-Science, a Stanford-led benchmark with tasks written by working scientists, Fable 5.1 scores 52.6%, more than double Fable 5 (24.7%) and Opus 5 (29.0%). We're not at a country of geniuses in a datacenter yet, but we sure are making a lot of progress.
+Claude
+Claude
+2mo
+Felix Rieseberg shared this
+We're introducing Claude Fable 5.1 and Claude Mythos 5.1. They're the world's most advanced models for coding and knowledge work.
+Fable 5.1 excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Across our benchmarks, it sets a new standard, and at lower effort levels it can achieve similar or better results than Fable 5 at a much lower cost.
+Fable 5.1 also takes steps to address feedback we've heard on price, data retention, and safeguards. Cache reads with Fable 5.1 cost 75% less than Fable 5's. This reduces the cost of the model in practice by around 25% for typical workloads and up to 45% for highly agentic ones. Our cybersecurity safeguards now flag benign requests about 60% less often, and on basic biology and medical questions, we've recently reduced the fallback rate by around 85%.
+We're also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention) while still being state-of-the-art at preventing adversarial use. Data stays on the customer's own cloud, not Anthropic's. We developed EFS with more than 100 customers, and it rolls out in phases, starting this fall:
+https://lnkd.in/emfmnazm
+Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs. Read more:
+https://lnkd.in/eYNbsf3S
+public_profile__posts
+83
+4 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+reposted this
+Report this post
+Felix Rieseberg reposted this
+TEDAI Vienna
+TEDAI Vienna
+3mo
+Felix Rieseberg reposted this
+What does it take to turn new AI technology into tools that millions of people use every day?
+We're delighted to welcome
+Felix Rieseberg
+as an official speaker at
+#TEDAI2026
+.
+As one of the leading engineers helping shape how people interact with AI, Felix brings a true insider perspective. At
+Anthropic
+, he created Claude Cowork and has led engineering for
+Claude.ai
+and Claude Code on desktop, helping bring cutting-edge AI into the hands of millions of users.
+Having previously led engineering teams at Notion, Stripe, and Slack, Felix offers exceptional insight into how breakthrough technologies become products that people rely on every day. He also co-maintains Electron, the open-source framework powering applications that many of us use including Claude, Cursor, Codex, and more.
+As AI becomes an increasingly integral part of how we work, create, and collaborate, we're excited to hear Felix's expert views on where AI is taking us next.
+🔗 Join us in Vienna from 28–30 October for three days of bold ideas, thought-provoking conversations, and inspiring TED Talks:
+https://lnkd.in/diM7uYAB
+#TEDAI2026
+#TEDAI
+#TEDAIVienna
+#TEDAIVienna2026
+#TED
+#AI
+#Anthropic
+#Claude
+#OpenSource
+#SoftwareEngineering
+#FutureOfWork
+#Vienna
+TED Conferences
+public_profile__posts
+91
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+4mo
+Report this post
+Felix Rieseberg shared this
+Something I’m excited about: Free premium Claude and Cowork for K-12 educators and teachers in the US, together with a library of teaching skills.
+To find out more, check out
+https://lnkd.in/gd_26EUW
+. If you’re already sold and just want to get started, get verified here:
+https://lnkd.in/gnrMCcXD
+A dedicated offering for schools and districts is coming soon.
+Introducing Claude for Teachers
+Introducing Claude for Teachers
+96
+8 Comments
+Copy
+LinkedIn
+Facebook
+X
+Felix Rieseberg
+Felix Rieseberg
+4mo
+Report this post
+Felix Rieseberg shared this
+Big day! Claude Cowork is coming to web and mobile, so Claude can keep working while your computer is closed.
+This is a major update to Cowork. It combines the power of giving Claude access to your context, an advanced loop for long-running tasks, and the convenience of not needing your laptop to be open.
+Given the size of the change, it's rolling out over the next couple of weeks, starting with our Max users.
+For more details, check out the blog post:
+https://lnkd.in/gZdXxZxU
+public_profile__posts
+515
+36 Comments
+Copy
+LinkedIn
+Facebook
+X
+No more next content
+Slide to item 1
+Slide to item 2
+Slide to item 3
+Slide to item 4
+Slide to item 5
+Slide to item 6
+Slide to item 7
+Slide to item 8
+Slide to item 9
+Felix Rieseberg replied to a comment
+2w
+Alexander Witkowski
+Whoeps, link updated 😅
+Felix Rieseberg replied to a comment
+2w
+Tom Wood
+Whoeps, link updated 😅
+No more previous content
+Felix Rieseberg
+liked this
+Report this post
+Felix Rieseberg liked this
+Lionel Sim
+Lionel Sim
+1mo
+Felix Rieseberg liked this
+I sent Claude three screenshots and five words.
+It built me a virtual room.
+⠀
+This week
+Felix Rieseberg
+, who builds Claude at Anthropic, shared his new homepage made with Opus 5.5. A rendered desk, a retro computer, rain on the window. It stopped my scroll.
+⠀
+So I screenshotted his post and typed: "Connect to Blender and create."
+⠀
+Here is what Claude Opus 5.5 did next:
+⠀
+1. Set up Blender in the cloud and modeled the whole room in Python. A walnut desk, a beige 80s computer, a green lamp, my three books, a kopi o kosong, and Marina Bay on a rainy night outside the window.
+2. Rendered it, studied its own renders and fixed what looked off. It even caught a lamp reflection in the glass that looked like a moon.
+3. Turned the renders into a website. Click the computer and you get a working green screen terminal.
+4. Deployed it to Vercel.
+⠀
+I never opened Blender.
+⠀
+Come sit at my desk:
+https://lnkd.in/e9nvjJzB
+⠀
+Type ABOUT, WORK or BOOKS. Switch off the lamp. Tap the window for lightning. Turn the sound on for rain and a 50 Hz hum, the frequency of Singapore's power grid.
+⠀
+Three things I took away:
+⠀
+1. Show, don't spec. Three screenshots beat a two page brief.
+2. Tools turn a chat into a build. Blender, a browser and Vercel did the heavy lifting.
+3. The new skill is direction. I gave the brief. Claude did the build.
+⠀
+Thank you
+Felix Rieseberg
+for the inspiration.
+⠀
+What would your homepage room look like?
+public_profile__reactions
+11
+4 Comments
+Copy
+LinkedIn
+Facebook
+X
+No more next content
+Slide to item 1
+Slide to item 2
+See all activities
+Experience & Education
+Anthropic
+****** ** ********* ****** *******
+**********
+**********
+******
+*********** *******
+********** ** ******
+*** ****** ******* ** *** ******** undefined
+2010
+-
+2011
+************************** **********
+** ****** *********** ******* *** ***********
+2007
+-
+2010
+View Felix’s full experience
+See their title, tenure and more.
+Sign in
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Volunteer Experience
+Volunteer EMT
+HealthRIGHT 360
+Dec 2021
+- Present
+5 years
+Health
+Board Member
+Golden Gate Triathlon Club
+Jan 2020
+-
+Jan 2024
+4 years 1 month
+Languages
+English
+-
+German
+-
+View Felix’s full profile
+See who you know in common
+Get introduced
+Contact Felix directly
+Join to view full profile
+Other similar profiles
+Santosh Mahendra
+Santosh Mahendra
+Slack
+5K followers
+San Francisco Bay Area
+View Profile
+Brian Ambielli
+Brian Ambielli
+BusGenius
+9K followers
+Greater Seattle Area
+View Profile
+Purvaja Narayanaswamy
+Purvaja Narayanaswamy
+Snowflake
+3K followers
+San Jose, CA
+View Profile
+Khoi Tran
+Khoi Tran
+District
+3K followers
+Los Angeles, CA
+View Profile
+Yanqing Zhu
+Yanqing Zhu
+Instagram
+5K followers
+Bellevue, WA
+View Profile
+Moriko H.
+Moriko H.
+Josiah Quincy Elementary School
+7K followers
+Upton, MA
+View Profile
+Nico Belmonte
+Nico Belmonte
+Leading AI product engineering at Harvey. Previously at Meta, Uber, and Twitter.
+7K followers
+New York, NY
+View Profile
+Jeff Rafter
+Jeff Rafter
+Cloudflare
+5K followers
+Redlands, CA
+View Profile
+Jesse Chen
+Jesse Chen
+Meta
+4K followers
+San Francisco Bay Area
+View Profile
+R.J. Aquino
+R.J. Aquino
+Figma
+3K followers
+New York, NY
+View Profile
+Sean Xiaoyuan Cui
+Sean Xiaoyuan Cui
+Creator Atlas Lab
+3K followers
+Greater Seattle Area
+View Profile
+Ravi Srinivas Ranganathan
+Ravi Srinivas Ranganathan
+Netflix
+5K followers
+San Jose, CA
+View Profile
+Tyler K.
+Tyler K.
+Apple
+371 followers
+Cupertino, CA
+View Profile
+Arlene Demsyn-Jones
+Arlene Demsyn-Jones
+New Relic, Inc.
+3K followers
+Toronto, ON
+View Profile
+Michael Bobick
+Michael Bobick
+Everpure
+5K followers
+Sunnyvale, CA
+View Profile
+Xiaoyuan (Vivian) XU
+Xiaoyuan (Vivian) XU
+Multiplier Holdings
+2K followers
+Singapore
+View Profile
+Hany Farag
+Hany Farag
+Snowflake
+3K followers
+Redmond, WA
+View Profile
+Snow Z.
+Snow Z.
+AIgentic.io
+539 followers
+Las Vegas Metropolitan Area
+View Profile
+Jithendranath Joijoide
+Jithendranath Joijoide
+Roblox
+2K followers
+San Francisco Bay Area
+View Profile
+Angela Zhang
+Angela Zhang
+Town
+5K followers
+San Francisco Bay Area
+View Profile
+Show more profiles
+Show fewer profiles
+Explore more posts
+Ben Thompson
+Vamo
+• 7K followers
+Just looked up every engineer's GitHub who works at Waymo...
+The most cracked: Lukas Bach
+At Waymo, he's a software engineer. typescript, react, frontend.
+But outside work, lukas maintains the tree component half the web is built on 🌲
+react-complex-tree - 1.4k stars, the thing people reach for when they need a file explorer, a nested menu, a folder picker.
+Then he decided it wasn't good enough, scrapped it, and rebuilt the whole thing from scratch as headless-tree - accessible by default, keyboard nav and screen reader support baked in, not bolted on at the end.
+So it's not just devs he's helping...
+Crazy that shipping frontend for self-driving cars is just his day job...
+The description on his own repo says: "the definitive tree component for the web" 🤣
+We found Lukas by searching on Vamo
+33
+2 Comments
+Browser Use
+10K followers
+We're open-sourcing the browser tools used by Codex, Claude Code, and Cursor.
+Browser Use CLI 3.0 turns any coding agent into a state-of-the-art browser agent:
+→ Direct CDP control via browser-harness. The agent drives Chrome natively, no brittle abstraction layer in between.
+→ Works with your real Chrome or our cloud browsers.
+→ 6× smaller than Browser Use CLI 2.0, with far fewer tokens per step. Faster runs, lower cost.
+Everything we've learned from millions of browser-agent runs, now open for anyone to build on.
+Repo + docs → https://lnkd.in/gYmc-GpM
+What's the first thing you'd let your coding agent do in a browser? 👇
+59
+2 Comments
+Dominik Biedebach
+Tiptap
+• 697 followers
+After years of making everyone build their own find-and-replace extension, we have decided that this should perhaps be our problem too.
+Coming very soon.
+More small OSS extensions will follow for other things you should never have needed to implement yourself.
+22
+1 Comment
+Render
+23K followers
+New job alert!
+Join Render's DX team
+20
+1 Comment
+Mozilla.ai
+8K followers
+Some team news from us: John Dickerson is transitioning out of his role as CEO of Mozilla.ai to return to his R&D roots. Expect some news from him soon. During his tenure, John transformed Mozilla AI, building a world-class team and shipping exciting new products, including the Otari suite. We're grateful for everything he built, and we're excited to see what he does next.
+Mozilla AI will be led in the near term by the team that got us here: Alejandro González Pérez, VP of Engineering, and Sally Coome, Chief of Staff, working closely with Raffi Krikorian, Mozilla's CTO and a member of our Board. This reflects Mozilla's deep, organisation-wide commitment to open-source AI, with products and communities emerging across the portfolio.
+We're heading into a fall focused on Otari, our community, and the open-source AI products we believe the world needs. More soon.
+54
+Maximilian Kaske
+OpenStatus
+• 2K followers
+It took us two years to build logs.run.
+It took us a day to integrate it into our core openstatus dashboard.
+AI accelerates implementations, and we’ve built the data-table-filter repo with agents in mind: a skill, markdown docs, shadcn CLI…
+It was about time, and I’m hyped to bring it to the monitor response logs. 💥
+41
+2 Comments
+harsehaj ⊹ ࣪ ˖
+Forus
+• 6K followers
+Browsers were built for humans on laptops. AI agents need browsers on servers.
+That mismatch is why we forked Chromium at Browserbase.
+We needed Chrome-level fidelity across all identity surfaces, long-lived sessions for real workflows, and control over the runtime.
+So we went into Chromium and patched the core. It is hard work inside a massive codebase with a fast release cycle, but it's the only path to reliable browser infrastructure for AI.
+The work continues. Browsers are evolving, and we’re shaping what they become in this new era of automation.
+Read the full deep dive I wrote with Amel (link in comments).
+52
+1 Comment
+Eric Koleda
+Superhuman
+• 1K followers
+For fun, I built an MCP server that allows you to use a retro MS Paint clone in your AI tools.
+When you are done drawing, you can send the image back into the chat, allowing you to play Pictionary with AI.
+It works in clients that support the MCP Apps spec, which includes most of the major ones (including Superhuman Go).
+More info and the MCP URL here: https://lnkd.in/evKjb4CK
+15
+1 Comment
+Hendrik Krack
+CodeRabbit
+• 14K followers
+Most founders don’t understand open source when starting their OSS business.
+I went deep with Ivan Burazin on the full Daytona journey - how they build a product that tops benchmarks against Vercel, solves the critical bottleneck for AI agents and drives crazy adoption...
+77
+3 Comments
+Max Pagels
+Liminal Planes
+• 2K followers
+I feel bad for the younger folks in the tech sector. It seems hiring for these roles is declining across the board, which is a shame since only these folks can bring a fresh perspective to products and services aimed at their age group. The next generation will inevitably become AI-native if we give them a chance, whereas I have to work on getting rid of habits that used to work well but could become antipatterns if technology develops at speed.
+Hopefully this trend reverses, it can't sustain itself for long because there will be no seniors to hire unless juniors can start their careers and become one.
+https://lnkd.in/dn38XF9s
+133
+12 Comments
+Show more posts
+Show fewer posts
+Explore top content on LinkedIn
+Find curated posts and insights for relevant topics all in one place.
+View top content
+Add new skills with these courses
+1h 46m
+.NET Microservices for Azure Developers
+2h 56m
+Advanced Azure Microservices with .NET for Developers
+35m
+Large Language Models on AWS: Building and Deploying Open-Source LLMs
+See all courses
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+Language
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+View Felix’s full profile
+Felix can introduce you to 10+ people at Anthropic
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.

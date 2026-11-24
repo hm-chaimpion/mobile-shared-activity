@@ -1,0 +1,282 @@
+# SOURCE: src-gizmodo-planet
+# url: https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393
+# final_url: https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:51+13:00
+# title: Did Claude Help an Amateur Astronomer Discover a New Planet?
+# raw_sha256: 69ae41390440d755d88a33f443855dc656a5f9bdb5c1f86779cf03526706c6a7
+# raw_file: src-gizmodo-planet.raw.html
+# tool: created-tools/save_source.py
+
+Did Claude Help an Amateur Astronomer Discover a New Planet?
+Skip to content
+Gizmodo
+Latest
+News
+Reviews
+io9
+Science
+Deals
+Downloads
+Newsletters
+Artificial Intelligence
+Did Claude Help an Amateur Astronomer Discover a New Planet?
+Billions of exoplanets are believed to be out there awaiting discovery. AI—with its ability to sift through mountains of data—could speed that process along.
+By
+Webb Wright
+Published October 9, 2026, 4:55 pm ET
+Reading time 5 minutes
+© Getty/Anthropic
+Add Gizmodo on Google
+Read Later
+Read Later
+Comments
+(15)
+Last month, Pavel Rabtsevich—a 28-year-old product manager living in Spain—was hunting for planets. He didn’t have any formal training in astronomy or even a telescope. What he did have was an internet connection and subscriptions to multiple AI tools.
+He’d been combing through public astronomical data captured by the Transiting Exoplanet Survey Satellite (TESS), a space telescope operated by MIT astronomers and launched by NASA in 2018. As its name suggests, TESS’ main purpose is to help astronomers find exoplanets (planets outside our home solar system) by measuring changes in stellar luminosity; if a star’s brightness dips at regular intervals, it could mean there’s a planet orbiting it and temporarily blocking some of its light from reaching our telescopes.
+The data Rabtsevich was analyzing was taken from a
+narrow sliver
+of TESS’s full range, captured from November of last year to early January. He handed the dataset—comprising measurements of over 126,000 stars, according to Rabtsevich—to TypeSafe’s Jev, Anthropic’s Claude Code, and OpenAI’s Codex, prompting the AI systems to look for patterns of dimming that could indicate exoplanets, and iteratively narrowing down a list of candidates. “I didn’t take the models’ first answers,” he told Gizmodo. “I pushed them, round after round, to improve their own methods, and checked what they gave me against other models. “I decided which tests to run, judged whether a result was strong enough, and chose what to keep.”
+He eventually homed
+in on TIC 4206066, a star a little smaller than our own Sun and located roughly 116 light-years from Earth. The measurements were unmistakable: an ever-so-slight dip in the star’s brightness every 3.18 Earth days.
+© Pavel Rabtsevich
+Intrigued but unconvinced, he went deeper into the TESS data, pulling the star’s measurements from 2020 and 2018. Sure enough, the same dips in the star’s brightness appeared in the datasets for both years, at the same frequency.
+© Pavel Rabtsevich
+All the evidence was pointing to the possible presence of an unidentified exoplanet, which he calculated would be just a little over 1.4 times bigger than Earth. With its full solar year lasting just a little over three Earth days, Rabtsevich predicts its surface temperature would be around 1,000 degrees Fahrenheit, significantly hotter than that of Mercury—the planet nearest our Sun—and hot enough to melt lead. (His AI-assisted digging also revealed another dimming pattern for the same star, once every 11.13 Earth days, which could be caused by a second previously unknown exoplanet, but Rabtsevich considers the evidence for that one less convincing than the other.)
+He ran a total of seventy-four tests with Claude Code, trying to disprove his hypothesis. In one, he gave the agent two of the TESS datasets and asked it to predict when the dimming would occur in the third. Its predictions were correct in all three cases.
+Rabtsevich submitted that report to MIT, requesting that TESS be positioned to observe TIC-4206066 and its possible exoplanet the next time the telescope is scheduled to focus on that sector of space. It was approved. From October 31 to November 26, the telescope will measure the star’s brightness every two minutes. Earlier this week, Rabtsevich publicly
+posted the times
+when the star should dim during that observation period, if there is indeed an exoplanet making regular transits across it.
+“If the star dims on time in November, this gets a lot more serious,” he wrote in an
+X post
+outlining his findings
+. “If it doesn’t, I’ll post that too.”
+The discovery of exoplanets is nothing new: astronomers have already cataloged
+more than 6,400
+. Some (like our own) orbit a star, while other so-called “rogue planets” drift aimlessly through the cosmos untethered to any gravitational center, honoring the Greek root of the word “planet,” which means “to wander.” Billions of exoplanets are believed to still be out there awaiting discovery. In its eight years of scanning the night sky, TESS has already identified more than 1,000 exoplanet candidates that were subsequently confirmed by astronomers in the lab.
+Observing subtle changes in luminosity across such vast cosmic distances leaves plenty of room for error. Binary star systems, for example, can be easily mistaken for an exoplanet passing in front of a star. “The biggest challenge with confirming planets is that we have to rule out false-positive scenarios,” says Kevin Hardegree-Ullman, a research scientist at the NASA Exoplanet Science Institute (NExScI). “This is difficult because: (1) there are just so many candidates… (2) we have limited telescopes… and we are generally competing with all other astronomers for time on these… and (3) some targets are not amenable to follow-up measurements with current telescopes (e.g., they are too faint to get a good signal other than a transit-like event).”
+AI, with its superhuman ability to parse through galactic quantities of data, could be a gamechanger—at least when it comes to detecting exoplanet candidates. “Without these tools I couldn’t have processed a data set this size and carried it through to a result,” said Rabtsevich. “Even a couple of years ago my job meant building endless spreadsheets and grinding through data sets, and that ate up a huge amount of time. Here, a search I planned went through 126,000 stars, and then dozens of tests ran on a single one, in about two weeks.”
+An AI model NASA deployed a little under a year ago, which was designed to comb through data from the TESS telescope, has already identified around
+7,000
+exoplanets. And since tools like Claude Code and Codex are publicly available, they could also democratize the discovery process beyond the scientific establishment and among amateur astronomers like Rabtsevich. “AI tools won’t necessarily be helpful in the process of confirming planets,” says Kevin Hardegree-Ullman, “but [they] will likely continue to be used to string together publicly available code to help search for planets and run them through the basic vetting processes… ”
+Subscribe to our daily AI newsletter
+The 5-minute AI newsletter.
+The stories that matter, in your inbox every weekday morning.
+Subscribe Now
+Rabtsevich is careful to emphasize that correlation does not necessarily equal causation: the pattern he detected in his AI-assisted investigation may turn out to be rooted in something other than an exoplanet. Regardless of what TESS observations of TIC 4206066 yield starting on the 31st, he’s been happy to see that his findings have catalyzed some interest among fellow amateur astronomers. “Since my [X] post, I’ve seen a lot of people start searching TESS data for planets themselves,” he said. “I hope that enthusiasm comes with careful checks, so professional astronomers aren’t left sorting through poorly vetted signals.”
+Others are just relieved to finally be
+seeing a conversation about AI that’s unrelated to doom, gloom, or slop: “There is an awful lot of absolute shite made with the use of AI,” a Redditor wrote in response to Rabtsevich’s
+post
+about his findings in a Claude subreddit. “But this… this is fucking incredible. Well done.”
+Explore more on these topics
+AI
+Amateur astronomy
+Anthropic
+claude code
+codex
+NASA
+OpenAI
+Show more
+Share this story
+Copied!
+Follow Us
+Add Gizmodo on Google
+Sign up for our newsletters
+Subscribe and interact with our community, get up to date with our customised Newsletters and much more.
+Gizmodo
+io9
+Earther
+The Next Interface
+Subscribe now
+Leave this field empty if you're human:
+The Best Tech Gifts of 2026
+Latest news
+Nov 23
+11:36 pm
+The Jensen Huang Affair Tally Is Reportedly Up to at Least Four
+Nov 23
+11:25 pm
+No Need to Buy LEGO’s $800 Millennium Falcon, the Shelf-Size Version Just Hit Its Lowest Price Ever
+Nov 23
+11:10 pm
+Your Laptop Can Have 3 Screens Now, This Fold-Out Extender With Two 15.6-Inch Displays Just Got Cheaper in Amazon
+Nov 23
+10:55 pm
+Amazon Wants a Screen on Your Nightstand So Badly It Just Slashed the Echo Show 5’s Price
+Nov 23
+10:40 pm
+Amazon Goes Big on Bose’s Tiniest Speaker (IP67, 12-Hour Battery, Pocket Size), Now 39% Off
+Nov 23
+10:25 pm
+Your 55-Inch TV Budget Now Buys an 85-Inch Samsung Neo QLED, at Its Lowest Price Ever
+Nov 23
+10:10 pm
+Roborock Packed 20,000Pa Into Its Newest Robot Vacuum, and Amazon Just Made It 44% Cheaper
+Nov 23
+10:08 pm
+Don’t Look Now But Anthropic Just Released an ‘I’m Feeling Lucky’ Button for Vibe Coders
+Show All Latest news
+Latest Reviews
+Nov 23
+1:02 pm
+MSI Stealth 16 AI+ (2026) Review: How One Bad Thing Brings Down a Laptop
+Nov 23
+8:30 am
+Raymond Wong’s 8 Most Underrated Tech Gifts of 2026
+Nov 22
+8:30 am
+Anker Solix S5000 Review: The Little Big Battery to Beat
+Nov 20
+12:30 pm
+RayNeo IO Review: Just so You Know, My Smart Glasses Are Listening
+Nov 20
+8:00 am
+The Best Gifts for the Glamper in Your Life
+Nov 19
+8:30 am
+The Best Gaming Gifts of 2026
+Nov 17
+2:32 pm
+Xbox Nano Controller Review: Somehow the Most Comfortable Portable Gamepad
+Nov 17
+9:00 am
+Xreal Aura Review: It’s Almost Time to Turn the Page on VR Headsets… Almost
+Show All Latest Reviews
+Related Articles
+The Best Tech Gifts of 2026
+Let's get everyone you love a gadget they'll love.
+Gift Guide
+Raymond Wong, Kyle Barr, James Pero, and Matt Wille
+Nov 16
+Don’t Look Now But Anthropic Just Released an ‘I’m Feeling Lucky’ Button for Vibe Coders
+Just when you thought coding wasn't automated enough...
+Artificial Intelligence
+Mike Pearl
+Nov 23
+Banks Are Getting Scared of AI Agents, Including Their Own
+Major U.S. banks are tightening security controls over their internal AI agents while also warning customers about the risks of using third-party agents.
+Artificial Intelligence
+Bruce Gil
+Nov 23
+The Single Most Important Line From Nvidia’s Statement About Jensen Huang’s Return
+The company’s board voted unanimously to oust its CEO, and rejected widespread calls for his return. Then it got a call from the president of the United States.
+Artificial Intelligence
+Webb Wright
+Nov 23
+Two NASA Mars Missions Glitched Out Within Days of Each Other, Putting Science on Pause
+NASA's Perseverance rover and Mars Odyssey orbiter are experiencing unrelated technical issues.
+Space & Spaceflight
+Passant Rabie
+Nov 23
+Nothing’s Mysterious AI Device Is a Pair of Note-Taking Wireless Earbuds
+The "Ear Note," as it's reportedly called, is a pair of AI earbuds, and it's coming soon.
+Gadgets
+James Pero
+Nov 23
+©2026 GIZMODO USA LLC.
+All rights reserved.
+𝕏
+About Us
+Other editions
+Deutsch
+Español
+Français
+Italiano
+Português
+Jobs
+Product Review
+Newsletters
+Your Privacy Choices
+Privacy Policy
+Terms of Use
+Accessibility
+Advertising & Licensing
+𝕏
+We may earn a commission when you buy through links on our sites.
+Search
+Sign up for our newsletters
+Latest
+Tech News
+Artificial Intelligence
+Commerce
+Crime
+Cryptocurrencies
+Culture
+Gadgets
+Internet
+Politics
+Privacy & Security
+Robots
+Social Media
+Sploid
+Tech Policy
+Transportation
+Reviews
+Gift Guide
+Smartphones
+Laptops
+Headphones
+Gaming
+Home Entertainment & Smart Home
+Other Gadgets
+Accessories & Wearables
+Desktops
+Tablets
+Best Gadgets
+Deals
+Buying Guides
+Science
+Biology
+Health
+Human History
+Physics & Chemistry
+Space & Spaceflight
+Earther
+Climate Change
+Conservation
+Earth Science
+Energy
+Environmental Justice
+io9
+io9 Reviews
+Movies
+Trailers
+Television
+Books & Comics
+Anime
+Toys & Collectibles
+Games
+Corporate Culture
+Theme Parks & Destinations
+Videos
+Software
+Best VPN
+Free VPN
+Cheap VPN
+NordVPN Review
+ExpressVPN Review
+Best eSIM
+Cloud Storage
+Free Cloud Storage
+Web Hosting
+Hostinger Review
+Best Antivirus
+Download Hub
+About Us
+Other editions
+Deutsch
+Español
+Français
+Italiano
+Português
+Jobs
+Product Review
+Newsletters
+Your Privacy Choices
+Privacy Policy
+Terms of Use
+Accessibility
+Advertising & Licensing
+𝕏
+Bookmarks
+Cookies settings

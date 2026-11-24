@@ -1,0 +1,1815 @@
+# SOURCE: src-wiki-red-team
+# url: https://en.wikipedia.org/wiki/Red_team
+# final_url: https://en.wikipedia.org/wiki/Red_team
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:54+13:00
+# title: Red team - Wikipedia
+# raw_sha256: 597a8481685f837c7953eb1b7fffd970a2d3ceaa0cd7921048cf5d0b51f98b34
+# raw_file: src-wiki-red-team.raw.html
+# tool: created-tools/save_source.py
+
+Red team - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+History
+2
+Cybersecurity
+Toggle Cybersecurity subsection
+2.1
+Terminology
+2.2
+Attack
+2.3
+Defense
+2.4
+Managing a red team
+3
+Physical intrusion
+Toggle Physical intrusion subsection
+3.1
+Reconnaissance
+3.2
+Infiltration
+3.2.1
+Preparation
+3.2.2
+Approach
+3.2.3
+Entering the facility
+3.2.4
+Inside the facility
+3.2.5
+Exiting the facility
+4
+Users
+Toggle Users subsection
+4.1
+Companies and organizations
+4.2
+Intelligence agencies
+4.3
+Militaries
+4.4
+Airport security
+5
+See also
+6
+References
+7
+Bibliography
+8
+Further reading
+Toggle the table of contents
+Red team
+17 languages
+العربية
+Azərbaycanca
+کوردی
+Deutsch
+Español
+فارسی
+Suomi
+Français
+Italiano
+日本語
+한국어
+Nederlands
+Polski
+Português
+Türkçe
+Українська
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Save
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+Save
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Group that infiltrates its own institution to provide security and vulnerability feedback
+For the CPU and GPU company nicknamed "the red team", see
+AMD
+. For a focused team of technical specialists, see
+Tiger team
+. For other uses, see
+Red Team
+.
+Part of a series on
+Hacking
+History
+Phreaking
+Cryptovirology
+Hacking of consumer electronics
+List of hackers
+Hacker culture
+and
+ethic
+Hackathon
+"
+Hacker Manifesto
+"
+Hackerspace
+Hacktivism
+Maker culture
+Types of
+hackers
+Black hat
+Grey hat
+White hat
+Conferences
+Black Hat
+Chaos Communication Congress
+DEF CON
+Hackers on Planet Earth
+Security BSides
+ShmooCon
+Summercon
+Cybercrime
+List of cybercriminals
+Script kiddie
+Black hat
+Hacking tools
+Exploit
+forensics-focused operating systems
+Payload
+Social engineering
+Vulnerability
+Practice sites
+HackThisSite
+Zone-H
+Malware
+Rootkit
+Backdoor
+Trojan horse
+Virus
+Worm
+Spyware
+Ransomware
+Logic bomb
+Botnet
+Keystroke logging
+HIDS
+Web shell
+RCE
+Infostealer
+Cybersecurity
+domains
+Application security
+Cloud computing security
+Cryptography
+Data security
+Digital forensics
+Governance, risk, and compliance
+Identity and access management
+Network security
+OT/ICS security
+Penetration test
+Security operations
+Threat intelligence
+Groups
+Generic
+Red team
+Blue team
+Current
+Anonymous
+Chaos Computer Club
+Defunct
+Homebrew Computer Club
+Legion of Doom
+LulzSec
+Masters of Deception
+Publications
+2600: The Hacker Quarterly
+Hacker News
+Nuts and Volts
+Phrack
+v
+t
+e
+A
+red team
+is a group that simulates an adversary, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses. Red teams work for the organization or are hired by the organization. Their work is legal, but it can surprise some employees who may not know that red teaming is occurring, or who may be deceived by the red team. Some definitions of red team are broader, and they include any group within an organization that is directed to think outside the box and look at alternative scenarios that are considered less plausible. This directive can be an important defense against false assumptions and
+groupthink
+. The term
+red teaming
+originated in the 1960s in the United States.
+Technical red teaming focuses on compromising networks and computers digitally. There may also be a
+blue team
+, a term for
+cybersecurity
+employees who are responsible for defending an organization's networks and computers against attack. In technical red teaming, attack vectors are used to gain access, and then reconnaissance is performed to discover more devices to potentially compromise. Credential hunting involves scouring a computer for credentials such as passwords and session
+cookies
+, and once these are found, can be used to compromise additional computers. During intrusions from third parties, a red team may team up with the blue team to assist in defending the organization.
+Rules of engagement
+and
+standard operating procedures
+are often utilized to ensure that the red team does not cause damage during their exercises.
+Physical red teaming focuses on sending a team to gain entry to restricted areas. This is done to test and optimize physical security such as fences, cameras, alarms, locks, and employee behavior. As with technical red teaming, rules of engagement are used to ensure that red teams do not cause excessive damage during their exercises. Physical red teaming will often involve a reconnaissance phase where information is gathered and weaknesses in security are identified, and then that information will be used to conduct an operation (typically at night) to gain physical entry to the premises. Security devices will be identified and defeated using tools and techniques. Physical red teamers will be given specific objectives such as gaining access to a server room and taking a portable hard drive, or gaining access to an executive's office and taking confidential documents.
+Red teams are used in several fields, including
+cybersecurity
+,
+airport security
+,
+law enforcement
+, the
+military
+, and
+intelligence agencies
+. In the
+United States government
+, red teams are used by the
+Army
+,
+Marine Corps
+,
+Department of Defense
+,
+Federal Aviation Administration
+, and
+Transportation Security Administration
+.
+History
+[
+edit
+]
+The concept of red teaming and blue teaming emerged in the early 1960s. One early example of red teaming involved the think tank
+RAND Corporation
+, which did simulations for the
+United States military
+during the
+Cold War
+. "Red team" and the color red were used to represent the
+Soviet Union
+, and "blue team" and the color blue were used to represent the United States.
+[
+1
+]
+Another early example involved
+United States Secretary of Defense
+Robert McNamara
+, who assembled a red team and a blue team to explore which government contractor should be awarded an experimental aircraft contract.
+[
+1
+]
+Another early example modeled negotiating an
+arms control treaty
+and evaluating its effectiveness.
+[
+1
+]
+Red teams are sometimes associated with "contrarian thinking" and fighting groupthink, the tendency of groups to make and keep assumptions even in the face of evidence to the contrary. One example of a group that was not called a red team, but that arguably was one of the earliest examples of forming a group to fight groupthink, is the Israeli
+Ipcha Mistraba
+that was formed after Israeli decision-making failures during the
+Yom Kippur War
+in 1973. The attack against Israel nearly took Israel by surprise despite ample evidence of an impending attack, and almost resulted in Israel's defeat. Ipcha Mistabra was formed after the war, and given the duty of always presenting a contrarian, unexpected, or unorthodox analysis of foreign policy and intelligence reports, so that things would be less likely to be overlooked going forward.
+[
+2
+]
+In the early 2000s, there are examples of red teams being used for
+tabletop exercises
+. A tabletop exercise is often used by first responders and involves acting out and planning for worst-case scenarios, similar to playing a tabletop
+board game
+. In response to the
+September 11 attacks
+, with anti-terrorism in mind, the
+Central Intelligence Agency
+created a new
+Red Cell
+,
+[
+3
+]
+and red teams were used for modeling responses to
+asymmetric warfare
+such as
+terrorism
+.
+[
+4
+]
+In response to the failures of the
+Iraq War
+, red teaming became more common in the
+United States Army
+.
+[
+5
+]
+Over time, the practice of red teaming expanded to other industries and organizations, including corporations, government agencies, and non-profit organizations. The approach has become increasingly popular in the world of cybersecurity, where red teams are used to simulate real-world attacks on an organization's digital infrastructure and test the effectiveness of their cybersecurity measures,
+[
+6
+]
+and is progressing into the analysis of generative AI technologies such as LLMs.
+[
+7
+]
+Cybersecurity
+[
+edit
+]
+Technical red teaming
+involves testing the
+digital security
+of an organization by attempting to infiltrate their computer systems digitally.
+Terminology
+[
+edit
+]
+A
+blue team
+is a group in charge of defending against intrusions.
+Further information:
+Blue team (computer security)
+In
+cybersecurity
+, a
+penetration test
+involves
+ethical hackers
+("pen testers") attempting to break into a computer system, with no element of surprise. The organization is aware of the penetration test and is ready to mount a defense.
+[
+8
+]
+A
+red team
+goes a step further, and adds physical penetration,
+social engineering
+, and an element of surprise. The blue team is given no advance warning of a red team, and will treat it as a real intrusion.
+[
+8
+]
+One role of a permanent, in-house red team is to improve the security culture of the organization.
+[
+9
+]
+A
+purple team
+is the temporary combination of both teams and can provide rapid information responses during a test.
+[
+10
+]
+[
+11
+]
+One advantage of purple teaming is that the red team can launch certain attacks repeatedly, and the blue team can use that to set up detection software, calibrate it, and steadily increase detection rate.
+[
+12
+]
+Purple teams may engage in "threat hunting" sessions, where both the red team and the blue team look for real intruders. Involving other employees in the purple team is also beneficial, for example software engineers who can help with logging and software alerts, and managers who can help identify the most financially damaging scenarios.
+[
+13
+]
+One danger of purple teaming is complacence and the development of
+groupthink
+, which can be combatted by hiring people with different skillsets or hiring an external vendor.
+[
+14
+]
+A
+white team
+is a group that oversees and manages operations between red teams and blue teams. For example, this may be a company's managers that determine the rules of engagement for the red team.
+[
+15
+]
+Attack
+[
+edit
+]
+The initial entry point of a red team or an adversary is called the beachhead. A mature blue team is often adept at finding the beachhead and evicting attackers. A role of the red team is to increase the skills of the blue team.
+[
+16
+]
+When infiltrating, there is a stealthy "surgical" approach that stays under the radar of the blue team and requires a clear objective, and a noisy "carpet bombing" approach that is more like a brute force attack. Carpet bombing is often the more useful approach for red teams, because it can discover unexpected vulnerabilities.
+[
+17
+]
+There are a variety of cybersecurity threats. Threats may range from something traditional such as hacking the network's
+domain controller
+, or something less orthodox such as setting up
+cryptocurrency mining
+, or providing too much employee access to
+personally identifiable information
+(PII) which opens the company up to
+General Data Protection Regulation
+(GDPR) fines.
+[
+18
+]
+Any of these threats can be red teamed, in order to explore how severe the issue is. Tabletop exercises, where intrusions are acted out over a tabletop similar to how one would play a board game, can be used to simulate intrusions that are too expensive, too complicated, or illegal to execute live.
+[
+19
+]
+It can be useful to attempt intrusions against the red team and the blue team, in addition to more traditional targets.
+[
+20
+]
+An example of a
+graph database
+. For red teams, this software can be used to create a map of an infiltrated network. Nodes (the circles) are commonly computers, users, or permission groups.
+Once access to a network is achieved, reconnaissance can be conducted. The data gathered can be placed in a
+graph database
+, which is software that visually plots nodes, relationships, and properties. Typical nodes might be computers, users, or permission groups.
+[
+21
+]
+Red teams will usually have very good graph databases of their own organization, because they can utilize
+home-field advantage
+, including working with the blue team to create a thorough map of the network, and a thorough list of users and administrators.
+[
+22
+]
+A
+query language
+such as
+Cypher
+can be used to create and modify graph databases.
+[
+23
+]
+Any type of administrator account is valuable to place in the graph database, including administrators of third-party tools such as
+Amazon Web Services
+(AWS).
+[
+24
+]
+Data can sometimes be exported from tools and then inserted into the graph database.
+[
+25
+]
+Once the red team has compromised a computer, website, or system, a powerful technique is
+credential
+hunting. These can be in the form of clear text
+passwords
+,
+ciphertext
+,
+hashes
+, or
+access tokens
+. The red team gets access to a computer, looks for credentials that can be used to access a different computer, then this is repeated, with the goal of accessing many computers.
+[
+26
+]
+Credentials can be stolen from many locations, including files,
+source code repositories
+such as
+Git
+,
+computer memory
+, and tracing and logging software. Techniques such as
+pass the cookie
+and pass the hash can be used to get access to websites and machines without entering a password. Techniques such as
+optical character recognition
+(OCR), exploiting
+default passwords
+, spoofing a credential prompt, and
+phishing
+can also be used.
+[
+27
+]
+The red team can utilize
+computer programming
+and
+command-line interface
+(CLI) scripts to automate some of their tasks. For example, CLI scripts can utilize the
+Component Object Model
+(COM) on
+Microsoft Windows
+machines in order to automate tasks in
+Microsoft Office
+applications. Useful tasks might include sending emails, searching documents, encrypting, or retrieving data. Red teams can take control of a browser using
+Internet Explorer
+'s COM,
+Google Chrome
+'s remote debugging feature, or the testing framework
+Selenium
+.
+[
+28
+]
+Defense
+[
+edit
+]
+During a real intrusion, the red team can be repurposed to work with the blue team to help with defense. Specifically, they can provide analysis of what the intruders will likely try to do next. During an intrusion, both the red team and the blue team have a home-field advantage because they are more familiar with the organization's networks and systems than the intruder.
+[
+12
+]
+A network
+firewall
+(pictured) can be used to limit access to a private network from the wider
+Internet
+. A software firewall, such as a firewall built into a computer's
+operating system
+, can be used to limit remote access to that computer.
+An organization's red team may be an attractive target for real attackers. Red team member's machines may contain sensitive information about the organization. In response, red team member's machines are often secured.
+[
+29
+]
+Techniques for securing machines include configuring the operating system's
+firewall
+, restricting
+Secure Shell
+(SSH) and
+Bluetooth
+access, improving logging and alerts, securely deleting files, and encrypting hard drives.
+[
+30
+]
+One tactic is to engage in "active defense", which involves setting up decoys and
+honeypots
+to help track the location of intruders.
+[
+31
+]
+These honeypots can help alert the blue team to a network intrusion that might otherwise have gone undetected. Various software can be used to set up a honeypot file depending on the operating system: macOS tools include OpenBMS, Linux tools include auditd plugins, and Windows tools include System Access Control Lists (SACL). Notifications can include popups, emails, and writing to a log file.
+[
+32
+]
+Centralized monitoring, where important log files are quickly sent to logging software on a different machine, is a useful network defense technique.
+[
+33
+]
+Managing a red team
+[
+edit
+]
+The use of
+rules of engagement
+can help to delineate which systems are off-limits, prevent security incidents, and ensure that employee privacy is respected.
+[
+34
+]
+The use of a
+standard operating procedure
+(SOP) can ensure that the proper people are notified and involved in planning, and improve the red team process, making it mature and repeatable.
+[
+35
+]
+Red team activities typically have a regular rhythm.
+[
+36
+]
+A
+security operations center
+(SOC) at the University of Maryland
+Tracking certain metrics or key
+performance indicators
+(KPIs) can help to make sure a red team is achieving the desired output. Examples of red team KPIs include performing a certain number of penetration tests per year, or by growing the team by a certain number of pen testers within a certain time period. It can also be useful to track the number of compromised machines, compromisable machines, and other metrics related to infiltration. These statistics can be graphed by day and placed on a dashboard displayed in the
+security operations center
+(SOC) to provide motivation to the blue team to detect and close breaches.
+[
+37
+]
+In order to identify worst offenders, compromises can be graphed and grouped by where in the software they were discovered, company office location, job title, or department.
+[
+38
+]
+Monte Carlo simulations
+can be used to identify which intrusion scenarios are most likely, most damaging, or both.
+[
+39
+]
+A Test Maturity Model, a type of
+Capability Maturity Model
+, can be used to assess how mature a red team is, and what the next step is to grow.
+[
+40
+]
+The
+MITRE ATT&CK
+Navigator, a list of
+tactics, techniques, and procedures
+(TTPs) including
+advanced persistent threats
+(APTs), can be consulted to see how many TTPs a red team is exploiting, and give additional ideas for TTPs to utilize in the future.
+[
+41
+]
+Physical intrusion
+[
+edit
+]
+Physical red teaming
+or physical penetration testing
+[
+42
+]
+involves testing the physical security of a facility, including the security practices of its employees and security equipment. Examples of security equipment include
+security cameras
+,
+locks
+, and
+fences
+. In physical red teaming, computer networks are not usually the target.
+[
+43
+]
+Unlike cybersecurity, which typically has many layers of security, there may only be one or two layers of physical security present.
+[
+44
+]
+Having a "rules of engagement" document that is shared with the client is helpful, to specify which TTPs will be used, what locations may be targeted, what may not be targeted, how much damage to equipment such as locks and doors is permitted, what the plan is, what the milestones are, and sharing contact information.
+[
+45
+]
+[
+46
+]
+The rules of engagement may be updated after the reconnaissance phase, with another round of back and forth between the red team and the client.
+[
+47
+]
+The data gathered during the reconnaissance phase can be used to create an operational plan, both for internal use, and to send to the client for approval.
+[
+48
+]
+Reconnaissance
+[
+edit
+]
+Two-way radios
+and earpieces are sometimes used by physical red teams conducting operations at night. Something less conspicuous such as Bluetooth earbuds may be preferred during the day.
+Part of physical red teaming is performing reconnaissance.
+[
+49
+]
+The type of reconnaissance gathered usually includes information about people, places, security devices, and weather.
+[
+50
+]
+Reconnaissance has a military origin, and military reconnaissance techniques are applicable to physical red teaming. Red team reconnaissance equipment might include military clothing since it does not rip easily, red lights to preserve night vision and be less detectable, radios and earpieces, camera and tripod, binoculars, night vision equipment, and an all-weather notebook.
+[
+51
+]
+Some methods of field communication include a Bluetooth earpiece dialed into a cell phone conference call during the day, and
+two-way radios
+with earpieces at night.
+[
+52
+]
+In case of compromise, red team members often carry identification and an authorization letter with multiple after-hours contacts who can vouch for the legality and legitimacy of the red team's activities.
+[
+53
+]
+Before physical reconnaissance occurs,
+open-source intelligence
+(OSINT) gathering can occur by researching locations and staff members via the Internet, including the company's website, social media accounts, search engines, mapping websites, and job postings (which give hints about the technology and software the company uses).
+[
+54
+]
+It is a good practice to do multiple days of reconnaissance, to reconnoiter both during the day and at night, to bring at least three operators, to utilize a nearby staging area that is out of sight of the target, and to do reconnaissance and infiltration as two separate trips rather than combining them.
+[
+55
+]
+Recon teams can use techniques to conceal themselves and equipment. For example, a passenger van can be rented and the windows can be blacked out to conceal photography and videography of the target.
+[
+56
+]
+Examining and videoing the locks of a building during a walk-around can be concealed by the recon pretending to be on the phone.
+[
+57
+]
+In the event of compromise, such as employees becoming suspicious, a story can be rehearsed ahead of time until it can be recited confidently. If the team has split up, the compromise of one operator can result in the team leader pulling the other operators out.
+[
+58
+]
+Concealed video cameras can be used to capture footage for later review, and debriefs can be done quickly after leaving the area so that fresh information is quickly documented.
+[
+59
+]
+Infiltration
+[
+edit
+]
+Most physical red team operations occur at night, due to reduced security of the facility and so that darkness can conceal activities.
+[
+60
+]
+An ideal infiltration is usually invisible both outside the facility (the approach is not detected by bystanders or security devices) and inside the facility (no damage is done and nothing is bumped or left out of place), and does not alert anyone that a red team was there.
+[
+61
+]
+Preparation
+[
+edit
+]
+The use of a load out list can help ensure that important red team equipment is not forgotten.
+[
+62
+]
+The use of military equipment such as
+MOLLE
+vests and small tactical bags can provide useful places to store tools, but has the downsides of being conspicuous and increasing encumbrance.
+[
+63
+]
+Black clothing or dark camouflage can be helpful in rural areas, whereas street clothes in shades of gray and black may be preferred in urban areas.
+[
+64
+]
+Other urban disguise items include a laptop bag, or a pair of headphones around the neck. Various types of shoe coverings can be used to minimize footprints both outdoors and indoors.
+[
+65
+]
+Approach
+[
+edit
+]
+Light discipline (keeping lights from vehicles, flashlights, and other tools to a minimum) reduces the chance of compromise.
+[
+60
+]
+Some tactics of light discipline include using red flashlights, using only one vehicle, and keeping the vehicle's headlights off.
+[
+60
+]
+Sometimes there are security changes between reconnaissance and infiltration, so it is a good practice for teams that are approaching a target to "assess and acclimate", to see if any new security measures can be seen.
+[
+44
+]
+Compromises during infiltration are most likely to occur during the approach to the facility.
+[
+66
+]
+Employees, security, police, and bystanders are the most likely compromise a physical red team.
+[
+67
+]
+Bystanders are rarer in rural areas, but also much more suspicious.
+[
+68
+]
+Proper movement can help a red team avoid being spotted while approaching a target, and may include rushing, crawling, avoiding silhouetting when on hills, walking in formations such as single file, and walking in short bursts then pausing.
+[
+69
+]
+The use of hand signals may be used to reduce noise.
+[
+70
+]
+Entering the facility
+[
+edit
+]
+Lock picking
+is regarded by some physical red teams as an inferior method of bypassing locks, due to the noise and time it takes compared to using lower skill attacks such as
+shims
+.
+Common security devices include doors, locks, fences, alarms, motion sensors, and ground sensors. Doors and locks are often faster and quieter to bypass with tools and
+shims
+, rather than
+lock picking
+.
+[
+71
+]
+RFID locks
+are common at businesses, and covert RFID readers combined with social engineering during reconnaissance can be used to duplicate an authorized employee's badge.
+[
+72
+]
+Barbed wire on fences can be bypassed by placing a thick blanket over it.
+[
+73
+]
+Anti-climb fences can be bypassed with ladders.
+[
+74
+]
+Alarms can sometimes be neutralized with a
+radio jammer
+that targets the frequencies that alarms use for their internal and external communications.
+[
+75
+]
+Motion sensors can be defeated with a special body-sized shield that blocks a person's heat signature.
+[
+76
+]
+Ground sensors are prone to false positives, which can lead security personnel to not trust them or ignore them.
+[
+77
+]
+Inside the facility
+[
+edit
+]
+Once inside, if there is suspicion that the building is occupied, disguising oneself as a cleaner or employee using the appropriate clothing is a good tactic.
+[
+78
+]
+Noise discipline is often important once inside a building, as there are less ambient sounds to mask red team noises.
+[
+79
+]
+A
+server room
+can be an alluring target for red teams. Physical access to a server can help gain entry into secured networks that are otherwise well-protected from digital threats.
+Red teams usually have goal locations selected and tasks pre-planned for each team or team member, such as entering a
+server room
+or an executive's office. However, it can be difficult to figure out a room's location in advance, so this is often figured out on the fly. Reading emergency exit route signs and the use of a watch with a compass can assist with navigating inside of buildings.
+[
+80
+]
+Commercial buildings will often have some lights left on. It is good practice to not turn lights on or off, as this may alert someone. Instead, utilizing already unlit areas is preferred for red team operations, with rushing and freezing techniques to be used to quickly move through illuminated areas.
+[
+81
+]
+Standing full-height in front of windows and entering buildings via lobbies is often avoided due to the risks of being seen.
+[
+82
+]
+A
+borescope
+can be used to peer around corners and under doors, to help spot people, cameras, or motion detectors.
+[
+83
+]
+Once the target room has been reached, if something needs to be found such as a specific document or specific equipment, the room can be divided into sections, with each red team member focusing on a section.
+[
+84
+]
+Passwords are often located under keyboards. Techniques can be used to avoid disturbing the placement of objects in offices such as keyboards and chairs, as adjusting these will often be noticed.
+[
+85
+]
+Lights and locks can be left in their original state of on or off, locked or unlocked.
+[
+86
+]
+Steps can be taken to ensure that equipment is not left behind, such as having a list of all equipment brought in and checking that all items are accounted for.
+[
+87
+]
+It is good practice to radio
+situation reports
+(SITREPs) to the team leader when unusual things happen. The team leader can then decide if the operation should continue, should be aborted, or if a team member should surrender by showing their authorization letter and ID.
+[
+88
+]
+When confronted by civilians such as employees, red team operators can attempt social engineering. When confronted by law enforcement, it is good practice to immediately surrender due to the potential legal and safety consequences.
+[
+89
+]
+Exiting the facility
+[
+edit
+]
+The ideal way to exit a facility is slowly and carefully, similar to how entry was achieved. There is sometimes an urge to rush out after achieving a mission goal, but this is not good practice. Exiting slowly and carefully maintains situational awareness, in case a previously empty area now has someone in it or approaching it.
+[
+90
+]
+While the entrance path is normally taken during exit, a closer or alternative exit can also be used.
+[
+91
+]
+The goal of all team members is to reach the rally point, or possibly a second emergency rally point. The rally point is usually at a different location than the dropoff point.
+[
+92
+]
+Users
+[
+edit
+]
+Companies and organizations
+[
+edit
+]
+Private companies sometimes use red teams to supplement their normal security procedures and personnel. For example,
+Microsoft
+and
+Google
+utilize red teams to help secure their systems.
+[
+93
+]
+[
+94
+]
+Some financial institutions in Europe use the TIBER-EU framework.
+[
+95
+]
+Intelligence agencies
+[
+edit
+]
+Terrorist leader
+Osama Bin Laden
+'s compound in Pakistan. Three red teams were used to review the intelligence that led to the
+killing of Osama bin Laden
+in 2011.
+When applied to intelligence work, red teaming is sometimes called
+alternative analysis
+.
+[
+96
+]
+Alternative analysis involves bringing in fresh analysts to double-check the conclusions of another team, to challenge assumptions and make sure nothing was overlooked. Three red teams were used to review the intelligence that led to the
+killing of Osama bin Laden
+in 2011, including red teams from outside the Central Intelligence Agency, because there were major diplomatic and public relations consequences for launching a military operation into Pakistan, so it was important to double-check the original team's intelligence and conclusions.
+[
+97
+]
+After failures to anticipate the Yom Kippur War, the
+Israeli Defense Forces
+' Intelligence Directorate formed a red team called
+Ipcha Mistabra
+("on the contrary") to re-examine discarded assumptions and avoid complacency.
+[
+2
+]
+The
+North Atlantic Treaty Organization
+(NATO) utilizes alternative analysis.
+[
+98
+]
+Militaries
+[
+edit
+]
+Militaries typically uses red teaming for alternative analysis, simulations, and vulnerability probes.
+[
+99
+]
+In
+military wargaming
+, the
+opposing force
+(OPFOR) in a simulated conflict may be referred to as a Red Cell.
+[
+100
+]
+The key theme is that the adversary (red team) leverages tactics, techniques, and equipment as appropriate to emulate the desired actor. The red team challenges operational planning by playing the role of a mindful adversary.
+The
+United Kingdom Ministry of Defence
+has a red team program.
+[
+101
+]
+Red teams were used in the
+United States Armed Forces
+much more frequently after a 2003
+Defense Science Review Board
+recommended them to help prevent the shortcomings that led to the September 11 attacks. The U.S. Army created the Army Directed Studies Office in 2004. This was the first service-level red team, and until 2011 was the largest in the
+Department of Defense
+(DoD).
+[
+102
+]
+The University of Foreign Military and Cultural Studies provides courses for red team members and leaders. Most resident courses are conducted at
+Fort Leavenworth
+and target students from
+U.S. Army Command and General Staff College
+(CGSC) or equivalent intermediate and senior level schools.
+[
+103
+]
+Courses include topics such as critical thinking, groupthink mitigation, cultural empathy, and self-reflection.
+[
+104
+]
+The Marine Corps red team concept commenced in 2010 when the Commandant of the Marine Corps (CMC) General
+James F. Amos
+attempted to implement it.
+[
+105
+]
+Amos drafted a white paper titled,
+Red Teaming in the Marine Corps
+. In this document, Amos discussed how the concept of the red team needs to challenge the process of planning and making decisions by applying critical thinking from the tactical to strategic level. In June 2013, the Marine Corps staffed the red team billets outlined in the draft white paper. In the Marine Corps, all Marines designated to fill red team positions complete either six-week or nine-week red team training courses provided by the University of Foreign Military and Cultural Studies (UFMCS).
+[
+106
+]
+Red team operatives during a
+United States European Command
+cyber warfare exercise
+The DoD uses cyber red teams to conduct adversarial assessments on their networks.
+[
+107
+]
+These red teams are certified by the
+National Security Agency
+and accredited by the
+United States Strategic Command
+.
+[
+107
+]
+Airport security
+[
+edit
+]
+Red teams are used by some airport security organizations such as the United States Transportation Security Administration to test the accuracy of
+airport screening
+.
+The United States
+Federal Aviation Administration
+(FAA) has been implementing red teams since
+Pan Am Flight 103
+over
+Lockerbie
+,
+Scotland
+, which suffered a terrorist attack in 1988. Red teams conduct tests at about 100 US airports annually. Tests were on hiatus after the September 11 attacks in 2001, and resumed in 2003 under the Transportation Security Administration, who assumed the FAA's aviation security role after 9/11.
+[
+108
+]
+Before the September 11 attacks, FAA use of red teaming revealed severe weaknesses in security at
+Logan International Airport
+in Boston, where two of the four hijacked 9/11 flights originated. Some former FAA investigators who participated on these teams feel that the FAA deliberately ignored the results of the tests, and that this resulted in part in the
+9/11 terrorist attack on the US
+.
+[
+109
+]
+The United States Transportation Security Administration has used red teaming in the past. In one red team operation, undercover agents were able to fool Transportation Security Officers and bring weapons and fake explosives through security 67 out of 70 times in 2015.
+[
+110
+]
+See also
+[
+edit
+]
+Black hat (computer security)
+Blue team (computer security)
+Eligible Receiver 97
+Exploit (computer security)
+Grey hat
+Groupthink
+Hacker (computer security)
+Hacker ethic
+IT risk
+Metasploit
+Murder board
+Vulnerability (computing)
+White hat (computer security)
+Wireless identity theft
+References
+[
+edit
+]
+1
+2
+3
+Zenko, p. 56
+1
+2
+Hoffman, p. 37
+↑
+Hoffman, p. 39
+↑
+Zenko, p. 57
+↑
+Hoffman, p. 32
+↑
+"What is red teaming?"
+.
+WhatIs.com
+. Retrieved
+May 14,
+2023
+.
+↑
+Inie, Nanna (2025).
+"Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming"
+.
+PLOS ONE
+.
+20
+(1) e0314658.
+arXiv
+:
+2311.06237
+.
+Bibcode
+:
+2025PLoSO..2014658I
+.
+doi
+:
+10.1371/journal.pone.0314658
+.
+PMC
+11734899
+.
+PMID
+39813184
+.
+1
+2
+"Penetration Testing Versus Red Teaming: Clearing the Confusion"
+.
+Security Intelligence
+. Retrieved
+December 23,
+2020
+.
+↑
+Rehberger, p. 3
+↑
+"The Difference Between Red, Blue, and Purple Teams"
+.
+Daniel Miessler
+. Retrieved
+April 3,
+2022
+.
+↑
+"What is Purple Teaming? How Can it Strengthen Your Security?"
+.
+Redscan
+. September 14, 2021
+. Retrieved
+April 3,
+2022
+.
+1
+2
+Rehberger, p. 66
+↑
+Rehberger, p. 68
+↑
+Rehberger, p. 72
+↑
+"White Team – Glossary | CSRC"
+.
+National Institute of Standards and Technology
+,
+United States Department of Commerce
+. Retrieved
+May 23,
+2023
+.
+↑
+Rehberger, pp. 40–41
+↑
+Rehberger, p. 44
+↑
+Rehberger, p. 117
+↑
+Rehberger, p. 132
+↑
+Rehberger, p. 127
+↑
+Rehberger, p. 140
+↑
+Rehberger, p. 138
+↑
+Rehberger, p. 165
+↑
+Rehberger, p. 178
+↑
+Rehberger, p. 180
+↑
+Rehberger, p. 203
+↑
+Rehberger, p. 245
+↑
+Rehberger, p. 348
+↑
+Rehberger, p. 70
+↑
+Rehberger, p. 349
+↑
+Rehberger, pp. 70–71
+↑
+Rehberger, p. 447
+↑
+Rehberger, p. 473
+↑
+Rehberger, p. 23
+↑
+Rehberger, p. 26
+↑
+Rehberger, p. 73
+↑
+Rehberger, pp. 93–94
+↑
+Rehberger, pp. 97–100
+↑
+Rehberger, p. 103
+↑
+Rehberger, p. 108
+↑
+Rehberger, p. 111
+↑
+Talamantes, pp. 24–25
+↑
+Talamantes, pp. 26–27
+1
+2
+Talamantes, p. 153
+↑
+Talamantes, p. 41
+↑
+Talamantes, p. 48
+↑
+Talamantes, p 110
+↑
+Talamantes, pp. 112–113
+↑
+Talamantes, p. 51
+↑
+Talamantes, p. 79
+↑
+Talamantes, pp. 58–63
+↑
+Talamantes, p. 142
+↑
+Talamantes, pp. 67–68
+↑
+Talamantes, p. 83
+↑
+Talamantes, pp. 72–73
+↑
+Talamantes, pp. 89–90
+↑
+Talamantes, p. 98
+↑
+Talamantes, pp. 100–101
+↑
+Talamantes, p. 102
+1
+2
+3
+Talamantes, p. 126
+↑
+Talamantes, p. 136
+↑
+Talamantes, p. 137
+↑
+Talamantes, pp. 133–135
+↑
+Talamantes, p. 131
+↑
+Talamantes, p. 287
+↑
+Talamantes, p. 160
+↑
+Talamantes, p. 173
+↑
+Talamantes, p. 169
+↑
+Talamantes, pp. 183–185
+↑
+Talamantes, p. 186
+↑
+Talamantes, p. 215
+↑
+Talamantes, p. 231
+↑
+Talamantes, p. 202
+↑
+Talamantes, p. 201
+↑
+Talamantes, p. 213
+↑
+Talamantes, p. 208
+↑
+Talamantes, p. 199
+↑
+Talamantes, p. 238
+↑
+Talamantes, p. 182
+↑
+Talamantes, pp. 242–243
+↑
+Talamantes, p. 247
+↑
+Talamantes, p. 246
+↑
+Talamantes, p. 249
+↑
+Talamantes, p. 253
+↑
+Talamantes, p. 284
+↑
+Talamantes, p. 286
+↑
+Talamantes, p. 296
+↑
+Talamantes, p. 266
+↑
+Talamantes, p. 267
+↑
+Talamantes, p. 272
+↑
+Talamantes, p. 273
+↑
+Talamantes, p. 274
+↑
+"Microsoft Enterprise Cloud Red Teaming"
+(PDF)
+.
+Microsoft.com
+.
+↑
+"Google's hackers: Inside the cybersecurity red team that keeps Google safe"
+.
+ZDNET
+. Retrieved
+June 2,
+2023
+.
+↑
+European Central Bank (March 23, 2023).
+What is TIBER-EU?
+(Report).
+↑
+Mateski, Mark (June 2009).
+"Red Teaming: A Short Introduction (1.0)"
+(PDF)
+.
+RedTeamJournal.com
+. Retrieved
+July 19,
+2011
+.
+{{
+cite web
+}}
+: CS1 maint: deprecated archival service (
+link
+)
+↑
+Zenko, pp. 127–128
+↑
+The NATO Alternative Analysis Handbook
+(PDF)
+(2nd
+ed.). 2017.
+ISBN
+978-92-845-0208-0
+.
+↑
+Zenko, p. 59
+↑
+United Kingdom Ministry of Defence, p. 67
+↑
+United Kingdom Ministry of Defence, p. 6
+↑
+Mulvaney, Brendan S. (July 2012).
+"Strengthened Through the Challenge"
+(PDF)
+.
+Marine Corps Gazette
+.
+Marine Corps Association
+. Archived from
+the original
+(PDF)
+on September 28, 2013
+. Retrieved
+October 23,
+2017
+–
+via HQMC.Marines.mil.
+↑
+"UFMCS Course Enrollment"
+. Archived from
+the original
+on September 5, 2015.
+↑
+"University of Foreign Military and Cultural Studies Courses"
+.
+army.mil
+. Archived from
+the original
+on July 6, 2015
+. Retrieved
+October 23,
+2017
+.
+↑
+"Red Team: To Know Your Enemy and Yourself"
+.
+Council on Foreign Relations
+. Retrieved
+May 24,
+2023
+.
+↑
+Amos, James F. (March 2011). "Red Teaming in the Marine Corps".
+1
+2
+"Chairman of the Joint Chiefs of Staff Manual 5610.03"
+(PDF)
+. Archived from
+the original
+(PDF)
+on December 1, 2016
+. Retrieved
+February 25,
+2017
+.
+↑
+Sherman, Deborah (March 30, 2007).
+"Test devices make it by DIA security"
+.
+Denver Post
+.
+↑
+"National Commission on Terrorist Attacks Upon the United States"
+.
+govinfo.library.unt.edu
+.
+University of North Texas
+. Retrieved
+October 13,
+2015
+.
+↑
+Bennett, Brian (June 2, 2015).
+"Red Team agents use disguises, ingenuity to expose TSA vulnerabilities"
+.
+Los Angeles Times
+. Retrieved
+June 3,
+2023
+.
+Bibliography
+[
+edit
+]
+Hoffman, Bryce (2017).
+Red Teaming: How Your Business Can Conquer the Competition by Challenging Everything
+.
+Crown Business
+.
+ISBN
+978-1-101-90598-2
+.
+Rehberger, Johann (2020).
+Cybersecurity Attacks – Red Team Strategies
+. Packt Publishing.
+ISBN
+978-1-83882-886-8
+.
+Talamantes, Jeremiah (2019).
+Physical Red Team Operations
+. Hexcode Publishing.
+ISBN
+978-0-578-53840-2
+.
+United Kingdom Ministry of Defence
+(2010).
+DCDC Guidance Note: A Guide to Red Teaming
+(PDF)
+. Archived from
+the original
+(PDF)
+on October 26, 2012.
+Zenko, Micah (2015).
+Red Team: How to Succeed By Thinking Like the Enemy
+.
+Basic Books
+.
+ISBN
+978-0-465-07395-5
+.
+Inie, Nanna (2025).
+"Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming"
+.
+PLOS ONE
+.
+20
+(1) e0314658.
+arXiv
+:
+2311.06237
+.
+Bibcode
+:
+2025PLoSO..2014658I
+.
+doi
+:
+10.1371/journal.pone.0314658
+.
+PMC
+11734899
+.
+PMID
+39813184
+.
+Further reading
+[
+edit
+]
+Craig, Susan (March–April 2007).
+"Reflections from a Red Team Leader"
+.
+Military Review
+. Retrieved
+June 17,
+2023
+.
+"Defense Science Board – Task Force on the Role and Status of DoD Red Teaming Activities"
+(PDF)
+. U.S. Department of Defense. September 2003
+. Retrieved
+June 17,
+2023
+.
+Mulvaney, Brendan S. (November 1, 2012).
+"Don't Box in the Red Team"
+.
+Armed Forces Journal
+. Retrieved
+June 17,
+2023
+.
+The Red Team Handbook: The Army's Guide to Making Better Decisions
+(PDF)
+(Ninth
+ed.). University of Foreign Military and Cultural Studies. Archived from
+the original
+(PDF)
+on November 14, 2019
+. Retrieved
+June 17,
+2023
+.
+Red Teaming Handbook
+(PDF)
+(Third
+ed.). U.K. Ministry of Defence. June 2023.
+Ricks, Thomas E. (February 5, 2007).
+"Officers With PhDs Advising War Effort"
+.
+Washington Post
+. Retrieved
+June 17,
+2023
+.
+"The Role and Status of DoD Red Teaming Activities"
+(PDF)
+.
+Defense Science Board Task Force
+. U.S. Department of Defense. September 2003. Archived from
+the original
+(PDF)
+on April 19, 2009
+. Retrieved
+June 17,
+2023
+.
+Second public hearing of the National Commission on Terrorist Attacks Upon the United States: Statement of Bogdan Dzakovic
+(Report). National Commission on Terrorist Attacks Upon the United States. May 22, 2003
+. Retrieved
+June 17,
+2023
+.
+[
+dead link
+]
+GAO Red Team reveals Nuclear material can easily be smuggled into the United States years after 911 attack
+v
+t
+e
+Information security
+Threats
+Adware
+Advanced persistent threat
+Arbitrary code execution
+Backdoors
+Bombs
+Fork
+Logic
+Time
+Zip
+Hardware backdoors
+Code injection
+Crimeware
+Cross-site scripting
+Cross-site leaks
+DOM clobbering
+History sniffing
+Cryptojacking
+Botnets
+Data breach
+Drive-by download
+Browser Helper Objects
+Viruses
+Data scraping
+Denial-of-service attack
+Eavesdropping
+Email fraud
+Email spoofing
+Exploits
+Fraudulent dialers
+Hacktivism
+Infostealer
+Insecure direct object reference
+Keystroke loggers
+Malware
+Payload
+Phishing
+Voice
+Polymorphic engine
+Privilege escalation
+Ransomware
+Rootkits
+Scareware
+Shellcode
+Spamming
+Social engineering
+Spyware
+Software bugs
+Trojan horses
+Hardware Trojans
+Remote access trojans
+Vulnerability
+Web shells
+Wiper
+Worms
+SQL injection
+Rogue security software
+Zombie
+vectorial version
+Defenses
+Application security
+Secure coding
+Secure by default
+Secure by design
+Misuse case
+Computer access control
+Authentication
+Multi-factor authentication
+Authorization
+Computer security software
+Antivirus software
+Security-focused operating system
+Data-centric security
+Software obfuscation
+Data masking
+Encryption
+Firewall
+Intrusion detection system
+Host-based intrusion detection system
+(HIDS)
+Anomaly detection
+Information security management
+Information risk management
+Security information and event management
+(SIEM)
+Runtime application self-protection
+Site isolation
+Scrubber Center
+Cybersecurity
+domains
+Application security
+Cloud computing security
+Cryptography
+Data security
+Digital forensics
+Governance, risk, and compliance
+Identity and access management
+Malware analysis and reverse engineering
+Network security
+OT/ICS security
+Penetration testing
+Security architecture and engineering
+Security operations
+Threat intelligence
+Vulnerability management
+Related
+security
+topics
+Computer security
+Automotive security
+Cybercrime
+Cybersex trafficking
+Computer fraud
+Cybergeddon
+Cyberterrorism
+Cyberwarfare
+Electronic warfare
+Information warfare
+Internet security
+Mobile security
+Copy protection
+Digital rights management
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Red_team&oldid=1384030444
+"
+Categories
+:
+Security testing
+Computer security procedures
+Hacking (computer security)
+IT risk management
+Computer network security
+Physical security
+Social engineering (security)
+Military simulation
+Military exercises and wargames
+Military terminology
+Intelligence analysis
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Good articles
+Use shortened footnotes from June 2023
+Use American English from June 2023
+All Wikipedia articles written in American English
+Use mdy dates from June 2023
+CS1 maint: deprecated archival service
+All articles with dead external links
+Articles with dead external links from June 2023
+This page was last edited on 6 November 2026, at 06:23
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Red team
+17 languages
+Add topic

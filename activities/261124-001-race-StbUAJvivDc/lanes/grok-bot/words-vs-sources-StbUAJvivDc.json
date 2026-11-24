@@ -1,0 +1,260 @@
+{
+ "post_url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+ "post_file": "sources/src-felix-post.txt",
+ "pairs": [
+  {
+   "id": "P01",
+   "t": 0.0,
+   "narration": "Ask Claude for a deck, and you get a deck.",
+   "narration_in_captions": true,
+   "post": null,
+   "post_in_saved_post": null,
+   "similarity": null,
+   "class": "narrator-only",
+   "note": "Narrator's hook. The post's nearest line is in the Altitude section (not quoted here): Claude will happily make you some slides."
+  },
+  {
+   "id": "P02",
+   "t": 4.0,
+   "narration": "Felix Rieseberg, an engineering manager at Anthropic",
+   "narration_in_captions": true,
+   "post": "I'm an EM at Anthropic",
+   "post_in_saved_post": true,
+   "similarity": 0.5,
+   "class": "paraphrase",
+   "note": "EM expanded to engineering manager: faithful."
+  },
+  {
+   "id": "P03",
+   "t": 6.56,
+   "narration": "would send a short seller after it",
+   "narration_in_captions": true,
+   "post": null,
+   "post_in_saved_post": null,
+   "similarity": null,
+   "class": "narrator-only",
+   "note": "Narrator's framing; the post brings in a short seller as part of a red team."
+  },
+  {
+   "id": "P04",
+   "t": 10.12,
+   "narration": "On his blog, he calls this range drawing on several fields, not just the one the task seems to need.",
+   "narration_in_captions": true,
+   "post": "Drawing on multiple fields rather than just the one the task might need at the surface, using knowledge, tools, and techniques you normally wouldn't.",
+   "post_in_saved_post": true,
+   "similarity": 0.409,
+   "class": "paraphrase",
+   "note": "multiple to several; might need at the surface to seems to need; tail about knowledge, tools and techniques dropped."
+  },
+  {
+   "id": "P05",
+   "t": 17.52,
+   "narration": "Now that multi-agent setups are easier to run, he's seen really interesting results asking Claude to bring in extra fields.",
+   "narration_in_captions": true,
+   "post": "As AI products make it easier and easier to run multi-agent systems (with multiple threads, orchestrators, or simply subagents), I've seen really interesting results by imploring Claude to bring in additional fields.",
+   "post_in_saved_post": true,
+   "similarity": 0.444,
+   "class": "paraphrase",
+   "note": "Drops the feature detail (threads, orchestrators, subagents) and softens imploring to asking."
+  },
+  {
+   "id": "P06",
+   "t": 25.44,
+   "narration": "His first trick is an old one from The Art of Innovation by Tom Kelley and Jonathan Littman.",
+   "narration_in_captions": true,
+   "post": "An old trick from The Art of Innovation by Tom Kelley and Jonathan Littman.",
+   "post_in_saved_post": true,
+   "similarity": 0.812,
+   "class": "close",
+   "note": "Faithful attribution."
+  },
+  {
+   "id": "P07",
+   "t": 31.68,
+   "narration": "Replace the noun with verbs.",
+   "narration_in_captions": true,
+   "post": "Try to replace the nouns with verbs:",
+   "post_in_saved_post": true,
+   "similarity": 0.667,
+   "class": "paraphrase",
+   "note": "Drops Try to; nouns becomes noun."
+  },
+  {
+   "id": "P08",
+   "t": 34.36,
+   "narration": "A quarterly review isn't a deck. It's getting busy people to believe a story about cause and effect and to decide under uncertainty in 30 minutes.",
+   "narration_in_captions": true,
+   "post": "A quarterly review isn't \"a deck\". It's \"getting busy people to believe a story about cause and effect, and to decide under uncertainty, in 30 minutes\".",
+   "post_in_saved_post": true,
+   "similarity": 1.0,
+   "class": "verbatim",
+   "note": "Word for word apart from punctuation and quote marks."
+  },
+  {
+   "id": "P09",
+   "t": 45.36,
+   "narration": "The verbs make it easier for you and Claude to see which fields could add a useful angle.",
+   "narration_in_captions": true,
+   "post": "Having the verbs makes it easier for both me and Claude to understand which fields might bring in a unique and useful perspective.",
+   "post_in_saved_post": true,
+   "similarity": 0.585,
+   "class": "paraphrase",
+   "note": "Paraphrase; me becomes you; unique dropped."
+  },
+  {
+   "id": "P10",
+   "t": 51.32,
+   "narration": "His second trick is what every heist movie spends its first half hour on.",
+   "narration_in_captions": true,
+   "post": "every single heist movie spends the first 30 minutes assembling a diverse cast of characters and talents.",
+   "post_in_saved_post": true,
+   "similarity": 0.323,
+   "class": "paraphrase",
+   "note": "30 minutes becomes half hour. In the post the heist line is in the Range intro, not the crew trick."
+  },
+  {
+   "id": "P11",
+   "t": 55.76,
+   "narration": "Assemble the crew.",
+   "narration_in_captions": true,
+   "post": "Assemble the crew:",
+   "post_in_saved_post": true,
+   "similarity": 1.0,
+   "class": "verbatim",
+   "note": "Same words."
+  },
+  {
+   "id": "P12",
+   "t": 58.32,
+   "narration": "Felix pretends the deck has to be amazing, or aliens blow up Earth.",
+   "narration_in_captions": true,
+   "post": "The deck needs to be amazing, otherwise aliens will blow up Earth.",
+   "post_in_saved_post": true,
+   "similarity": 0.72,
+   "class": "paraphrase",
+   "note": "Narrator adds pretends: the post states the stake as a premise."
+  },
+  {
+   "id": "P13",
+   "t": 63.28,
+   "narration": "For production quality, he'd bring in an analyst, a journalist, and an editor.",
+   "narration_in_captions": true,
+   "post": "For production quality, I'd bring in an analyst, a journalist, and an editor.",
+   "post_in_saved_post": true,
+   "similarity": 0.923,
+   "class": "close",
+   "note": "Verbatim except I'd becomes he'd."
+  },
+  {
+   "id": "P14",
+   "t": 68.64,
+   "narration": "If it gets presented, a motion and audio designer, too.",
+   "narration_in_captions": true,
+   "post": "If it has to be presented, probably a motion and audio designer, too.",
+   "post_in_saved_post": true,
+   "similarity": 0.783,
+   "class": "close",
+   "note": "Drops probably."
+  },
+  {
+   "id": "P15",
+   "t": 72.72,
+   "narration": "Then a red team to attack it, a short seller, and a forensic accountant.",
+   "narration_in_captions": true,
+   "post": "It might be useful to employ an adversarial \"red team\", too, so let's bring in a short seller and a forensic accountant.",
+   "post_in_saved_post": true,
+   "similarity": 0.5,
+   "class": "paraphrase",
+   "note": "Meaning shift risk: in the post the short seller and forensic accountant ARE the red team; the narration lists three items. Also might be useful becomes a definite step."
+  },
+  {
+   "id": "P16",
+   "t": 78.16,
+   "narration": "He admits this takes creativity.",
+   "narration_in_captions": true,
+   "post": "Putting this into practice isn't easy; it requires you to be creative.",
+   "post_in_saved_post": true,
+   "similarity": 0.118,
+   "class": "paraphrase",
+   "note": "Paraphrase."
+  },
+  {
+   "id": "P17",
+   "t": 80.84,
+   "narration": "Until his colleague Alex Albert used Blender to render interior designs, he'd never thought of using Claude for 3D environments on his homepage. And he's made video games before.",
+   "narration_in_captions": true,
+   "post": "Until I saw my colleague Alex Albert use Blender to render interior designs, I never considered using Claude for 3D environments for my homepage - even though I've previously made video games!",
+   "post_in_saved_post": true,
+   "similarity": 0.633,
+   "class": "paraphrase",
+   "note": "Close; I saw dropped (the post says he saw it, not that Alex used Blender with him)."
+  },
+  {
+   "id": "P18",
+   "t": 91.96,
+   "narration": "His homepage is a 3D room now.",
+   "narration_in_captions": true,
+   "post": null,
+   "post_in_saved_post": null,
+   "similarity": null,
+   "class": "narrator-only",
+   "note": "Not in the post. Supported by the homepage HTML (WebGL room, ?room=1) saved in sources/src-felix-homepage.raw.html and On-screen: FELIXRIESEBERG.COM - HOMEPAGE - CAPTURED 2026-10-21 (frame-0084)."
+  },
+  {
+   "id": "P19",
+   "t": 91.96,
+   "narration": "He says this is where he sees the most magic.",
+   "narration_in_captions": true,
+   "post": "However, this is easily where I see the most magic happen.",
+   "post_in_saved_post": true,
+   "similarity": 0.571,
+   "class": "paraphrase",
+   "note": "Close; easily dropped."
+  },
+  {
+   "id": "P20",
+   "t": 98.04,
+   "narration": "Before your next big ask, write the verbs, then name the crew.",
+   "narration_in_captions": true,
+   "post": null,
+   "post_in_saved_post": null,
+   "similarity": null,
+   "class": "narrator-only",
+   "note": "Narrator's call to action, not in the post."
+  },
+  {
+   "id": "P21",
+   "t": 102.64,
+   "narration": "And have Claude do what a short seller does to research a position, not write like one.",
+   "narration_in_captions": true,
+   "post": "Don't ask the model to write like a short seller, ask it to do what a short seller does to research their position.",
+   "post_in_saved_post": true,
+   "similarity": 0.45,
+   "class": "paraphrase",
+   "note": "Order swapped, model becomes Claude (the post says the advice is not model-specific)."
+  },
+  {
+   "id": "P22",
+   "t": 108.2,
+   "narration": "Role-play makes the transcript weirder, not the result better.",
+   "narration_in_captions": true,
+   "post": "It is easy to accidentally engage in role play, which will make your transcript weirder without improving the actual outcome.",
+   "post_in_saved_post": true,
+   "similarity": 0.333,
+   "class": "paraphrase",
+   "note": "Compressed; meaning kept."
+  },
+  {
+   "id": "P23",
+   "t": 112.28,
+   "narration": "Who joins your crew first? The short seller or the forensic accountant?",
+   "narration_in_captions": true,
+   "post": null,
+   "post_in_saved_post": null,
+   "similarity": null,
+   "class": "narrator-only",
+   "note": "Narrator's engagement question."
+  }
+ ],
+ "failures": 0
+}

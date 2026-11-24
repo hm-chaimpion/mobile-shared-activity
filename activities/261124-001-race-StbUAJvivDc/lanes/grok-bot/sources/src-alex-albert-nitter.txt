@@ -1,0 +1,301 @@
+# SOURCE: src-alex-albert-nitter
+# url: https://nitter.cf/alexalbert__/status/2094860187743986169
+# final_url: https://nitter.cf/alexalbert__/status/2094860187743986169
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:41+13:00
+# title: Alex Albert (@alexalbert__): "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. 
+
+For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough." | teapawt
+# raw_sha256: 3dc1e4303636724ed229729d294e7dec2d6424419a5ae66c7aa038ca3cca62aa
+# raw_file: src-alex-albert-nitter.raw.html
+# tool: created-tools/save_source.py
+
+Alex Albert (@alexalbert__): "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code.
+For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough." | teapawt
+teapawt
+$
+Alex Albert
+@alexalbert__
+Sep 1
+Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code.
+For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough.
+Sep 1, 2026 · 6:49 PM UTC
+387
+446
+200
+8,577
+1,300,219
+Relevant
+Recent
+Likes
+Alex Albert
+@alexalbert__
+Sep 1
+using blender headless btw
+34
+17
+4
+996
+69,459
+Back to the original post:
+Alex Albert
+Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code.
+For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough.
+JLarky
+@JLarky
+Sep 2
+I asked Opus to create svg from image on the left
+13
+5
+148
+12,271
+Ryan
+@Rye1One
+Sep 1
+Cool, did my walkthrough with Opus 5
+8
+7
+145
+16,947
+Robert Bye
+@RobertJBye
+Sep 1
+WTF this is insane
+1
+94
+7,586
+Majid Manzarpour
+@majidmanzarpour
+Sep 1
+gonna need the prompts and receipts!
+60
+5,343
+Jeffrey Emanuel
+@doodlestein
+Sep 1
+The quality is nuts. Sucks to be an architect, my god.
+1
+2
+44
+5,743
+Ammaar Reshi
+@ammaar
+Sep 1
+Unreal!
+3
+43
+6,583
+signüll
+@signulll
+Sep 1
+can i order this house through claude?
+4
+41
+5,904
+Lou
+@louszbd
+Sep 1
+Great one!
+32
+3,976
+Luka → {protocell:labs} ←
+@LukaPiskorec
+Sep 1
+I can confirm it is absolutely possible to design architecture using Fable
+nitter.cf/LukaPiskorec/status/20…
+Luka → {protocell:labs} ←
+@LukaPiskorec
+Sep 1
+𝚝𝚑𝚎 𝚂𝚎𝚐𝚊𝚕 𝚖𝚎𝚝𝚑𝚘𝚍
+4
+29
+3,210
+Imraan
+@imraan
+Sep 1
+Hmmm how long did you have this in the drafts waiting for 5.1
+1
+27
+9,655
+Guy
+@Noumenon_ai
+Sep 2
+Thats amazing.
+Fable 5.1 + blender headless can do nice stuff.
+3
+2
+1
+26
+3,596
+Bilawal Sidhu
+@bilawalsidhu
+Sep 2
+Pretty cool. I’m sure many would love to see your prompts!
+1
+19
+3,170
+rubenv
+@rubenvieira
+Sep 1
+Just casually mentioning the use of Blender btw. Bro has everyone thinking this was generated just with Fable 😂
+18
+2,224
+Goblin Orchestrator
+@GoblinWithAPlan
+Sep 1
+This would have taken how many Max 20 subscriptions' weekly usage limits to do? 30?
+1
+17
+11,202
+Griffin Brown
+@GriffinbGardnin
+Sep 1
+How many hours/tokens did this take? In my experience with past models it needs a TON to come anywhere close to what you show here.
+3
+14
+19,066
+Rasmus Andersson
+@rsms
+Sep 2
+How do you do it? What does “generating videos through code” mean?
+2
+14
+4,899
+vittorio
+@IterIntellectus
+Sep 2
+this is insane
+14
+1,278
+YogenshaSilver
+@SilverYogensha
+Sep 1
+This is so hard to believe ... can we get a timelapse next time?
+12
+2,423
+Every 📧
+@every
+Sep 1
+We've been loving Fable 5.1:
+every.to/vibe-check/fable-5-…
+Vibe Check: Fable 5.1—Anthropic Is So Back (Again)
+Our tests show where it replaces Fable and Opus—and where we’re keeping the alternatives
+every.to
+11
+4,903
+Caiotti
+@bycaiotti
+Sep 1
+Whats the process here? Images + Blender MCP?
+1
+10
+2,737
+Gavin Purcell
+@gavinpurcell
+Sep 1
+wait what? this is stitched together images? or this is all code? if so, what engine is it building in?
+2
+9
+12,726
+justinfitch
+@justinfitch
+Sep 1
+Haven't used twitter in a long time. Feel compelled to reply to some folks asking valid questions. Here's a rendering I designed / furnished w/ Nano Banana, I gave it a simple prompt and here's the result. It took roughly 17 minutes total to produce this.
+🤖 Made with AI
+2
+9
+3,188
+pash
+@pashmerepat
+Sep 1
+Do you have the original prompt + picture?
+6
+1,681
+Jack Raines
+@Jack_Raines
+Sep 1
+yo wtf this is absurd
+6
+1,719
+Shubham Sharma | Video Editor
+@editxshub
+Sep 2
+@alexalbert__
+1
+5
+905
+DataDigest
+@Num_Feed_
+Sep 2
+Generating 3D scenes with pure math and code is 100x better than diffusion models. No weird frame warping, no glitchy hands, and you can actually edit the camera angles yourself.
+5
+1,097
+atomicbot.ai
+@atomicbot_ai
+Sep 2
+Same thing! We gave Hermes Agent your launch video and asked it to redraw all 27 seconds in code, nothing copied, everything drawn. Fable 5.1 found 46 shots in there, then rendered its own output and caught five places where it had drifted from its own shot list
+nitter.cf/atomicbot_ai/status/20…
+atomicbot.ai
+@atomicbot_ai
+Sep 2
+Fable 5.1 crushed GPT-5.6 Sol at rebuilding Claude's release video!
+Outputs:
+• Claude Fable 5.1: 3 versions, 9.36M tokens, $22.70
+• GPT-5.6 Sol: 1 version, 1.47M tokens, $0.83
+Fable checked its own render against its own shot list, found five places where it had got itself wrong and went back twice before calling it done, while GPT shipped version one for 27 times less.
+Try Claude Fable 5.1 on Atomic Bot in one click!
+5
+824
+Mariusz Hermansdorfer
+@Hermansdorfer
+Sep 2
+Is this advanced kitbashing where Fable created this scene out of existing 3d assets, or did it make all assets from scratch too?
+5
+1,970
+Lukas Münzel
+@lukasmunzel
+Sep 2
+Did you just prompt it with “use blender headless to replicate walkthrough through this property”? I was trying similar things and my one-shot performance seemed quite a bit worse
+4
+439
+Tyler Gibbs
+@tylergibbs
+Sep 1
+wait this is pretty sick. im downloading blender now
+4
+2,856
+joshiii
+@joshikusama
+Sep 2
+Yes. And you can use it cheaper and Fully Private in
+app.usedot.xyz
+@usedotai
+Dot
+@usedotai
+Sep 1
+Fable 5.1 is now live and fully private on the Dot platform.
+Zero data harvesting, zero prompt retention.
+Whatever you ask is completely private.
+Try Fable 5.1 now:
+app.usedot.xyz
+4
+39
+pedram.md
+@pdrmnvd
+Sep 1
+what the
+4
+625
+Jacob Kuchinsky
+@jacob_thebanana
+Sep 2
+It did this in blender!? Does it use any special skills or plugins or is it raw? I would love to know the process
+4
+2,158
+Larry Panozzo
+@LarryPanozzo
+Sep 1
+What order of magnitude is the API cost for something like this?
+4
+951
+Load more replies

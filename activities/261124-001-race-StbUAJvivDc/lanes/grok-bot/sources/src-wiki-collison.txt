@@ -1,0 +1,1425 @@
+# SOURCE: src-wiki-collison
+# url: https://en.wikipedia.org/wiki/Patrick_Collison
+# final_url: https://en.wikipedia.org/wiki/Patrick_Collison
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:54+13:00
+# title: Patrick Collison - Wikipedia
+# raw_sha256: 21b32e8fe98f244fa06d8778f9746e4cf345866767fa573ea333ebc4d3d48ccc
+# raw_file: src-wiki-collison.raw.html
+# tool: created-tools/save_source.py
+
+Patrick Collison - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Early life
+2
+Career
+Toggle Career subsection
+2.1
+Young Scientist
+2.2
+Auctomatic
+2.3
+Stripe
+3
+Views
+Toggle Views subsection
+3.1
+Metascience
+4
+Forbes
+article
+5
+Personal life
+6
+References
+7
+External links
+Toggle the table of contents
+Patrick Collison
+9 languages
+Deutsch
+Español
+Français
+עברית
+Bahasa Indonesia
+日本語
+Polski
+Português
+Русский
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Save
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+Save
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Irish entrepreneur (born 1988)
+Patrick Collison
+Collison in 2015
+Born
+(
+1988-09-09
+)
+9 September 1988
+(age
+38)
+Limerick
+, Ireland
+Education
+Gaelscoil Aonach Urmhumhan
+Castletroy College
+Massachusetts Institute of Technology
+Known
+for
+Stripe
+,
+Fast Grants
+,
+Arc Institute
+Spouse
+Silvana Konermann
+​
+(
+m.
+2022
+)
+​
+Relatives
+John Collison
+(brother)
+Awards
+BT Young Scientist of the Year
+(2005)
+Website
+patrickcollison
+.com
+Patrick Collison
+(born 9 September 1988) is an Irish entrepreneur, investor, and
+philanthropist
+. He is the chief executive officer of
+Stripe
+, which he co-founded with his younger brother,
+John
+, in 2010. A billionaire since 2016, his net worth as of August 2026 is estimated at $17.5 billion.
+[
+1
+]
+Originally from the west of
+Ireland
+, Collison won that country’s 41st
+Young Scientist and Technology Exhibition
+in 2005 at the age of sixteen. In 2021, he co-founded
+Arc Institute
+, a nonprofit research organization, with bioscientists
+Silvana Konermann
+and
+Patrick Hsu
+. In 2026, he co-founded the
+Rhine Group
+, a policy forum and
+think tank
+, with former Italian prime minister
+Mario Draghi
+.
+Early life
+[
+edit
+]
+Patrick Collison was born in
+Limerick
+on 9 September 1988 to microbiologist Lily and electronic engineer Denis Collison.
+[
+2
+]
+[
+3
+]
+[
+4
+]
+He and his brothers were brought up in the small village of
+Dromineer
+in
+County Tipperary
+.
+[
+4
+]
+[
+5
+]
+The eldest of three boys, he took his first computer course when he was eight years old, at the
+University of Limerick
+, and began learning computer programming at the age of ten.
+[
+6
+]
+Collison was educated at Gaelscoil Aonach Urmhumhan,
+Nenagh
+, before attending
+Castletroy College
+in
+Castletroy
+,
+County Limerick
+.
+[
+7
+]
+Career
+[
+edit
+]
+Young Scientist
+[
+edit
+]
+Collison entered the 40th
+Young Scientist and Technology Exhibition
+with his project on
+artificial intelligence
+(nicknamed 'Isaac' after
+Isaac Newton
+, whom Patrick admired), finishing as individual runner-up.
+[
+7
+]
+He re-entered the following year and, at the age of sixteen, won first place on 14 January 2005.
+[
+8
+]
+[
+9
+]
+His project involved the creation of Croma, a
+LISP
+-type programming language.
+[
+9
+]
+[
+10
+]
+His prize of a €7,500 cheque and a trophy of
+Waterford Crystal
+was presented to him by
+President
+Mary McAleese
+.
+[
+6
+]
+His younger brother Tommy participated with his project on
+blogging
+in the Young Scientist and Technology Exhibition in 2010.
+[
+11
+]
+Auctomatic
+[
+edit
+]
+He attended
+Massachusetts Institute of Technology
+, but eventually dropped out in 2009 after starting businesses.
+[
+6
+]
+[
+2
+]
+In 2007, he set up software company 'Shuppa' (a play on the Irish word
+siopa
+, meaning 'shop') in
+Limerick
+with his brother
+John Collison
+.
+[
+12
+]
+Enterprise Ireland
+did not allocate funding to the company, prompting a move to California after
+Silicon Valley
+'s
+Y Combinator
+showed interest, where they merged with two
+Oxford
+graduates, Harjeet and Kulveer Taggar, and the company became Auctomatic.
+[
+12
+]
+On
+Good Friday
+of March 2008, Collison, aged nineteen, and his brother, aged seventeen, sold Auctomatic to Canadian company Live Current Media, becoming millionaires.
+[
+12
+]
+[
+13
+]
+In May 2008, he became director of engineering at the company's new
+Vancouver
+base.
+[
+6
+]
+[
+12
+]
+Collison attributes the success of his company to his win in the Young Scientist and Technology Exhibition.
+[
+6
+]
+Both Collison and his younger brother John were featured on a young Irish persons rich list aired on an RTÉ television show during the 2008 Christmas period.
+[
+14
+]
+Stripe
+[
+edit
+]
+In 2010, Collison co-founded
+Stripe
+, which in 2011 received investment of $2 million including from PayPal co-founders
+Elon Musk
+and
+Peter Thiel
+, and venture capital firms
+Sequoia Capital
+,
+Andreessen Horowitz
+, and
+SV Angel
+.
+[
+15
+]
+[
+2
+]
+In November 2016, the Collison brothers became the world's youngest self-made billionaires, worth at least $1.1 billion, after an investment in Stripe from CapitalG and
+General Catalyst Partners
+valued the company at $9.2 billion.
+[
+16
+]
+By 2017, the brothers were notionally worth at least $3.2 billion each.
+[
+17
+]
+In 2018, Stripe, under the direction of the Collison brothers, contributed $1 million to
+California YIMBY
+, a pro-housing development lobbying organisation.
+[
+18
+]
+In September 2019, it was announced that Stripe had raised an additional $250 million at a valuation of $35 billion.
+[
+19
+]
+Together, the brothers hold a
+controlling interest
+in Stripe.
+[
+20
+]
+Collison joined the board of
+Meta Platforms
+in April 2025.
+[
+21
+]
+Views
+[
+edit
+]
+On 18 July 2009, at the age of 20 and following the publication of the
+McCarthy Report
+, Collison outlined his ideas for the future of Ireland on popular talk-show
+Saturday Night with Miriam
+.
+[
+8
+]
+In November 2026,
+The Washington Post
+reported that
+Sarah B. Rogers
+, the U.S.
+under secretary of state for public diplomacy and public affairs
+, had taken a vacation to the Mediterranean paid for by Collison.
+U.S. State Department
+spokespeople described the trip as above board, noting that the trip was planned before Rogers' had been confirmed to her role, that it had properly disclosed the trip to relevant authorities, and that Rogers had not participated in any government matter involving Collison's company.
+[
+22
+]
+Metascience
+[
+edit
+]
+According to Collison, he reads books and is interested in a broad range of subjects on history, technology, engineering, fiction, philosophy, and art.
+Metascience
+has been a theme of Collison's advocacy and philanthropy. In November 2018, Collison published a piece in
+The Atlantic
+with
+Michael Nielsen
+entitled Science is Getting Less Bang for its Buck, arguing that increased investment in science has not produced commensurate output.
+[
+23
+]
+In 2019, Collison published an opinion piece in the same outlet with
+Tyler Cowen
+arguing for a new academic discipline called "Progress Studies", which would study the cultural and institutional conditions which lead to the most progress and higher standards of living.
+[
+24
+]
+In April 2020, Collison and Cowen launched
+Fast Grants
+to fund
+COVID-19
+-related science.
+In 2021, Collison co-founded
+Arc Institute
+, a nonprofit biomedical research organization focused on research and technology development towards understanding and addressing complex disease,
+[
+25
+]
+which in 2026 published the first AI-designed viral genome.
+[
+26
+]
+Forbes
+article
+[
+edit
+]
+This section
+may lend
+undue weight
+to certain ideas, incidents, or controversies
+.
+Relevant discussion may be found on the
+talk page
+. Please help
+improve it
+by rewriting it in a
+balanced fashion
+that contextualises different points of view.
+(
+April 2026
+)
+(
+Learn how and when to remove this message
+)
+A profile of the brothers published in
+Forbes
+in 2021 claimed the brothers had "escaped" from Limerick, describing it as a "warzone" because of a gang feud and it was "the 'murder capital' of Europe".
+[
+27
+]
+It claimed "shootings, pipe bomb attacks, and stabbings" happened there every night.
+[
+27
+]
+It also claimed that "Some bad neighbourhoods are even walled off by a dirty graffitied 10-foot-high barrier, like the Berlin Wall".
+[
+27
+]
+The article received a lot of publicity online, causing a backlash.
+[
+27
+]
+Collison tweeted "Not only mistaken about Limerick but the idea of 'overcoming' anything is crazy. We are who we are because we grew up where we did".
+[
+27
+]
+John tweeted it was "daft".
+[
+27
+]
+Patrick O'Donovan
+, a parliamentary representative for
+Limerick County
+, called for the magazine and author to apologise to the people of Limerick "for the insult and hurt caused" by it.
+[
+27
+]
+He also tweeted "I am calling on them to come to Limerick where I will gladly set the record straight in respect of what our county and city has to offer as opposed to what your work of fiction depicts," and "Please let me know when suits to visit."
+[
+27
+]
+Niall Collins
+, another representative for Limerick County, tweeted that the article was a "disgraceful description of Limerick, home to so many fine and decent people".
+[
+27
+]
+The article was removed from the website on 9 April 2021.
+[
+27
+]
+Personal life
+[
+edit
+]
+In April 2022, Collison married Swiss-American biochemist and
+Stanford University
+professor
+Silvana Konermann
+, with whom he co-founded the
+Arc Institute
+. Collison met Konermann during the 2004
+EU Young Scientist competition
+.
+[
+28
+]
+[
+29
+]
+Collison lives in
+San Francisco
+, California.
+[
+30
+]
+[
+31
+]
+He made donations to a group opposing
+Proposition 40
+, a proposed one-off wealth tax on California's billionaires, amounting to $7 million by July 2026.
+[
+32
+]
+By the poll in November 2026, he had donated $33 million and had taken an active role in the campaign against the proposal.
+[
+33
+]
+In November 2024, Collison was criticized for visiting Israel and posting an image with the Israeli flag
+[
+34
+]
+amidst the
+Gaza war
+.
+[
+35
+]
+[
+36
+]
+[
+37
+]
+References
+[
+edit
+]
+↑
+"Patrick Collison"
+.
+Forbes
+. Retrieved
+1 August
+2026
+.
+1
+2
+3
+Cogley, Michael; Field, Matthew (23 February 2021).
+"How two brothers from rural Ireland built a $115bn payments giant"
+.
+The Daily Telegraph
+.
+Archived
+from the original on 24 February 2021
+. Retrieved
+25 February
+2021
+.
+↑
+Loizou, Kiki (26 February 2017).
+"Tech chiefs get too much credit, says Stripe's shy founder"
+.
+The Sunday Times
+.
+{{
+cite web
+}}
+: CS1 maint: deprecated archival service (
+link
+)
+1
+2
+Vance, Ashlee
+(1 August 2017).
+"How Two Brothers Turned Seven Lines of Code Into a $9.2 Billion Startup"
+.
+Bloomberg Businessweek
+.
+↑
+Armstrong, Stephen (5 October 2018).
+"The untold story of Stripe, the secretive $20bn startup driving Apple, Amazon and Facebook"
+.
+Wired
+.
+Wired
+.
+Archived
+from the original on 28 May 2019
+. Retrieved
+7 October
+2018
+.
+1
+2
+3
+4
+5
+John Costello (7 January 2009).
+"Million dollar boy who changed the face of the web"
+.
+Evening Herald
+. Archived from
+the original
+on 29 September 2010
+. Retrieved
+24 January
+2010
+.
+1
+2
+"Maths project wins Young Scientist"
+.
+RTÉ
+. 9 January 2004.
+Archived
+from the original on 22 February 2011
+. Retrieved
+24 January
+2010
+.
+1
+2
+"Saturday Night with Miriam"
+.
+Saturday Night with Miriam
+. 18 July 2009. Archived from
+the original
+on 1 August 2009
+. Retrieved
+24 January
+2010
+.
+1
+2
+Emma O'Kelly (14 January 2005).
+"Young Scientist of the Year is chosen in Dublin"
+.
+RTÉ News: Nine O'Clock
+. Retrieved
+24 January
+2010
+.
+[
+permanent dead link
+]
+↑
+O'Brien, Ciara (18 January 2018).
+"Young Scientists: where creativity and charm collide"
+.
+The Irish Times
+.
+Archived
+from the original on 26 March 2018
+. Retrieved
+26 March
+2018
+.
+↑
+Tommy Collison.
+"Young Scientist Report on Blogging"
+.
+Archived
+from the original on 25 January 2010
+. Retrieved
+8 February
+2010
+.
+1
+2
+3
+4
+"Limerick brothers sell company for millions"
+.
+RTÉ
+. 27 March 2008.
+Archived
+from the original on 24 February 2011
+. Retrieved
+24 January
+2010
+.
+↑
+"Teenagers become web millionaires"
+. BBC. 27 March 2008.
+Archived
+from the original on 17 October 2010
+. Retrieved
+24 January
+2010
+.
+↑
+"Three to Watch"
+. Inside View from Ireland. 5 January 2009.
+Archived
+from the original on 30 January 2010
+. Retrieved
+24 January
+2010
+.
+↑
+"Stealth Payment Startup Stripe Backed By PayPal Founders"
+. 29 March 2011.
+Archived
+from the original on 12 February 2017
+. Retrieved
+8 February
+2017
+.
+↑
+Mac, Ryan.
+"Stripe Investment Makes Cofounder The World's Youngest Self-Made Billionaire"
+.
+Forbes
+.
+Archived
+from the original on 13 April 2019
+. Retrieved
+2 August
+2017
+.
+↑
+"How Two 20-Somethings From Ireland Built a $9.2 Billion Company"
+.
+Bloomberg.com
+. 1 August 2017.
+Archived
+from the original on 29 May 2019
+. Retrieved
+11 October
+2017
+.
+↑
+Torres, Blanca (3 May 2018).
+"Are tech CEOs finally tackling the Bay Area housing crisis? Stripe jumps into the fight"
+.
+San Francisco Business Times
+.
+Archived
+from the original on 27 October 2020.
+↑
+Metcalf, Tom; Verhage, Julie.
+"Stripe Brothers Become Richest Self-Made Irish Billionaires"
+.
+Bloomberg
+.
+Archived
+from the original on 20 September 2019
+. Retrieved
+21 September
+2019
+.
+↑
+Rudegeair, Peter (26 September 2018).
+"Payments Fintech Stripe Valued at $20 Billion in Latest Funding Round"
+.
+Wall Street Journal
+.
+Archived
+from the original on 3 February 2020
+. Retrieved
+3 February
+2020
+–
+via www.wsj.com.
+↑
+Griffin, Riley (12 April 2025).
+"Meta adds Stripe CEO Patrick Collison to board of directors"
+.
+Irish Independent
+.
+Archived
+from the original on 18 April 2026
+. Retrieved
+14 November
+2026
+.
+Meta Platforms Inc. has added two new people to its board of directors, Dina Powell McCormick, a key former adviser to President Donald Trump, and Patrick Collison, the chief executive officer of Stripe, a financial technology company.
+↑
+Schaffer, Aaron; Nover, Scott (11 November 2026).
+"State Dept. official took Mediterranean trip paid for by tech billionaire"
+.
+The Washington Post
+. Archived from
+the original
+on 12 November 2026
+. Retrieved
+12 November
+2026
+.
+↑
+Collison, Patrick; Nielsen, Michael (16 November 2018).
+"Science Is Getting Less Bang for Its Buck"
+.
+The Atlantic
+. Retrieved
+12 November
+2026
+.
+↑
+Collison, Patrick; Cowen, Tyler (30 July 2019).
+"We Need a New Science of Progress"
+.
+The Atlantic
+.
+Archived
+from the original on 30 November 2019
+. Retrieved
+1 December
+2019
+.
+↑
+"Patrick Collison"
+.
+TIME
+. Retrieved
+1 August
+2026
+.
+↑
+King, Samuel H.; Driscoll, Claudia L.; Li, David B.; Guo, Daniel; Merchant, Aditi T.; Brixi, Garyk; Wilkinson, Max E.; Hie, Brian L. (6 August 2026).
+"Generative design of bacteriophages with genome language models"
+.
+Science
+.
+393
+(6811) eaec2657.
+doi
+:
+10.1126/science.aec2657
+.
+PMID
+42561074
+.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+McDermott, Stephen (10 April 2021).
+"Forbes article about Stripe brothers which called Limerick 'stab city' removed after online backlash"
+.
+TheJournal.ie
+.
+Archived
+from the original on 10 April 2021
+. Retrieved
+10 April
+2021
+.
+↑
+Tighe, Mark (26 June 2022).
+"Billionaire Patrick Collison marries woman who beat him to top science prize when they were both teenagers"
+.
+Irish Independent
+.
+Archived
+from the original on 29 January 2023
+. Retrieved
+29 January
+2023
+.
+↑
+Butler, Roisin (29 June 2022).
+"Inside Stripe CEO Patrick Collison's family life as he weds childhood sweetheart"
+. Irish Mirror.
+Archived
+from the original on 20 November 2022
+. Retrieved
+20 November
+2022
+.
+↑
+Weinberg, Cory (21 June 2023).
+"John Collison's Land Grab: A Stripe Co-Founder Grows in Power"
+.
+The Information
+.
+↑
+"Bloomberg Billionaires Index: Patrick Collison"
+. Bloomberg
+. Retrieved
+9 September
+2024
+.
+↑
+Power, Jack (29 July 2026).
+"Irish entrepreneur Patrick Collison donated $7m to group opposing California wealth tax"
+. Retrieved
+29 July
+2026
+.
+↑
+Schleifer, Theodore; Griffith, Erin (2 November 2026).
+"IStripe's Patrick Collison on front line of billionaires' war against wealth tax"
+. Retrieved
+3 November
+2026
+.
+↑
+"Stripe faces boycott calls after Patrick Collison says 'great to be back' in Israel"
+.
+www.independent.ie
+. 28 November 2024.
+↑
+"Calls to boycott tech company Stripe after CEO posts about recent visit to Israel"
+.
+Middle East Eye
+.
+↑
+"Calls to boycott Stripe after CEO posts 'Israel propaganda'
+"
+.
+The New Arab
+.
+↑
+Prinsley, Jane (29 November 2024).
+"Calls to boycott Stripe after boss posts picture from Tel Aviv beach"
+.
+The Jewish Chronicle
+.
+External links
+[
+edit
+]
+Official website
+v
+t
+e
+Meta Platforms
+Products,
+services
+Facebook
+Features
+Bluetooth Beacon
+Dating
+Feed
+EdgeRank
+Reels
+Gaming
+Graph Search
+Instant Articles
+Like button
+Live
+Lookalike audience
+Onion address
+Platform
+Connect
+Safety Check
+Stories
+Watch
+list of original programs
+Zero
+Instagram
+Hyperlapse
+IGTV
+Threads
+Hardware
+Portal
+Meta Quest
+Quest 1
+Quest 2
+Quest 3
+Quest 3S
+Pro
+Touch
+Ray-Ban Meta
+AI
+Meta AI
+Meta Superintelligence Labs
+Moltbook
+Muse Spark
+Muse (AI agent)
+Llama
+PyTorch
+DeepFace
+Darkforest
+Other
+Express Wi-Fi
+Free Basics
+Messenger
+Kids
+Rooms
+Mapillary
+Meta Horizon OS
+Supernatural
+WhatsApp
+Workplace
+Former
+Atlas Solutions
+Credits
+FriendFeed
+Giphy
+Facebook Beacon
+Facebook Home
+HTC First
+M
+Oculus Go
+Oculus Rift
+CV1
+S
+Onavo
+Paper
+Slingshot
+tbh
+Wirehog
+People
+Founders
+Mark Zuckerberg
+(28% equity)
+Dustin Moskovitz
+(7%)
+Eduardo Saverin
+(
+5%, formerly
+)
+Chris Hughes
+(
+1%, formerly
+)
+Andrew McCollum
+Board
+Current
+Mark Zuckerberg
+Marc Andreessen
+John D. Arnold
+Patrick Collison
+John Elkann
+Drew Houston
+Nancy Killefer
+Robert M. Kimmitt
+Dina Powell
+Hock Tan
+Dana White
+Tony Xu
+Former
+Sheryl Sandberg
+Peter Thiel
+Executive
+officers
+Current
+Mark Zuckerberg
+(Chairman and CEO)
+Javier Olivan
+(COO)
+Andrew Bosworth
+(CTO)
+Chris Cox
+(CPO)
+Joel Kaplan
+(Chief Global Affairs Officer)
+Jennifer Newstead
+(Chief Legal Officer)
+Alexandr Wang
+(Chief AI Officer)
+David Wehner
+(Chief Strategy Officer)
+Former
+Sean Parker
+(
+4%, formerly
+)
+Owen Van Natta
+Gideon Yu
+Adam D'Angelo
+Nick Clegg
+Chris Kelly
+Bret Taylor
+Sheryl Sandberg
+Mike Schroepfer
+David Ebersman
+Marne Levine
+Alex Stamos
+Oversight
+Board
+Members
+Catalina Botero Marino
+, Co-Chair (2020–)
+Jamal Greene
+, Co-Chair (2020–)
+Michael W. McConnell
+, Co-Chair (2020–)
+Helle Thorning-Schmidt
+, Co-Chair (2020–)
+Afia Asantewaa Asare-Kyei
+(2020–)
+Evelyn Aswad
+(2020–)
+Endy Bayuni
+(2020–)
+Katherine Chen
+(2020–)
+Nighat Dad
+(2020–)
+Tawakkol Karman
+(2020–)
+Maina Kiai
+(2020–)
+Sudhir Krishnaswamy
+(2020–)
+Ronaldo Lemos
+(2020–)
+Julie Owono
+(2020–)
+Emi Palmor
+(2020–)
+Alan Rusbridger
+(2020–)
+András Sajó
+(2020–)
+John Samples
+(2020–)
+Nicolas Suzor
+(2020–)
+Suzanne Nossel
+(2021–)
+Khaled Mansour (2022–)
+Pamela San Martin (2022–)
+Paolo Carozza (2022–)
+Kenji Yoshino
+(2023–)
+Board of
+Trustees
+Stephen Neal
+, Chair (2021–)
+Kristina Arriaga (2020–)
+Cherine Chalaby (2020–)
+Wanda Felton (2020–)
+Kate O'Regan
+(2020–)
+Robert Post
+(2020–)
+Former
+members
+Pamela S. Karlan
+(Board Member, 2020–2021)
+Paul G. Haaga Jr.
+(Board of Trustees Chair, 2020–2021)
+Notable
+employees
+Current
+Lars Rasmussen
+(Graph Search director)
+Naomi Gleit
+(head of product)
+Nicola Mendelsohn
+(head of Global Business Group)
+Adam Mosseri
+(head of Instagram)
+Thomas Reardon
+(
+Reality Labs
+director)
+Former
+Blake Ross
+(Director of Product)
+Ted Ullyot
+(VP, General Counsel, and Secretary)
+Hugo Barra
+(VP of
+Reality Labs
+)
+John Carmack
+(CTO of
+Reality Labs
+)
+Matt Cohler
+Charlie Cheever
+Randi Zuckerberg
+Yishan Wong
+George Hotz
+Joe Lockhart
+Andrei Alexandrescu
+(research scientist)
+Chamath Palihapitiya
+(VP of User Growth)
+Elliot Schrage
+(VP of Global Communications, Marketing and Public Policy)
+Frances Haugen
+(Product Manager of Civic Integrity Team)
+Sarah Wynn-Williams
+(Director of Public Policy)
+Open
+source
+Apache Cassandra
+Apache Hive
+Apache Thrift
+Buck
+FQL
+Hack
+HHVM
+HipHop for PHP
+Infer
+MyRocks
+Open Compute Project
+Phabricator
+React
+React Native
+RocksDB
+Scribe
+Telecom Infra Project
+Tornado
+Mass
+media
+The Facebook Effect
+The Accidental Billionaires
+The Social Network
+The Great Hack
+Careless People
+"Instagram" (Dean song)
+The Social Reckoning
+Concepts
+Influencer
+Activity stream
+Social graph
+Friending and following
+Reblogging
+Fan-gating
+Facebook diplomacy
+Instapoetry
+Model (person)#Instagram model
+Filter
+Instagram face
+Business
+History of Facebook
+IPO
+Timeline of Instagram
+#Graduation2020
+Timeline of WhatsApp
+Acquisitions
+f8 conference
+Censorship
+Criticism
+Cambridge Analytica data scandal
+2020 ad boycotts
+2021 company files leak
+Privacy
+Content management
+Problematic social media use
+Litigation
+Young v. Facebook, Inc.
+(2011)
+Fraley v. Facebook, Inc.
+(2016)
+Force v. Facebook, Inc.
+(2019)
+Facebook, Inc. v. Duguid
+(2021)
+Federal Trade Commission v. Meta Platforms, Inc.
+(ongoing)
+Unions
+Lists
+Most-followed Facebook pages
+Most-followed Instagram accounts
+Most-liked Instagram posts
+Most-viewed Instagram reels
+Related
+Priscilla Chan
+(wife of Mark Zuckerberg)
+Chan Zuckerberg Initiative
+Aquila Internet relay drone
+Willow Village
+WaveGroup Sound
+2021 Facebook outage
+Instagram tourism
+v
+t
+e
+Young Scientist and Technology Exhibition
+Winners
+1990s
+Jane Feehan (1994)
+Brian Fitzpatrick and Shane Markey (1995)
+Elsie O'Sullivan, Rowens Mooney and Patricia Lyle (1996)
+Michael Flynn (1997)
+Raphael Hurley (1998)
+Sarah Flannery
+(1999)
+2000s
+Thomas Gernon
+(2000)
+Peter Taylor, Shane Browne and Michael O'Toole (2001)
+David Michael O'Doherty (2002)
+Adnan Osmani (2003)
+Ronan Larkin (2004)
+Patrick Collison
+(2005)
+Aisling Judge
+(2006)
+Abdusalam Abubakar
+(2007)
+Emer Jones
+(2008)
+Liam McCarthy and John D. O'Callaghan
+(2009)
+2010s
+Richard O'Shea (2010)
+Alexander Amini (2011)
+Mark Kelly and Eric Doyle (2012)
+Emer Hickey, Sophie Healy-Thow and
+Ciara Judge
+(2013)
+Paul Clarke (2014)
+Ian O’Sullivan and Eimear Murphy (2015)
+Maria Louise Fufezan and Diana Bura (2016)
+Shane Curran
+(2017)
+Simon Meehan (2018)
+Adam Kelly (2019)
+Related articles
+BT Ireland
+European Union Contest for Young Scientists
+Royal Dublin Society
+Synge Street CBS
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Patrick_Collison&oldid=1385911842
+"
+Categories
+:
+1988 births
+Living people
+Irish billionaires
+Irish computer programmers
+21st-century Irish scientists
+People educated at Castletroy College
+Businesspeople from County Limerick
+Y Combinator people
+Young Scientist and Technology Exhibition
+21st-century Irish businesspeople
+YIMBY activists
+Directors of Meta Platforms
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use Hiberno-English from November 2018
+All Wikipedia articles written in Hiberno-English
+Use dmy dates from November 2018
+Articles with hCards
+CS1 maint: deprecated archival service
+All articles with dead external links
+Articles with dead external links from June 2017
+Articles with permanently dead external links
+Articles that lend undue weight to certain ideas from April 2026
+All articles that lend undue weight to certain ideas
+Official website different in Wikidata and Wikipedia
+This page was last edited on 15 November 2026, at 22:54
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Patrick Collison
+9 languages
+Add topic

@@ -1,0 +1,7 @@
+PASS kg-check passes real graph
+PASS kg-check catches unsaved source
+PASS kg-check catches url mismatch
+PASS quotes gate passes real file
+PASS quotes gate catches altered quote
+PASS audio diff self-identity 1.0
+PASS narration_vs_post passes

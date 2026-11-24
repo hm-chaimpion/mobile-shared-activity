@@ -1,0 +1,253 @@
+# SOURCE: src-felix-github
+# url: https://github.com/felixrieseberg
+# final_url: https://github.com/felixrieseberg
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:33+13:00
+# title: felixrieseberg (Felix Rieseberg) · GitHub
+# raw_sha256: 4a01f06eef2a7f71c0f26e9bc529580415382c7d0cb8330781ef5eef0a3f3ada
+# raw_file: src-felix-github.raw.html
+# tool: created-tools/save_source.py
+
+felixrieseberg (Felix Rieseberg) · GitHub
+Skip to content
+Navigation Menu
+Sign in
+Products
+Platform
+GitHub
+Repository hosting, code review, and collaboration
+Copilot
+AI coding agent for tasks, projects, and automated work
+Build & Ship
+Actions
+CI/CD and automation
+Code Quality
+Quality analysis, fixes, and enforcement
+Codespaces
+Cloud development environments
+Secure
+Code Security
+Vulnerability detection and remediation
+Secret Protection
+Secret scanning and leak prevention
+All Features
+Developers
+Learn
+Documentation
+Training
+Certifications
+Build
+Build with Copilot
+Customize Copilot
+Integrations
+Explore
+Trending repos
+GitHub Sponsors
+Developer articles
+Changelog
+Changelog
+Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+Businesses
+By Stage
+Enterprises
+Team
+Startups
+Nonprofits
+By Industry
+Healthcare
+Financial services
+Manufacturing
+Government
+See all industries
+Evaluate GitHub
+Why GitHub
+Customer Stories
+Business insights
+Trust Center
+Add-ons
+GitHub Advanced Security
+Enterprise-grade code security
+Copilot for business
+Enterprise-grade AI features
+Premium Support
+Enterprise-grade 24/7 support
+Resources
+Learn & Connect
+Documentation
+Resource center
+Blog
+Events & webinars
+Community Forum
+Customer Stories
+Integrations
+Support
+Customer support
+Training
+GitHub Status
+Company
+About
+Partners
+Changelog
+GitHub Universe
+GitHub Universe
+The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+Pricing
+Search
+/
+Sign in
+Sign up
+Appearance settings
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+Dismiss alert
+felixrieseberg
+Follow
+Overview
+Repositories
+279
+Projects
+0
+Packages
+0
+Stars
+71
+More
+Overview
+Repositories
+Projects
+Packages
+Stars
+felixrieseberg
+Follow
+Felix Rieseberg
+felixrieseberg
+Follow
+🙇 ✨🌳
+6.6k
+followers
+·
+16
+following
+Anthropic
+San Francisco
+http://www.felixrieseberg.com
+http://twitter.com/felixrieseberg
+Achievements
+x3
+x4
+x3
+Achievements
+x3
+x4
+x3
+Organizations
+Block or report user
+Block or report felixrieseberg
+Block user
+Prevent this user from interacting with your repositories and sending you notifications.
+Learn more about
+blocking users
+.
+You must be logged in to block users.
+Close all issues, pull requests, and discussions opened by this user
+Content in all repositories owned by your account will be closed.
+Add an optional note
+Maximum 250 characters. Please don’t include any personal information such as legal names or email addresses. This note will only be visible to you.
+Block user
+Report abuse
+Contact GitHub support about this user’s behavior.
+Learn more about
+reporting abuse
+.
+Report abuse
+Overview
+Repositories
+279
+Projects
+0
+Packages
+0
+Stars
+71
+More
+Overview
+Repositories
+Projects
+Packages
+Stars
+Pinned
+Loading
+windows95
+windows95
+Public
+Windows 95 in an app. Runs on macOS, Linux, and Windows.
+TypeScript
+24.3k
+1.4k
+macintosh.js
+macintosh.js
+Public
+🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
+JavaScript
+8.5k
+333
+electron/
+electron
+electron/electron
+Public
+Build cross-platform desktop apps with JavaScript, HTML, and CSS
+C++
+124k
+17.9k
+electron/
+fiddle
+electron/fiddle
+Public
+🚀 The easiest way to get started with Electron
+TypeScript
+7.8k
+761
+clippy
+clippy
+Public
+📎 Clippy, now with some AI
+TypeScript
+1.4k
+87
+claude-coach
+claude-coach
+Public
+Claude as your endurance coach for marathons, triathlons, Ironman events, and more
+TypeScript
+246
+32
+Something went wrong, please refresh the page to try again.
+If the problem persists, check the
+GitHub status page
+or
+contact support
+.
+Uh oh!
+There was an error while loading.
+Please reload this page
+.
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+You can’t perform that action at this time.

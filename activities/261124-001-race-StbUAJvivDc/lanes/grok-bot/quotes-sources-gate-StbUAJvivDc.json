@@ -1,0 +1,258 @@
+{
+ "video_id": "StbUAJvivDc",
+ "sections": 11,
+ "failed_sections": 0,
+ "quote_gate": "/workspace/mobile-shared-activity/skills/youtube-process-cloud/scripts/quote_gate.py",
+ "results": [
+  {
+   "source_file": "sources/src-felix-post.txt",
+   "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 16,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "How to be more ambitious: A tutorial for humans with models"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "I think of ambition in four types: Speed, Altitude, Depth, and Range."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Drawing on multiple fields rather than just the one the task might need at the surface, using knowledge, tools, and techniques you normally wouldn't."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "I primarily use Claude (duh) but my advice is not model-specific."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "As AI products make it easier and easier to run multi-agent systems (with multiple threads, orchestrators, or simply subagents), I've seen really interesting re"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Until I saw my colleague Alex Albert use Blender to render interior designs, I never considered using Claude for 3D environments for my homepage - even though I"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "However, this is easily where I see the most magic happen."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Try to replace the nouns with verbs:"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "An old trick from The Art of Innovation by Tom Kelley and Jonathan Littman."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Having the verbs makes it easier for both me and Claude to understand which fields might bring in a unique and useful perspective."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "The deck needs to be amazing, otherwise aliens will blow up Earth. What kind of team will humanity get together?"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "For production quality, I'd bring in an analyst, a journalist, and an editor. If it has to be presented, probably a motion and audio designer, too."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "so let's bring in a short seller and a forensic accountant."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "It is easy to accidentally engage in role play, which will make your transcript weirder without improving the actual outcome. Use this method to find fields and"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "All the ways in which I describe ambition require the model to have a computer with the ability to install software and access to all kinds of relevant data (ei"
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "I'm an EM at Anthropic, where I've so far led engineering for Claude.ai, Cowork, and Claude Code Desktop. I'm co-maintainer of Electron and various other open s"
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-felix-about.txt",
+   "url": "https://felixrieseberg.com/about-me/",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 2,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "I work on Claude at Anthropic."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "In my time at Anthropic so far, I've led engineering for Claude.ai, Cowork, and Code Desktop."
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-art-of-innovation-gbooks.txt",
+   "url": "https://www.google.com/books/edition/The_Art_of_Innovation/ncaJDQAAQBAJ",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Tom Kelley is general manager of IDEO, the world's leading design consultancy specializing in product development and innovation."
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-art-of-innovation-prh.txt",
+   "url": "https://www.penguinrandomhouse.com/books/91121/the-art-of-innovation-by-thomas-kelley-with-jonathan-littman/",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Lessons in Creativity from IDEO, America's Leading Design Firm"
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-alex-albert-site.txt",
+   "url": "https://alexalbert.me/",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "I handle Claude Relations at Anthropic."
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-alex-albert-nitter.txt",
+   "url": "https://nitter.cf/alexalbert__/status/2094860187743986169",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 2,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "It designed a house for the lot, rendered it, and produced a cinematic walkthrough."
+    },
+    {
+     "found": true,
+     "fills": [],
+     "quote": "using blender headless btw"
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-doc-cc-subagents.txt",
+   "url": "https://code.claude.com/docs/en/sub-agents",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Each subagent runs in its own context window with a custom system prompt, specific tool access, and independent permissions."
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-anthropic-creative-work.txt",
+   "url": "https://www.anthropic.com/news/claude-for-creative-work",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "The Blender developers have created an MCP connector, which is now officially available for Claude."
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-doc-sdk-subagents.txt",
+   "url": "https://code.claude.com/docs/en/agent-sdk/subagents",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Define and invoke subagents to isolate context, run tasks in parallel, and apply specialized instructions in your Claude Agent SDK applications."
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-doc-cc-agent-teams.txt",
+   "url": "https://code.claude.com/docs/en/agent-teams",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "Agent teams let you coordinate multiple Claude Code instances working together. One session acts as the team lead, coordinating work, assigning tasks, and synth"
+    }
+   ]
+  },
+  {
+   "source_file": "sources/src-doc-mcp-intro.txt",
+   "url": "https://modelcontextprotocol.io/introduction",
+   "url_matches_saved_header": true,
+   "quote_gate_exit": 0,
+   "quotes": 1,
+   "not_found": 0,
+   "rows": [
+    {
+     "found": true,
+     "fills": [],
+     "quote": "MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems."
+    }
+   ]
+  }
+ ]
+}

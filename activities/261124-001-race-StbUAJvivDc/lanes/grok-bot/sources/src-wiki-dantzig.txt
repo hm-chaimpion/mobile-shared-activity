@@ -1,0 +1,2127 @@
+# SOURCE: src-wiki-dantzig
+# url: https://en.wikipedia.org/wiki/George_Dantzig
+# final_url: https://en.wikipedia.org/wiki/George_Dantzig
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:52+13:00
+# title: George Dantzig - Wikipedia
+# raw_sha256: a87b6dd688fdb88bf41adf20f669dbc336195d97976f3efb26c1736d8083ffda
+# raw_file: src-wiki-dantzig.raw.html
+# tool: created-tools/save_source.py
+
+George Dantzig - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Early life
+2
+Education
+3
+Career
+Toggle Career subsection
+3.1
+Research
+3.1.1
+Linear programming
+4
+Personal life
+5
+Presidential award
+6
+Publications
+7
+See also
+8
+Notes
+9
+Further reading
+10
+External links
+Toggle the table of contents
+George Dantzig
+39 languages
+Afrikaans
+العربية
+مصرى
+Català
+Čeština
+Dansk
+Deutsch
+Español
+Euskara
+فارسی
+Suomi
+Français
+Galego
+עברית
+Kreyòl ayisyen
+Magyar
+Հայերեն
+Bahasa Indonesia
+Italiano
+日本語
+한국어
+Монгол
+Nederlands
+Norsk bokmål
+Polski
+Português
+Română
+Русский
+Simple English
+Slovenčina
+Svenska
+தமிழ்
+Türkçe
+Українська
+اردو
+Tiếng Việt
+Volapük
+მარგალური
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Save
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+Save
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+American mathematician (1914–2005)
+George Dantzig
+Dantzig
+c.
+1936
+Born
+George Bernard Dantzig
+(
+1914-11-08
+)
+November 8, 1914
+Portland, Oregon
+, US
+Died
+May 13, 2005
+(2005-05-13)
+(aged
+90)
+Stanford, California
+, US
+Education
+University of Maryland
+(
+BS
+)
+University of Michigan
+(
+MS
+)
+University of California, Berkeley
+(
+PhD
+)
+Known
+for
+Linear programming
+Quadratic programming
+Stochastic programming
+Linear complementarity problem
+Max-flow min-cut theorem of networks
+Pseudoforest
+Vehicle routing problem
+Dantzig's simplex algorithm
+Dantzig–Wolfe decomposition
+Awards
+John von Neumann Theory Prize
+(1975)
+National Medal of Science
+(1975)
+Harvey Prize
+(1985)
+Harold Pender Award
+(1995)
+Scientific career
+Fields
+Mathematics
+Operations research
+Industrial engineering
+Computer science
+Economics
+Statistics
+Workplaces
+U.S. Air Force Office of Statistical Control
+RAND Corporation
+University of California, Berkeley
+Stanford University
+Doctoral advisor
+Jerzy Neyman
+Doctoral students
+Ilan Adler
+Robert Fourer
+Alfredo Noel Iusem
+Ellis L. Johnson
+Thomas Magnanti
+Roger J-B Wets
+Yinyu Ye
+George Bernard Dantzig
+(
+/
+ˈ
+d
+æ
+n
+t
+s
+ɪ
+ɡ
+/
+; November 8, 1914 – May 13, 2005) was an American
+mathematical scientist
+who made contributions to
+industrial engineering
+,
+operations research
+,
+computer science
+,
+economics
+, and
+statistics
+.
+Dantzig is known for his development of the
+simplex algorithm
+,
+[
+1
+]
+an algorithm for solving
+linear programming
+problems, and for his other work with linear programming. In
+statistics
+, Dantzig solved two
+open problems
+in
+statistical theory
+, which he had mistaken for homework after arriving late to a lecture by Polish mathematician-statistician
+Jerzy Neyman
+.
+[
+2
+]
+At his death, Dantzig was professor emeritus of transportation sciences and professor of operations research and of computer science at
+Stanford University
+.
+Early life
+[
+edit
+]
+Born to
+Jewish
+parents in
+Portland, Oregon
+, George Bernard Dantzig was named after
+George Bernard Shaw
+, the Irish writer.
+[
+3
+]
+[
+4
+]
+His father,
+Tobias Dantzig
+, was a mathematician and linguist, and his mother, Anja Dantzig (née Ourisson), was a Russian-born linguist of
+French
+-
+Lithuanian
+origin. Dantzig's parents met during their study at the
+University of Paris
+, where Tobias studied mathematics under
+Henri Poincaré
+, after whom Dantzig's brother was named.
+[
+4
+]
+The Dantzigs emigrated to the United States, where they settled in Portland, Oregon.
+Early in the 1920s the Dantzig family moved from
+Baltimore
+to
+Washington, D.C.
+His mother became a linguist at the
+Library of Congress
+, and his father became a math tutor at the
+University of Maryland, College Park
+.
+Education
+[
+edit
+]
+Dantzig attended Powell Junior High School and
+Central High School
+. By the time he reached high school, he was already fascinated by geometry, and this interest was further nurtured by his father, challenging him with complicated problems, particularly in
+projective geometry
+.
+[
+2
+]
+[
+4
+]
+George Dantzig received his B.S. from
+University of Maryland
+in 1936 in mathematics and physics. He earned his master's degree in mathematics from the
+University of Michigan
+in 1937. After working as a junior statistician at the Bureau of Labor Statistics from 1937 to 1939,
+[
+5
+]
+he enrolled in the doctoral program in mathematics at the
+University of California, Berkeley
+, where he studied statistics under
+Jerzy Neyman
+.
+During his study in 1939, Dantzig solved two unsolved problems in statistics due to a misunderstanding. Near the beginning of a class, Professor Neyman wrote two problems on the blackboard. Dantzig arrived late and assumed that they were a homework assignment. According to Dantzig, they "seemed to be a little harder than usual", but a few days later he handed in completed solutions for both problems, still believing that they were an assignment that was overdue.
+[
+4
+]
+[
+6
+]
+Six weeks later, an excited Neyman happily told him that the problems he had solved were two of the most famous unsolved problems in
+statistics
+.
+[
+2
+]
+[
+4
+]
+He had prepared one of Dantzig's solutions for publication in a mathematical journal.
+[
+7
+]
+This story spread and was used as a motivational lesson demonstrating the power of positive thinking. Over time, some facts were altered, but the basic story persisted in the form of an
+urban legend
+and as an introductory scene in the 1997 film
+Good Will Hunting
+.
+[
+6
+]
+Dantzig recalled in a 1986 interview in the
+College Mathematics Journal
+, "A year later, when I began to worry about a thesis topic, Neyman just shrugged and told me to wrap the two problems in a binder and he would accept them as my thesis."
+[
+8
+]
+Years later, another researcher,
+Abraham Wald
+, was preparing to publish a paper in which he had arrived at a conclusion for the second problem when he learned of Dantzig's earlier solution. When Dantzig suggested publishing jointly, Wald simply added Dantzig's name as co-author.
+[
+4
+]
+[
+8
+]
+[
+9
+]
+Career
+[
+edit
+]
+With the outbreak of
+World War II
+, Dantzig took a leave of absence from the doctoral program at Berkeley to work as a civilian for the
+United States Army Air Forces
+. From 1941 to 1946, he became the head of the combat analysis branch of the Headquarters Statistical Control for the Army Air Forces.
+[
+2
+]
+In 1946, he returned to Berkeley to complete the requirements of his program and received his
+PhD
+that year.
+[
+3
+]
+Although he had a faculty offer from Berkeley, he returned to the Air Force as mathematical advisor to the
+comptroller
+.
+[
+4
+]
+In 1952, Dantzig joined the mathematics division of the
+RAND Corporation
+. By 1960, he became a professor in the
+Department of Industrial Engineering
+at UC Berkeley, where he founded and directed the Operations Research Center. In 1966, he joined the Stanford faculty as Professor of Operations Research and of Computer Science. A year later, the Program in Operations Research became a full-fledged department. In 1973, he founded the Systems Optimization Laboratory (SOL) there. On a sabbatical leave that year, he managed the Methodology Group at the
+International Institute for Applied Systems Analysis
+(IIASA) in Laxenburg, Austria. Later, he became the C. A. Criley Professor of Transportation Sciences at
+Stanford University
+.
+[
+3
+]
+He was a member of the
+National Academy of Sciences
+, the
+National Academy of Engineering
+, and the
+American Academy of Arts and Sciences
+. Dantzig was the recipient of many honors, including the first
+John von Neumann Theory Prize
+in 1974, the
+National Medal of Science
+in 1975,
+[
+10
+]
+and an
+honorary doctorate
+from the
+University of Maryland, College Park
+in 1976. The
+Mathematical Programming Society
+honored Dantzig by creating the
+George B. Dantzig Prize
+, bestowed every three years since 1982 on one or two people who have made a significant impact in the field of mathematical programming. He was elected to the 2002 class of
+Fellows
+of the
+Institute for Operations Research and the Management Sciences
+.
+[
+11
+]
+Research
+[
+edit
+]
+Freund wrote further that "through his research in mathematical theory, computation, economic analysis, and applications to industrial problems, Dantzig contributed more than any other researcher to the remarkable development of linear programming".
+[
+12
+]
+Dantzig's work allows the airline industry, for example, to schedule crews and make fleet assignments. Based on his work, tools are developed "that shipping companies use to determine how many planes they need and where their delivery trucks should be deployed. The oil industry long has used linear programming in refinery planning, as it determines how much of its raw product should become different grades of gasoline and how much should be used for petroleum-based byproducts. It is used in manufacturing, revenue management, telecommunications, advertising, architecture, circuit design and countless other areas".
+[
+2
+]
+Linear programming
+[
+edit
+]
+Linear programming
+is a mathematical method for determining a way to achieve the best outcome (such as maximum profit or lowest cost) in a given
+mathematical model
+for some list of requirements represented as linear relationships. Linear programming arose as a mathematical model developed during
+World War II
+to plan expenditures and returns in order to reduce costs to the army and increase losses to the enemy. It was kept secret until 1947. Postwar, many industries found its use in their daily planning.
+The founders of this subject are
+Leonid Kantorovich
+, a Russian mathematician who developed linear programming problems in 1939, Dantzig, who published the
+simplex method
+in 1947, and
+John von Neumann
+, who developed the theory of the
+duality
+in the same year.
+Dantzig was asked to work out a method the Air Force could use to improve their planning process.
+[
+13
+]
+This led to his original example of finding the best assignment of 70 people to 70 jobs, showing the usefulness of
+linear programming
+. The computing power required to test all the permutations to select the best assignment is vast; the number of possible configurations exceeds the number of particles in the universe. However, it takes only a moment to find the optimum solution by posing the problem as a linear program and applying the Simplex algorithm. The theory behind linear programming drastically reduces the number of possible optimal solutions that must be checked, and today industrial linear programs with tens or hundreds of thousands or even more variables are routinely solved.
+In 1963, Dantzig's
+Linear Programming and Extensions
+was published by
+Princeton University Press
+. It quickly became a standard text in linear programming.
+Personal life
+[
+edit
+]
+Dantzig married Anne S. Shmuner in 1936.
+[
+14
+]
+[
+15
+]
+He died on May 13, 2005, in his home in
+Stanford, California
+, of complications from
+diabetes
+and
+cardiovascular disease
+. He was 90 years old.
+[
+2
+]
+He had three children: David, Paul, and Jessica.
+Presidential award
+[
+edit
+]
+Dantzig with Ford at the 1976 National Medal of Science Awards Ceremony
+On October 18, 1976, President
+Gerald Ford
+presented Dantzig with the
+National Medal of Science
+. The award was given "For inventing linear programming and discovering methods that led to wide-scale scientific and technical applications to important problems in logistics, scheduling, and network optimization, and to the use of computers in making efficient use of the mathematical theory."
+[
+16
+]
+Publications
+[
+edit
+]
+Books by George Dantzig:
+1953.
+Notes on linear programming
+. RAND Corporation.
+1956.
+Linear inequalities and related systems
+. With others. Edited by H.W. Kuhn and A.W. Tucker. Princeton University Press.
+1963.
+Linear programming and extensions
+. Princeton University Press and the RAND Corporation.
+pdf from RAND
+1966.
+On the continuity of the minimum set of a continuous function
+. With
+Jon H. Folkman
+and Norman Shapiro.
+1968.
+Mathematics of the decision sciences
+. With
+Arthur F. Veinott
+, Jr. Summer Seminar on Applied Mathematics 5th
+: 1967
+: Stanford University. American Mathematical Society.
+1969.
+Lectures in differential equations
+. A. K. Aziz, general editor. Contributors: George B. Dantzig and others.
+1970.
+Natural gas transmission system optimization
+. With others.
+1973.
+Compact city
+; a plan for a liveable urban environment
+. With Thomas L. Saaty.
+1974.
+Studies in optimization
+. Edited with B.C. Eaves. Mathematical Association of America.
+1985.
+Mathematical programming
+: essays in honor of George B. Dantzig
+. Edited by R.W. Cottle. Mathematical Programming Society.
+1997.
+Linear programming 1: Introduction
+. G.B.D. and Mukund N. Thapa. Springer-Verlag.
+2003.
+Linear programming 2: Theory and Extensions
+. G.B.D. and Mukund N. Thapa. Springer-Verlag.
+2003.
+The Basic George B. Dantzig
+. Edited by Richard W. Cottle. Stanford Business Books, Stanford University Press, Stanford, California.
+[
+17
+]
+Book chapters:
+Dantzig, George B. (1960), "General convex objective forms", in
+Arrow, Kenneth J.
+;
+Karlin, Samuel
+;
+Suppes, Patrick
+(eds.),
+Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium
+, Stanford mathematical studies in the social sciences, IV, Stanford, California: Stanford University Press, pp.
+151–
+158.
+ISBN
+9780804700214
+.
+Articles, a selection:
+Dantzig, George B. (June 1940).
+"On the Non-Existence of Tests of 'Student's' Hypothesis Having Power Functions Independent of σ"
+.
+The Annals of Mathematical Statistics
+.
+11
+(2):
+186–
+92.
+doi
+:
+10.1214/aoms/1177731912
+.
+JSTOR
+2235875
+.
+Wood, Marshall K.; Dantzig, George B. (1949). "Programming of Interdependent Activities: I General Discussion".
+Econometrica
+.
+17
+(3/4):
+193–
+9.
+doi
+:
+10.2307/1905522
+.
+JSTOR
+1905522
+.
+Dantzig, George B. (1949). "Programming of Interdependent Activities: II Mathematical Model".
+Econometrica
+.
+17
+(3):
+200–
+211.
+doi
+:
+10.2307/1905523
+.
+JSTOR
+1905523
+.
+Dantzig, George B. (1955). "Optimal Solution of a Dynamic Leontief Model with Substitution".
+Econometrica
+.
+23
+(3):
+295–
+302.
+doi
+:
+10.2307/1910385
+.
+JSTOR
+1910385
+.
+See also
+[
+edit
+]
+Systems science portal
+Dantzig–Wolfe decomposition
+Knapsack problem
+Maximum flow problem
+Optimization (mathematics)
+Travelling salesman problem
+Shadow price
+Notes
+[
+edit
+]
+↑
+Gass, Saul I. (2011). "George B. Dantzig".
+Profiles in Operations Research
+. International Series in Operations Research & Management Science. Vol.
+147. pp.
+217–
+240.
+doi
+:
+10.1007/978-1-4419-6281-2_13
+.
+ISBN
+978-1-4419-6280-5
+.
+1
+2
+3
+4
+5
+6
+Joe Holley (2005).
+"Obituaries of George Dantzig"
+. In:
+Washington Post
+, May 19, 2005; B06
+1
+2
+3
+Richard W. Cottle, B. Curtis Eaves and Michael A. Saunders (2006).
+"Memorial Resolution: George Bernard Dantzig"
+Archived
+2006-08-30 at the
+Wayback Machine
+. Stanford Report, June 7, 2006.
+1
+2
+3
+4
+5
+6
+7
+Albers, Donald J.;
+Alexanderson, Gerald L.
+;
+Reid, Constance
+, eds. (1990).
+"George B. Dantzig"
+.
+More Mathematical People
+. Harcourt Brace Jovanovich. pp.
+60–79
+.
+ISBN
+978-0-15-158175-7
+.
+↑
+Dawn Levy (May 25, 2005).
+"George B. Dantzig, operations research giant, dies at 90"
+.
+Stanford University
+News Service. Archived from
+the original
+on February 26, 2021
+. Retrieved
+February 22,
+2021
+.
+1
+2
+"The Unsolvable Math Problem"
+. Snopes. June 28, 2011.
+↑
+Dantzig, George (1940).
+"On the non-existence of tests of "Student's" hypothesis having power functions independent of σ"
+.
+The Annals of Mathematical Statistics
+.
+11
+(2):
+186–
+192.
+doi
+:
+10.1214/aoms/1177731912
+.
+1
+2
+Allende, Sira M.; Bouza, Carlos N. (2005).
+"Professor George Bernard Dantzig, Life & Legend"
+(PDF)
+.
+Revista Investigación Operacional
+.
+26
+(3):
+205–
+11. Archived from
+the original
+(PDF)
+on 2018-04-21
+. Retrieved
+2019-03-24
+.
+↑
+Dantzig, George; Wald, Abraham (1951).
+"On the Fundamental Lemma of Neyman and Pearson"
+.
+The Annals of Mathematical Statistics
+.
+22
+:
+87–
+93.
+doi
+:
+10.1214/aoms/1177729695
+. Retrieved
+14 October
+2014
+.
+↑
+National Science Foundation – The President's National Medal of Science
+↑
+Fellows: Alphabetical List
+,
+Institute for Operations Research and the Management Sciences
+, archived from
+the original
+on 2019-05-10
+, retrieved
+2019-10-09
+↑
+Robert Freund (1994).
+"Professor George Dantzig: Linear Programming Founder Turns 80"
+Archived
+2009-04-16 at the
+Wayback Machine
+. In:
+SIAM News
+, November 1994.
+↑
+"Biographical Profiles: Dantzig, George B."
+INFORMS
+. Retrieved
+2020-10-30
+.
+↑
+"George B. Dantzig, operations research professor, dies at 90"
+. 25 May 2005.
+↑
+"George Dantzig"
+. 27 May 2005.
+Archived
+from the original on 2022-01-12.
+↑
+"The President's National Medal of Science: Recipient Details"
+.
+↑
+Todd, Michael J. (2011).
+"Review:
+The Basic George B. Dantzig
+, by Richard W. Cottle"
+.
+Bull. Amer. Math. Soc. (N.S.)
+.
+48
+(1):
+123–
+129.
+doi
+:
+10.1090/S0273-0979-2010-01303-3
+.
+Further reading
+[
+edit
+]
+Cottle, Richard; Johnson, Ellis; Wets, Roger (March 2007).
+"George B. Dantzig (1914–2005)"
+(PDF)
+.
+Notices of the American Mathematical Society
+.
+54
+(3):
+344–
+62.
+"Professor George Dantzig: Linear Programming Founder Turns 80"
+Archived
+2009-04-16 at the
+Wayback Machine
+,
+SIAM
+News
+, November 1994
+O'Connor, John J.;
+Robertson, Edmund F.
+,
+"George Dantzig"
+,
+MacTutor History of Mathematics Archive
+,
+University of St Andrews
+Dantzig, George B. (1990). "The Diet Problem".
+Interfaces
+.
+20
+(4):
+43–
+7.
+doi
+:
+10.1287/inte.20.4.43
+.
+JSTOR
+25061369
+.
+Cottle, Richard W. (2005). "George B. Dantzig: a legendary life in mathematical programming".
+Mathematical Programming
+.
+105
+(1):
+1–
+8.
+doi
+:
+10.1007/s10107-005-0674-4
+.
+ISSN
+0025-5610
+.
+S2CID
+207054446
+.
+External links
+[
+edit
+]
+Wikiquote has quotations related to
+George Dantzig
+.
+O'Connor, John J.;
+Robertson, Edmund F.
+,
+"George Dantzig"
+,
+MacTutor History of Mathematics Archive
+,
+University of St Andrews
+Tributes to George Dantzig and Leonid Khachiyan
+Obituaries of George Dantzig
+Interview with George B. Dantzig: The Father of Linear Programming – The College Mathematical Journal, 1986
+Archived
+2021-11-15 at the
+Wayback Machine
+JSTOR
+2686279
+INFORMS George Dantzig Memorial Website
+George Dantzig
+at the
+Mathematics Genealogy Project
+Biography of George Dantzig
+from the Institute for Operations Research and the Management Sciences (INFORMS)
+An Interview with Nobel Laureate Harry M. Markowitz
+v
+t
+e
+Systems science
+System
+types
+Art
+Biological
+Complex
+Coupled human–environment
+Ecological
+Economic
+Information
+Multi-agent
+Nervous
+Recommender
+Social
+Concepts
+Doubling time
+Leverage points
+Limiting factor
+Negative feedback
+Positive feedback
+Theoretical
+fields
+Control theory
+Cybernetics
+Earth system science
+Living systems
+Sociotechnical system
+Systemics
+Urban metabolism
+World-systems theory
+Analysis
+Biology
+Dynamics
+Ecology
+Engineering
+Neuroscience
+Pharmacology
+Philosophy
+Psychology
+Theory
+(
+Systems thinking
+)
+Scientists
+Russell L. Ackoff
+Victor Aladjev
+William Ross Ashby
+Ruzena Bajcsy
+Béla H. Bánáthy
+Gregory Bateson
+Stafford Beer
+Richard E. Bellman
+Ludwig von Bertalanffy
+Margaret Boden
+Alexander Bogdanov
+Kenneth E. Boulding
+Murray Bowen
+Kathleen Carley
+Mary Cartwright
+C. West Churchman
+Manfred Clynes
+George Dantzig
+Edsger W. Dijkstra
+Fred Emery
+Heinz von Foerster
+Stephanie Forrest
+Jay Wright Forrester
+Barbara Grosz
+Charles A. S. Hall
+Mike Jackson
+Lydia Kavraki
+James J. Kay
+Faina M. Kirillova
+George Klir
+Allenna Leonard
+Edward Norton Lorenz
+Niklas Luhmann
+Humberto Maturana
+Margaret Mead
+Donella Meadows
+Mihajlo D. Mesarovic
+James Grier Miller
+Radhika Nagpal
+Howard T. Odum
+Talcott Parsons
+Ilya Prigogine
+Qian Xuesen
+Anatol Rapoport
+John Seddon
+Peter Senge
+Claude Shannon
+Katia Sycara
+Eric Trist
+Francisco Varela
+Manuela M. Veloso
+Kevin Warwick
+Norbert Wiener
+Jennifer Wilby
+Anthony Wilden
+Applications
+Systems theory in anthropology
+Systems theory in archaeology
+Systems theory in political science
+Organizations
+List
+Principia Cybernetica
+Category
+Portal
+Commons
+v
+t
+e
+Laureates of the
+United States National Medal of Science
+Behavioral and social science
+1960s
+1964
+Neal Elgar Miller
+1980s
+1986
+Herbert A. Simon
+1987
+Anne Anastasi
+George J. Stigler
+1988
+Milton Friedman
+1990s
+1990
+Leonid Hurwicz
+Patrick Suppes
+1991
+George A. Miller
+1992
+Eleanor J. Gibson
+1994
+Robert K. Merton
+1995
+Roger N. Shepard
+1996
+Paul Samuelson
+1997
+William K. Estes
+1998
+William Julius Wilson
+1999
+Robert M. Solow
+2000s
+2000
+Gary Becker
+2003
+R. Duncan Luce
+2004
+Kenneth Arrow
+2005
+Gordon H. Bower
+2008
+Michael I. Posner
+2009
+Mortimer Mishkin
+2010s
+2011
+Anne Treisman
+2014
+Robert Axelrod
+2015
+Albert Bandura
+2020s
+2023
+Huda Akil
+Shelley E. Taylor
+2025
+Larry Bartels
+Biological sciences
+1960s
+1963
+C. B. van Niel
+1964
+Theodosius Dobzhansky
+Marshall W. Nirenberg
+1965
+Francis P. Rous
+George G. Simpson
+Donald D. Van Slyke
+1966
+Edward F. Knipling
+Fritz Albert Lipmann
+William C. Rose
+Sewall Wright
+1967
+Kenneth S. Cole
+Harry F. Harlow
+Michael Heidelberger
+Alfred H. Sturtevant
+1968
+Horace Barker
+Bernard B. Brodie
+Detlev W. Bronk
+Jay Lush
+Burrhus Frederic Skinner
+1969
+Robert Huebner
+Ernst Mayr
+1970s
+1970
+Barbara McClintock
+Albert B. Sabin
+1973
+Daniel I. Arnon
+Earl W. Sutherland Jr.
+1974
+Britton Chance
+Erwin Chargaff
+James V. Neel
+James Augustine Shannon
+1975
+Hallowell Davis
+Paul Gyorgy
+Sterling B. Hendricks
+Orville Alvin Vogel
+1976
+Roger Guillemin
+Keith Roberts Porter
+Efraim Racker
+E. O. Wilson
+1979
+Robert H. Burris
+Elizabeth C. Crosby
+Arthur Kornberg
+Severo Ochoa
+Earl Reece Stadtman
+George Ledyard Stebbins
+Paul Alfred Weiss
+1980s
+1981
+Philip Handler
+1982
+Seymour Benzer
+Glenn W. Burton
+Mildred Cohn
+1983
+Howard L. Bachrach
+Paul Berg
+Wendell L. Roelofs
+Berta Scharrer
+1986
+Stanley Cohen
+Donald A. Henderson
+Vernon B. Mountcastle
+George Emil Palade
+Joan A. Steitz
+1987
+Michael E. DeBakey
+Theodor O. Diener
+Harry Eagle
+Har Gobind Khorana
+Rita Levi-Montalcini
+1988
+Michael S. Brown
+Stanley Norman Cohen
+Joseph L. Goldstein
+Maurice R. Hilleman
+Eric R. Kandel
+Rosalyn Sussman Yalow
+1989
+Katherine Esau
+Viktor Hamburger
+Philip Leder
+Joshua Lederberg
+Roger W. Sperry
+Harland G. Wood
+1990s
+1990
+Baruj Benacerraf
+Herbert W. Boyer
+Daniel E. Koshland Jr.
+Edward B. Lewis
+David G. Nathan
+E. Donnall Thomas
+1991
+Mary Ellen Avery
+G. Evelyn Hutchinson
+Elvin A. Kabat
+Robert W. Kates
+Salvador Luria
+Paul A. Marks
+Folke K. Skoog
+Paul C. Zamecnik
+1992
+Maxine Singer
+Howard Martin Temin
+1993
+Daniel Nathans
+Salome G. Waelsch
+1994
+Thomas Eisner
+Elizabeth F. Neufeld
+1995
+Alexander Rich
+1996
+Ruth Patrick
+1997
+James Watson
+Robert A. Weinberg
+1998
+Bruce Ames
+Janet Rowley
+1999
+David Baltimore
+Jared Diamond
+Lynn Margulis
+2000s
+2000
+Nancy C. Andreasen
+Peter H. Raven
+Carl Woese
+2001
+Francisco J. Ayala
+George F. Bass
+Mario R. Capecchi
+Ann Graybiel
+Gene E. Likens
+Victor A. McKusick
+Harold Varmus
+2002
+James E. Darnell
+Evelyn M. Witkin
+2003
+J. Michael Bishop
+Solomon H. Snyder
+Charles Yanofsky
+2004
+Norman E. Borlaug
+Phillip A. Sharp
+Thomas E. Starzl
+2005
+Anthony Fauci
+Torsten N. Wiesel
+2006
+Rita R. Colwell
+Nina Fedoroff
+Lubert Stryer
+2007
+Robert J. Lefkowitz
+Bert W. O'Malley
+2008
+Francis S. Collins
+Elaine Fuchs
+J. Craig Venter
+2009
+Susan L. Lindquist
+Stanley B. Prusiner
+2010s
+2010
+Ralph L. Brinster
+Rudolf Jaenisch
+2011
+Lucy Shapiro
+Leroy Hood
+Sallie Chisholm
+2012
+May Berenbaum
+Bruce Alberts
+2013
+Rakesh K. Jain
+2014
+Stanley Falkow
+Mary-Claire King
+Simon Levin
+2020s
+2023
+Gebisa Ejeta
+Eve Marder
+Gregory Petsko
+Sheldon Weinbaum
+2025
+Bonnie Bassler
+Angela Belcher
+Helen Blau
+Emery N. Brown
+G. David Tilman
+Teresa Woodruff
+Chemistry
+1960s
+1964
+Roger Adams
+1980s
+1982
+F. Albert Cotton
+Gilbert Stork
+1983
+Roald Hoffmann
+George C. Pimentel
+Richard N. Zare
+1986
+Harry B. Gray
+Yuan Tseh Lee
+Carl S. Marvel
+Frank H. Westheimer
+1987
+William S. Johnson
+Walter H. Stockmayer
+Max Tishler
+1988
+William O. Baker
+Konrad E. Bloch
+Elias J. Corey
+1989
+Richard B. Bernstein
+Melvin Calvin
+Rudolph A. Marcus
+Harden M. McConnell
+1990s
+1990
+Elkan Blout
+Karl Folkers
+John D. Roberts
+1991
+Ronald Breslow
+Gertrude B. Elion
+Dudley R. Herschbach
+Glenn T. Seaborg
+1992
+Howard E. Simmons Jr.
+1993
+Donald J. Cram
+Norman Hackerman
+1994
+George S. Hammond
+1995
+Thomas Cech
+Isabella L. Karle
+1996
+Norman Davidson
+1997
+Darleane C. Hoffman
+Harold S. Johnston
+1998
+John W. Cahn
+George M. Whitesides
+1999
+Stuart A. Rice
+John Ross
+Susan Solomon
+2000s
+2000
+John D. Baldeschwieler
+Ralph F. Hirschmann
+2001
+Ernest R. Davidson
+Gábor A. Somorjai
+2002
+John I. Brauman
+2004
+Stephen J. Lippard
+2005
+Tobin J. Marks
+2006
+Marvin H. Caruthers
+Peter B. Dervan
+2007
+Mostafa A. El-Sayed
+2008
+Joanna Fowler
+JoAnne Stubbe
+2009
+Stephen J. Benkovic
+Marye Anne Fox
+2010s
+2010
+Jacqueline K. Barton
+Peter J. Stang
+2011
+Allen J. Bard
+M. Frederick Hawthorne
+2012
+Judith P. Klinman
+Jerrold Meinwald
+2013
+Geraldine L. Richmond
+2014
+A. Paul Alivisatos
+2025
+R. Lawrence Edwards
+Engineering sciences
+1960s
+1962
+Theodore von Kármán
+1963
+Vannevar Bush
+John Robinson Pierce
+1964
+Charles S. Draper
+Othmar H. Ammann
+1965
+Hugh L. Dryden
+Clarence L. Johnson
+Warren K. Lewis
+1966
+Claude E. Shannon
+1967
+Edwin H. Land
+Igor I. Sikorsky
+1968
+J. Presper Eckert
+Nathan M. Newmark
+1969
+Jack St. Clair Kilby
+1970s
+1970
+George E. Mueller
+1973
+Harold E. Edgerton
+Richard T. Whitcomb
+1974
+Rudolf Kompfner
+Ralph Brazelton Peck
+Abel Wolman
+1975
+Manson Benedict
+William Hayward Pickering
+Frederick E. Terman
+Wernher von Braun
+1976
+Morris Cohen
+Peter C. Goldmark
+Erwin Wilhelm Müller
+1979
+Emmett N. Leith
+Raymond D. Mindlin
+Robert N. Noyce
+Earl R. Parker
+Simon Ramo
+1980s
+1982
+Edward H. Heinemann
+Donald L. Katz
+1983
+Bill Hewlett
+George Low
+John G. Trump
+1986
+Hans Wolfgang Liepmann
+Tung-Yen Lin
+Bernard M. Oliver
+1987
+Robert Byron Bird
+H. Bolton Seed
+Ernst Weber
+1988
+Daniel C. Drucker
+Willis M. Hawkins
+George W. Housner
+1989
+Harry George Drickamer
+Herbert E. Grier
+1990s
+1990
+Mildred Dresselhaus
+Nick Holonyak Jr.
+1991
+George H. Heilmeier
+Luna B. Leopold
+H. Guyford Stever
+1992
+Calvin F. Quate
+John Roy Whinnery
+1993
+Alfred Y. Cho
+1994
+Ray W. Clough
+1995
+Hermann A. Haus
+1996
+James L. Flanagan
+C. Kumar N. Patel
+1998
+Eli Ruckenstein
+1999
+Kenneth N. Stevens
+2000s
+2000
+Yuan-Cheng B. Fung
+2001
+Andreas Acrivos
+2002
+Leo Beranek
+2003
+John M. Prausnitz
+2004
+Edwin N. Lightfoot
+2005
+Jan D. Achenbach
+2006
+Robert S. Langer
+2007
+David J. Wineland
+2008
+Rudolf E. Kálmán
+2009
+Amnon Yariv
+2010s
+2010
+Shu Chien
+2011
+John B. Goodenough
+2012
+Thomas Kailath
+2020s
+2023
+Subra Suresh
+2025
+John Dabiri
+2026
+Lisa Su
+Sergey Brin
+Elon Musk
+Jensen Huang
+Mathematical, statistical, and computer sciences
+1960s
+1963
+Norbert Wiener
+1964
+Solomon Lefschetz
+H. Marston Morse
+1965
+Oscar Zariski
+1966
+John Milnor
+1967
+Paul Cohen
+1968
+Jerzy Neyman
+1969
+William Feller
+1970s
+1970
+Richard Brauer
+1973
+John Tukey
+1974
+Kurt Gödel
+1975
+John W. Backus
+Shiing-Shen Chern
+George Dantzig
+1976
+Kurt Otto Friedrichs
+Hassler Whitney
+1979
+Joseph L. Doob
+Donald E. Knuth
+1980s
+1982
+Marshall H. Stone
+1983
+Herman Goldstine
+Isadore Singer
+1986
+Peter Lax
+Antoni Zygmund
+1987
+Raoul Bott
+Michael Freedman
+1988
+Ralph E. Gomory
+Joseph B. Keller
+1989
+Samuel Karlin
+Saunders Mac Lane
+Donald C. Spencer
+1990s
+1990
+George F. Carrier
+Stephen Cole Kleene
+John McCarthy
+1991
+Alberto Calderón
+1992
+Allen Newell
+1993
+Martin David Kruskal
+1994
+John Cocke
+1995
+Louis Nirenberg
+1996
+Richard Karp
+Stephen Smale
+1997
+Shing-Tung Yau
+1998
+Cathleen Synge Morawetz
+1999
+Felix Browder
+Ronald R. Coifman
+2000s
+2000
+John Griggs Thompson
+Karen Uhlenbeck
+2001
+Calyampudi R. Rao
+Elias M. Stein
+2002
+James G. Glimm
+2003
+Carl R. de Boor
+2004
+Dennis P. Sullivan
+2005
+Bradley Efron
+2006
+Hyman Bass
+2007
+Leonard Kleinrock
+Andrew J. Viterbi
+2009
+David B. Mumford
+2010s
+2010
+Richard A. Tapia
+S. R. Srinivasa Varadhan
+2011
+Solomon W. Golomb
+Barry Mazur
+2012
+Alexandre Chorin
+David Blackwell
+2013
+Michael Artin
+2020s
+2025
+Ingrid Daubechies
+Cynthia Dwork
+Physical sciences
+1960s
+1963
+Luis W. Alvarez
+1964
+Julian Schwinger
+Harold Urey
+Robert Burns Woodward
+1965
+John Bardeen
+Peter Debye
+Leon M. Lederman
+William Rubey
+1966
+Jacob Bjerknes
+Subrahmanyan Chandrasekhar
+Henry Eyring
+John H. Van Vleck
+Vladimir K. Zworykin
+1967
+Jesse Beams
+Francis Birch
+Gregory Breit
+Louis Hammett
+George Kistiakowsky
+1968
+Paul Bartlett
+Herbert Friedman
+Lars Onsager
+Eugene Wigner
+1969
+Herbert C. Brown
+Wolfgang Panofsky
+1970s
+1970
+Robert H. Dicke
+Allan R. Sandage
+John C. Slater
+John A. Wheeler
+Saul Winstein
+1973
+Carl Djerassi
+Maurice Ewing
+Arie Jan Haagen-Smit
+Vladimir Haensel
+Frederick Seitz
+Robert Rathbun Wilson
+1974
+Nicolaas Bloembergen
+Paul Flory
+William Alfred Fowler
+Linus Carl Pauling
+Kenneth Sanborn Pitzer
+1975
+Hans A. Bethe
+Joseph O. Hirschfelder
+Lewis Sarett
+Edgar Bright Wilson
+Chien-Shiung Wu
+1976
+Samuel Goudsmit
+Herbert S. Gutowsky
+Frederick Rossini
+Verner Suomi
+Henry Taube
+George Uhlenbeck
+1979
+Richard P. Feynman
+Herman Mark
+Edward M. Purcell
+John Sinfelt
+Lyman Spitzer
+Victor F. Weisskopf
+1980s
+1982
+Philip W. Anderson
+Yoichiro Nambu
+Edward Teller
+Charles H. Townes
+1983
+E. Margaret Burbidge
+Maurice Goldhaber
+Helmut Landsberg
+Walter Munk
+Frederick Reines
+Bruno B. Rossi
+J. Robert Schrieffer
+1986
+Solomon J. Buchsbaum
+H. Richard Crane
+Herman Feshbach
+Robert Hofstadter
+Chen-Ning Yang
+1987
+Philip Abelson
+Walter Elsasser
+Paul C. Lauterbur
+George Pake
+James A. Van Allen
+1988
+D. Allan Bromley
+Paul Ching-Wu Chu
+Walter Kohn
+Norman Foster Ramsey Jr.
+Jack Steinberger
+1989
+Arnold O. Beckman
+Eugene Parker
+Robert Sharp
+Henry Stommel
+1990s
+1990
+Allan M. Cormack
+Edwin M. McMillan
+Robert Pound
+Roger Revelle
+1991
+Arthur L. Schawlow
+Ed Stone
+Steven Weinberg
+1992
+Eugene M. Shoemaker
+1993
+Val Fitch
+Vera Rubin
+1994
+Albert Overhauser
+Frank Press
+1995
+Hans Dehmelt
+Peter Goldreich
+1996
+Wallace S. Broecker
+1997
+Marshall Rosenbluth
+Martin Schwarzschild
+George Wetherill
+1998
+Don L. Anderson
+John N. Bahcall
+1999
+James Cronin
+Leo Kadanoff
+2000s
+2000
+Willis E. Lamb
+Jeremiah P. Ostriker
+Gilbert F. White
+2001
+Marvin L. Cohen
+Raymond Davis Jr.
+Charles Keeling
+2002
+Richard Garwin
+W. Jason Morgan
+Edward Witten
+2003
+G. Brent Dalrymple
+Riccardo Giacconi
+2004
+Robert N. Clayton
+2005
+Ralph A. Alpher
+Lonnie Thompson
+2006
+Daniel Kleppner
+2007
+Fay Ajzenberg-Selove
+Charles P. Slichter
+2008
+Berni Alder
+James E. Gunn
+2009
+Yakir Aharonov
+Esther M. Conwell
+Warren M. Washington
+2010s
+2011
+Sidney Drell
+Sandra Faber
+Sylvester James Gates
+2012
+Burton Richter
+Sean C. Solomon
+2014
+Shirley Ann Jackson
+2020s
+2023
+Barry Barish
+Myriam Sarachik
+2025
+Richard Alley
+Wendy Freedman
+Keivan Stassun
+v
+t
+e
+John von Neumann Theory Prize
+1975–1999
+George Dantzig
+(1975)
+Richard Bellman
+(1976)
+Felix Pollaczek
+(1977)
+John F. Nash
+/
+Carlton E. Lemke
+(1978)
+David Blackwell
+(1979)
+David Gale
+/
+Harold W. Kuhn
+/
+Albert W. Tucker
+(1980)
+Lloyd Shapley
+(1981)
+Abraham Charnes
+/
+William W. Cooper
+/
+Richard J. Duffin
+(1982)
+Herbert Scarf
+(1983)
+Ralph Gomory
+(1984)
+Jack Edmonds
+(1985)
+Kenneth Arrow
+(1986)
+Samuel Karlin
+(1987)
+Herbert A. Simon
+(1988)
+Harry Markowitz
+(1989)
+Richard Karp
+(1990)
+Richard E. Barlow
+/
+Frank Proschan
+(1991)
+Alan J. Hoffman
+/
+Philip Wolfe
+(1992)
+Robert Herman
+(1993)
+Lajos Takacs
+(1994)
+Egon Balas
+(1995)
+Peter C. Fishburn
+(1996)
+Peter Whittle
+(1997)
+Fred W. Glover
+(1998)
+R. Tyrrell Rockafellar
+(1999)
+2000–present
+Ellis L. Johnson
+/
+Manfred W. Padberg
+(2000)
+Ward Whitt
+(2001)
+Donald L. Iglehart
+/
+Cyrus Derman
+(2002)
+Arkadi Nemirovski
+/
+Michael J. Todd
+(2003)
+J. Michael Harrison
+(2004)
+Robert Aumann
+(2005)
+Martin Grötschel
+/
+László Lovász
+/
+Alexander Schrijver
+(2006)
+Arthur F. Veinott, Jr.
+(2007)
+Frank Kelly
+(2008)
+Yurii Nesterov
+/
+Yinyu Ye
+(2009)
+Søren Asmussen
+/
+Peter W. Glynn
+(2010)
+Gérard Cornuéjols
+(2011)
+George Nemhauser
+/
+Laurence Wolsey
+(2012)
+Michel Balinski
+(2013)
+Nimrod Megiddo
+(2014)
+Vašek Chvátal
+/
+Jean Bernard Lasserre
+(2015)
+Martin I. Reiman
+/
+Ruth J. Williams
+(2016)
+Donald Goldfarb
+/
+Jorge Nocedal
+(2017)
+Dimitri Bertsekas
+/
+John Tsitsiklis
+(2018)
+Dimitris Bertsimas
+/
+Jong-Shi Pang
+(2019)
+Adrian Lewis
+(2020)
+Alexander Shapiro
+(2021)
+Vijay Vazirani
+(2022)
+Christos Papadimitriou
+/
+Mihalis Yannakakis
+(2023)
+Authority control databases
+International
+ISNI
+VIAF
+GND
+FAST
+WorldCat
+National
+United States
+France
+BnF data
+Japan
+Italy
+Czech Republic
+Netherlands
+Norway
+Latvia
+Sweden
+Israel
+Catalonia
+Academics
+CiNii
+Mathematics Genealogy Project
+Association for Computing Machinery
+Scopus
+zbMATH
+DBLP
+MathSciNet
+People
+Trove
+DDB
+Other
+IdRef
+Open Library
+SNAC
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=George_Dantzig&oldid=1385652056
+"
+Categories
+:
+1914 births
+2005 deaths
+American computer scientists
+American operations researchers
+American people of French-Jewish descent
+American systems scientists
+Deaths from diabetes in California
+Fellows of the Econometric Society
+General equilibrium theorists
+Jewish American scientists
+Jews from Oregon
+John von Neumann Theory Prize winners
+Mathematical economists
+Mathematicians from Oregon
+Fellows of the Institute for Operations Research and the Management Sciences
+Members of the United States National Academy of Sciences
+National Medal of Science laureates
+Numerical analysts
+People from Stanford, California
+RAND Corporation people
+Stanford University School of Engineering faculty
+United States Air Force civilians
+University of California, Berkeley alumni
+UC Berkeley College of Engineering faculty
+University of Maryland, College Park alumni
+University of Michigan College of Literature, Science, and the Arts alumni
+United States Army Air Forces personnel of World War II
+United States Army civilians
+20th-century American Jews
+21st-century American Jews
+Scientists from Portland, Oregon
+20th-century American statisticians
+21st-century American statisticians
+Harvey Prize winners
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Articles with hCards
+Webarchive template wayback links
+This page was last edited on 14 November 2026, at 14:16
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+George Dantzig
+39 languages
+Add topic

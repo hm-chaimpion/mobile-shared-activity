@@ -1,0 +1,14 @@
+{
+ "pass": true,
+ "nodes": 47,
+ "edges": 50,
+ "sources_saved": 45,
+ "sources_cited_by_graph": 41,
+ "saved_not_in_graph": [
+  "sources/src-blender.txt",
+  "sources/src-ideo.txt",
+  "sources/src-wiki-tom-kelley.txt",
+  "sources/src-yt-channel-diysmartcode.txt"
+ ],
+ "fails": []
+}

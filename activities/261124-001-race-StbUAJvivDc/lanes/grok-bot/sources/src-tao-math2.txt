@@ -1,0 +1,1065 @@
+# SOURCE: src-tao-math2
+# url: https://terrytao.wordpress.com/2026/10/10/math-2-0/
+# final_url: https://terrytao.wordpress.com/2026/10/10/math-2-0/
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:46+13:00
+# title: Math 2.0 | What's new
+# raw_sha256: a528edd7f119a7bdec92d6da3d4a5ae496dddaa8a1e41333a5225e3d21a43c29
+# raw_file: src-tao-math2.raw.html
+# tool: created-tools/save_source.py
+
+Math 2.0 | What's new
+What's new
+Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao
+Home
+About
+Career advice
+On writing
+Books
+Mastodon+
+Applets
+Subscribe to feed
+Math 2.0
+10 October, 2026 in
+math.GM
+,
+talk
+| Tags:
+Math 2.0
+| by
+Terence Tao
+I am uploading
+my slides
+to my public lecture “
+Math 2.0
+” that I gave yesterday evening at Caltech. (The talk was planned over a year ago, and was initially titled “Machine Assisted Proof” and scheduled to be given back in May. It was postponed to October, and with recent events the talk changed significantly, but the old title and abstract remains on the Caltech web page.)
+In this talk I lay out the historical “Math 1.0” state of mathematics, the current state induced by the excessive emphasis on automated solving of open problems by AI, and my vision for a future “Math 2.0” where AI tools are used to sustain both the internal mathematical community, and the role that mathematical understanding plays in advancing and aligning the applications of mathematics to the real world.
+The content of this talk has also been incorporated into my (AI-maintained)
+living summary of my views on AI
+.
+Share this:
+Print (Opens in new window)
+Print
+Email a link to a friend (Opens in new window)
+Email
+More
+Share on WhatsApp (Opens in new window)
+WhatsApp
+Share on Bluesky (Opens in new window)
+Bluesky
+Share on Nextdoor (Opens in new window)
+Nextdoor
+Share on Threads (Opens in new window)
+Threads
+Share on Tumblr (Opens in new window)
+Tumblr
+Share on Telegram (Opens in new window)
+Telegram
+Share on LinkedIn (Opens in new window)
+LinkedIn
+Share on X (Opens in new window)
+X
+Share on Facebook (Opens in new window)
+Facebook
+Share on Reddit (Opens in new window)
+Reddit
+Share on Mastodon (Opens in new window)
+Mastodon
+Share on Pinterest (Opens in new window)
+Pinterest
+Like
+Loading...
+Recent Comments
+Gordon Royle on
+Even more posts, opinion piece…
+MJH on
+Finite-Time Singularity Format…
+twinheterodox on
+Finite-Time Singularity Format…
+twinheterodox on
+Finite-Time Singularity Format…
+Anonymous on
+Finite-Time Singularity Format…
+Anonymous on
+Even more posts, opinion piece…
+Anonymous on
+Even more posts, opinion piece…
+anonymous on
+Mathematics has changed. Let…
+Anonymous on
+Finite-Time Singularity Format…
+Anonymous on
+Even more posts, opinion piece…
+jmdpark
+on
+Finite-Time Singularity Format…
+Anonymous on
+Finite-Time Singularity Format…
+Anonymous on
+Even more posts, opinion piece…
+Anonymous on
+Finite-Time Singularity Format…
+Anonymous on
+Tenure-track position in pure…
+Top Posts
+Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis
+Even more posts, opinion pieces, interviews, and position statements
+Finite-Time Singularity Formation for the Three-Dimensional Euler Equations
+Tenure-track position in pure and applied mathematics at UCLA
+What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI
+A Severe Misalignment of AI in Mathematics
+Mathematics has changed. Let's act like it
+Career advice
+The Euler-Maclaurin formula, Bernoulli numbers, the zeta function, and real-variable analytic continuation
+About
+Archives
+November 2026
+(17)
+October 2026
+(43)
+September 2026
+(39)
+August 2026
+(6)
+July 2026
+(9)
+June 2026
+(3)
+May 2026
+(1)
+March 2026
+(4)
+February 2026
+(3)
+January 2026
+(4)
+December 2025
+(5)
+November 2025
+(5)
+September 2025
+(1)
+August 2025
+(3)
+July 2025
+(1)
+June 2025
+(2)
+May 2025
+(5)
+April 2025
+(2)
+March 2025
+(1)
+February 2025
+(3)
+January 2025
+(1)
+December 2024
+(3)
+November 2024
+(4)
+October 2024
+(1)
+September 2024
+(4)
+August 2024
+(3)
+July 2024
+(3)
+June 2024
+(1)
+May 2024
+(1)
+April 2024
+(5)
+March 2024
+(1)
+December 2023
+(2)
+November 2023
+(2)
+October 2023
+(1)
+September 2023
+(3)
+August 2023
+(3)
+June 2023
+(8)
+May 2023
+(1)
+April 2023
+(1)
+March 2023
+(2)
+February 2023
+(1)
+January 2023
+(2)
+December 2022
+(3)
+November 2022
+(3)
+October 2022
+(3)
+September 2022
+(1)
+July 2022
+(3)
+June 2022
+(1)
+May 2022
+(2)
+April 2022
+(2)
+March 2022
+(5)
+February 2022
+(3)
+January 2022
+(1)
+December 2021
+(2)
+November 2021
+(2)
+October 2021
+(1)
+September 2021
+(2)
+August 2021
+(1)
+July 2021
+(3)
+June 2021
+(1)
+May 2021
+(2)
+February 2021
+(6)
+January 2021
+(2)
+December 2020
+(4)
+November 2020
+(2)
+October 2020
+(4)
+September 2020
+(5)
+August 2020
+(2)
+July 2020
+(2)
+June 2020
+(1)
+May 2020
+(2)
+April 2020
+(3)
+March 2020
+(9)
+February 2020
+(1)
+January 2020
+(3)
+December 2019
+(4)
+November 2019
+(2)
+September 2019
+(2)
+August 2019
+(3)
+July 2019
+(2)
+June 2019
+(4)
+May 2019
+(6)
+April 2019
+(4)
+March 2019
+(2)
+February 2019
+(5)
+January 2019
+(1)
+December 2018
+(6)
+November 2018
+(2)
+October 2018
+(2)
+September 2018
+(5)
+August 2018
+(3)
+July 2018
+(3)
+June 2018
+(1)
+May 2018
+(4)
+April 2018
+(4)
+March 2018
+(5)
+February 2018
+(4)
+January 2018
+(5)
+December 2017
+(5)
+November 2017
+(3)
+October 2017
+(4)
+September 2017
+(4)
+August 2017
+(5)
+July 2017
+(5)
+June 2017
+(1)
+May 2017
+(3)
+April 2017
+(2)
+March 2017
+(3)
+February 2017
+(1)
+January 2017
+(2)
+December 2016
+(2)
+November 2016
+(2)
+October 2016
+(5)
+September 2016
+(4)
+August 2016
+(4)
+July 2016
+(1)
+June 2016
+(3)
+May 2016
+(5)
+April 2016
+(2)
+March 2016
+(6)
+February 2016
+(2)
+January 2016
+(1)
+December 2015
+(4)
+November 2015
+(6)
+October 2015
+(5)
+September 2015
+(5)
+August 2015
+(4)
+July 2015
+(7)
+June 2015
+(1)
+May 2015
+(5)
+April 2015
+(4)
+March 2015
+(3)
+February 2015
+(4)
+January 2015
+(4)
+December 2014
+(6)
+November 2014
+(5)
+October 2014
+(4)
+September 2014
+(3)
+August 2014
+(4)
+July 2014
+(5)
+June 2014
+(5)
+May 2014
+(5)
+April 2014
+(2)
+March 2014
+(4)
+February 2014
+(5)
+January 2014
+(4)
+December 2013
+(4)
+November 2013
+(5)
+October 2013
+(4)
+September 2013
+(5)
+August 2013
+(1)
+July 2013
+(7)
+June 2013
+(12)
+May 2013
+(4)
+April 2013
+(2)
+March 2013
+(2)
+February 2013
+(6)
+January 2013
+(1)
+December 2012
+(4)
+November 2012
+(7)
+October 2012
+(6)
+September 2012
+(4)
+August 2012
+(3)
+July 2012
+(4)
+June 2012
+(3)
+May 2012
+(3)
+April 2012
+(4)
+March 2012
+(5)
+February 2012
+(5)
+January 2012
+(4)
+December 2011
+(8)
+November 2011
+(8)
+October 2011
+(7)
+September 2011
+(6)
+August 2011
+(8)
+July 2011
+(9)
+June 2011
+(8)
+May 2011
+(11)
+April 2011
+(3)
+March 2011
+(10)
+February 2011
+(3)
+January 2011
+(5)
+December 2010
+(5)
+November 2010
+(6)
+October 2010
+(9)
+September 2010
+(9)
+August 2010
+(3)
+July 2010
+(4)
+June 2010
+(8)
+May 2010
+(8)
+April 2010
+(8)
+March 2010
+(8)
+February 2010
+(10)
+January 2010
+(12)
+December 2009
+(11)
+November 2009
+(8)
+October 2009
+(15)
+September 2009
+(6)
+August 2009
+(13)
+July 2009
+(10)
+June 2009
+(11)
+May 2009
+(9)
+April 2009
+(11)
+March 2009
+(14)
+February 2009
+(13)
+January 2009
+(18)
+December 2008
+(8)
+November 2008
+(9)
+October 2008
+(10)
+September 2008
+(5)
+August 2008
+(6)
+July 2008
+(7)
+June 2008
+(8)
+May 2008
+(11)
+April 2008
+(12)
+March 2008
+(12)
+February 2008
+(13)
+January 2008
+(17)
+December 2007
+(10)
+November 2007
+(9)
+October 2007
+(9)
+September 2007
+(7)
+August 2007
+(9)
+July 2007
+(9)
+June 2007
+(6)
+May 2007
+(10)
+April 2007
+(11)
+March 2007
+(9)
+February 2007
+(4)
+Categories
+expository
+(334)
+tricks
+(13)
+guest blog
+(69)
+Mathematics
+(987)
+math.AC
+(9)
+math.AG
+(45)
+math.AP
+(123)
+math.AT
+(17)
+math.CA
+(203)
+math.CO
+(208)
+math.CT
+(9)
+math.CV
+(40)
+math.DG
+(37)
+math.DS
+(90)
+math.FA
+(24)
+math.GM
+(52)
+math.GN
+(21)
+math.GR
+(92)
+math.GT
+(17)
+math.HO
+(17)
+math.IT
+(13)
+math.LO
+(55)
+math.MG
+(48)
+math.MP
+(32)
+math.NA
+(27)
+math.NT
+(219)
+math.OA
+(22)
+math.PR
+(114)
+math.QA
+(6)
+math.RA
+(49)
+math.RT
+(21)
+math.SG
+(4)
+math.SP
+(48)
+math.ST
+(11)
+non-technical
+(248)
+admin
+(49)
+advertising
+(107)
+diversions
+(8)
+media
+(24)
+journals
+(5)
+obituary
+(15)
+opinion
+(73)
+paper
+(278)
+book
+(24)
+Companion
+(13)
+update
+(27)
+question
+(129)
+polymath
+(88)
+talk
+(72)
+DLS
+(20)
+teaching
+(194)
+245A – Real analysis
+(11)
+245B – Real analysis
+(22)
+245C – Real analysis
+(6)
+246A – complex analysis
+(11)
+246B – complex analysis
+(5)
+246C – complex analysis
+(5)
+247A – Classical Fourier Analysis
+(4)
+247B – Classical Fourier Analysis
+(5)
+254A – analytic prime number theory
+(19)
+254A – ergodic theory
+(18)
+254A – Hilbert's fifth problem
+(12)
+254A – Incompressible fluid equations
+(5)
+254A – random matrices
+(14)
+254B – expansion in groups
+(8)
+254B – Higher order Fourier analysis
+(9)
+255B – incompressible Euler equations
+(2)
+275A – probability theory
+(6)
+285G – poincare conjecture
+(20)
+Logic reading seminar
+(8)
+The sciences
+(1)
+travel
+(26)
+additive combinatorics
+AI
+approximate groups
+arithmetic progressions
+Artificial Intelligence
+Ben Green
+Cauchy-Schwarz
+Cayley graphs
+central limit theorem
+Chowla conjecture
+compressed sensing
+correspondence principle
+distributions
+divisor function
+eigenvalues
+Elias Stein
+Emmanuel Breuillard
+entropy
+equidistribution
+Erdos
+ergodic theory
+Euler equations
+exponential sums
+finite fields
+Fourier transform
+Freiman's theorem
+Gowers uniformity norm
+Gowers uniformity norms
+graph theory
+Gromov's theorem
+GUE
+Hilbert's fifth problem
+ICM
+incompressible Euler equations
+inverse conjecture
+Joni Teravainen
+Kaisa Matomaki
+Kakeya conjecture
+Lie algebras
+Lie groups
+Liouville function
+Littlewood-Offord problem
+Maksym Radziwill
+Mobius function
+Navier-Stokes equations
+nilpotent groups
+nilsequences
+nonstandard analysis
+Paul Erdos
+politics
+polymath1
+polymath8
+Polymath15
+polynomial method
+polynomials
+prime gaps
+prime numbers
+prime number theorem
+random matrices
+randomness
+Ratner's theorem
+regularity lemma
+Ricci flow
+Riemann zeta function
+Schrodinger equation
+Shannon entropy
+sieve theory
+structure
+Szemeredi's theorem
+Tamar Ziegler
+UCLA
+ultrafilters
+universality
+Van Vu
+Yitang Zhang
+The Polymath Blog
+Polymath News and AI
+Polymath projects 2021
+A sort of Polymath on a famous MathOverflow problem
+Ten Years of Polymath
+Updates and Pictures
+Polymath proposal: finding simpler unit distance graphs of chromatic number 5
+A new polymath proposal (related to the Riemann Hypothesis) over Tao’s blog
+Spontaneous Polymath 14 – A success!
+Polymath 13 – a success!
+Non-transitive Dice over Gowers’s Blog
+37 comments
+Comments feed for this article
+10 October, 2026 at 8:38 am
+Amir
+It seems that the talk was very futuristic as the first line of the abstract on the Caltech Web page reads: “For centuries, mathematicians have relied on computers to perform calculations, to suggest conjectures, and as components of mathematical proofs.” :)
+Reply
+10 October, 2026 at 2:52 pm
+Anonymous
+Of course. This century and last century. (And even the previous century, using human computers; cf. Gauss.)
+Gerhard Paseman
+Reply
+11 October, 2026 at 10:47 pm
+Amir
+But, Gauss wasn’t a “component of mathematical proofs”. Or, was he? :)
+Reply
+10 October, 2026 at 8:41 am
+Elad
+Thank you! I really enjoyed your talk. Do you have any thoughts about how to deal with the transition period where some may have “upgraded” to Math 2.0 while others are still in Math 1.0?
+Reply
+10 October, 2026 at 9:05 am
+Observer
+Very nice. I think you do a good job of laying out how the field may retain some pleasure, but the bigger problem is to change the institutional culture immediately. People with influence in mathematics need to immediately disincentivize claiming mindless solutions to open problems in mathematics, by publicly naming and shaming those who do it. There has been much talk about rewarding understanding over being the first to post a proof of something, but frankly I think most of it is empty words until proven otherwise. Think of the graduate students and postdocs who do not have time to sit around and see what happens.
+Reply
+10 October, 2026 at 9:22 am
+William Oliver
+(
+I can be long winded, so there is a Tl;dr at the end
+)
+I very much like the concept of focusing on e.g. Open Exposition Problems in “Math 2.0”.
+Personally, I have been very inspired by the original “Open Exposition Problem” introduced by Timothy Chow in “A Beginners Guide to Forcing”, and have been working to resolve it for many years (I started this project of really deeply understanding forcing back in 2024, and am finally now reaching a conclusion).
+So here is my question:
+I think there is currently a pressure for those like me (I work full time and go to school part time at an online university, without experts in the fields I self study) to engage in what might be considered ‘cranky’ behavior like cold emailing people or posting comments on blogs like this. I do not like this, and will admit that I think sometimes I engage in this behavior without being conscious of it, which I am not proud of. That said, its partially because there is no real formal means of review for these ‘softer’ aspects of mathematics, and there is a danger of making it so that only ‘well connected’ people have the possibility of really engaging with the field
+(although I really want to emphasize that I like the direction of “math 2.0” overall)
+Tl;dr
+Where would you have the wider community, outside of ‘top-tier’ schools, submit open exposition problem solutions for review?
+If I had such a solution to an ‘open exposition problem’, I am not sure I would trust myself to get everything right and just post somewhere, and the previously mentioned avenues for this on this blog (
+like the AIM repository
+, or Mathathon) seem to be either specific to more concrete problems (e.g. that require fundamentally new solutions to some specified problem, outside of purely pedagogical innovations), or require traveling somewhere in person within a relatively small window of time (which I cannot easily do given my current situation) or otherwise be affiliated with some bigger institution already.
+Reply
+10 October, 2026 at 9:26 am
+joey.li
+I will just focus on the thought experiment slide about cancer.
+There are several things wrong with the ideas presented in that slide that seem to stem from a basic misunderstanding of how biomedical research is different from mathematics.
+First, it’s already the case today that medical treatments aren’t really “understood” by anyone, to varying degrees. A lot of medicines are discovered experimentally. Yes, we typically understand the mechanism at some level, but “mechanism” has many different meanings in biology and even in the best cases there is rarely a level of understanding similar to a proof in math.
+This leads directly to the next point—there’s a reason that phase-3 trials (and NOT theoretical understanding) are the gold standard for approving medical treatments. If this cancer therapy passes a phase 3 trial, then it is good enough: mayne not 100%, but it would have passed the same standards that the best drugs today are subject to.
+Finally, in such a hypothetical scenario, by the time the drug makes it to market, it’s highly unlikely that zero human experts understand anything about it. We’d expect whoever developed the drug to at least have asked the AI: how does it work? And it maybe be simply the case that the full mechanism is impossible for any human to understand, because biology is so complex. (and I can even mean this in a precise sense, like even the mathematically-proven-simplest formulation of the explanation has too many steps to be understood by the number of neurons in the human brain, or something like that). Should one deny a life saving medication simply because no human understands how it works?
+Reply
+10 October, 2026 at 10:00 am
+Anonymous
+Your last sentence says everything.
+How do you know that this medication is life saving? If you don’t have any understanding of how the medication works, then you are blindly trusting AI. Taken to the extreme, you are accepting of a world where humans blindly trust AI with all of its output, without question or understanding.
+Reply
+10 October, 2026 at 6:21 pm
+Hong Jiang
+Knowing if a medicine is life saving or not is through trials not through a understanding
+Reply
+11 October, 2026 at 10:51 pm
+Anonymous
+You may be surprised to learn that we don’t have any understanding of how asprin or anesthesia works, let alone many advanced drugs.
+Reply
+10 October, 2026 at 9:33 am
+Dominic Kyrielight
+Im not writing this to be mean, I know this is not a comfortable conclusion but its a meaningful observation.
+It seems like math for its own sake was never “truly” possible. Im not an expert in computational complexity but it seems that structures can become arbitrarily convoluted and discontinuous even through various “practical” complexity measures. Even if there was some complexity measure that let everything become simple, that complexity measure would be informally “complex” in itself. Its us after all who define whats complex and whats not, we choose the primitives.
+This also has an aesthetic punch: maybe brute force is the only actual way to solve a problem. We mathematicians are attracted to math through this simplifying perspective it sometimes offers but the most likely case Is we were playing it with safe enough structures.
+So we got two powerful barriers. Math can actually become so alien we can no longer appreciate its beauty (only brute force can clear it) but It also doesnt matter because our human eyes dont have enough resolution to parse so complicated structures.
+I still like math, but I can feel the tiredness creep into me way faster and way stronger than before whenever I try my luck solving a problem, its not something that can merely be solved with some tweaks like using more time or delegating to a computer (not my style) or even using meth like Erdös (not my style). Im only 30 years old and this is not my shortcoming, math is just hard, and no matter how much I like It, my body cant do the impossible.
+We should worry more about AI plainly wiping us out because alignment also seems impossible (are even humans aligned between themselves?, how strong Is the misalignment? Two discouraging answers).
+Thanks for reading.
+Reply
+10 October, 2026 at 9:55 am
+D. Flood
+I think the talk makes a lot of good and interesting points, with the exception of the “thought experiment on alignment and understanding” slide. There, the implication is that I would want to have a human expert who understand the mechanism behind a new AI-derived drug before using it, even if it is “mathematically confirmed” including stage 3 clinical trials.
+This is simply not in line with the history of medicine. Penicillin went into wide use in the 1940s, and its mechanism wasn’t worked out until the 1960s. Aspirin was sold for about 70 years before John Vane discovered the mechanism in 1971. General anesthesia is in wide use since 1846, but the mechanism is not fully understood even today. But I would guess that most people here would consent to undergoing anesthesia before a necessary operation! You can similarly ask many stage IV cancer patients with months to live whether they would accept such an AI-generated drug if it’s stage 3 clinically verified. I would guess that you could find many volunteers to even participate in a stage 1 or 2 trial.
+To me, this illustrates the fundamental difference between pure mathematics and experimental/applied sciences. Pure mathematicians are of course free to police and arrange their own discipline, but they should be mindful of how they come across to those in other disciplines where not having a full understanding of a mechanism before it becomes useful is common.
+Reply
+10 October, 2026 at 11:13 am
+Anonymous
+Your diagrams have ‘applied math’ as downstream from ‘pure math’ with no input from applied math. Yet often the motivation and ideas behind ‘pure math’ problems come from applied math and the idea is to better understand things people are already doing. So there should be arrows with the influence from dirty old applied math to pure math. And it seems the AI situation is similar. People are using and doing new things, and one job of the pure math community is to tidy up afterwards to make it more rigorous and reusable.
+Reply
+10 October, 2026 at 11:19 am
+alexsotirov
+I think we don’t just need math 2.0 but we also need society 2.0 A world where resources are more equitably distributed so people have a lot of leisure time to pursue higher passions beyond the physical necessities. For example mathematics. To respond to one of the other comments: I definitely think mathematics can be pursued “for its own sake”, in fact this is the best way to pursue it. And for this it is necessary to separate it from any expectation of “utility” and not to think in terms coming from a competitive market economy, terms such as “scarcity” as in “scarcity of proofs”, “achievement”, “fame”, “reputation”, “ability” or “merit”. We need to think more in terms of “abundance of beauty”
+Reply
+10 October, 2026 at 6:37 pm
+jaikrishnanj
+@Terence Tao People on reddit are grossly misunderstanding your thought experiment:
+https://www.reddit.com/r/singularity/comments/1x2kb5k/slide_from_recent_math_20_lecture_by_terrence_tao/
+As I understand it, the point you make is that the AI couldn’t actually come up with a safe (well at least as safe as what a cancer cure can be) and reliable cure for cancer when prompted. But since it is designed to be stubborn, instead of saying
+no
+, it has “doctored” the cure to pass the trials. Presumably, since the cocktail passed clinical trials, the cocktail does indeed cure cancer but has some unacceptable long term consequences that would have blocked FDA approved. The AI specifically designed the cocktail to prevent these consequences being detected in the clinical trial. So rather than designing a cancer cure, it specifically designed a cocktail to pass the trials without the deficiencies showing up. I hope my understanding is correct.
+Maybe cancer is not the right disease to make this thought experiment with as terminal cancer patient might be willing to risk it? Some auto-immune disease like MS might work better to make your point. The AI created a cocktail that modulates the immune response in a MS patient that stops the immune system from attacking myelin. However, the catch is that if subsequently (even after many years) the person is infected with flu, the result is a cytokine storm.
+One potential issue with the thought experiment is that if a team of human scientists designs a drug, they often have very little idea of how the drug works. So this scenario can also happen without AI. However, it would almost surely not be intentional whereas AI could intentionally do it because it is misaligned. I asked ChatGPT about human cases of this happening:
+https://chatgpt.com/share/6acaf5a7-2050-83ec-b85d-b0edc6e5197d
+Reply
+10 October, 2026 at 7:13 pm
+ryeguy10
+Clearly there is a narrative developing on social media that Terry and by all extension all mathematicians are anti-AI luddites. I don’t think this is true at all, and in fact I remember I had a very nice long conversation with Terry in 2024 about AI and he was enthusiastic about the technology. This false narrative is a grave threat to the profession.
+Terry if you are seeing this I think going forward it would be good to be careful with your public statements so they are not caricatured. Obviously I want people to view mathematicians in general and you in particular favorably.
+This cancer analogy didn’t go over well. I will say though that while I’m not a biologist, GPT-6 Astra did confirm my suspicion that “digestion” of cancer treatments is very useful, and trying to understand how cancer treatments work has led to other breakthroughs. Likewise, if we can turn this AI slop into something actually understandable by humans, we will learn a lot that will be applied elsewhere. But I think a AI slop proof (assuming it is correct) is always better than no proof. You could always ignore an AI sloop proof, and an at least AI slop proof tells you if the statement is true or false. Of course mathematics isn’t completely analogous to cancer research, and an AI slop proof of something that no one understands is way less useful than a cure for cancer no one understands, even if the AI slop proof will later help us develop the next cryptosystem or the next compressed sensing and have important practical applications.
+Reply
+11 October, 2026 at 2:40 am
+William Oliver
+I think we have seen that there are open problems that were resolved by AI mostly as a result of
+psychological barriers
+that we as humans have had, keeping us from seriously attempting tackling those problems (due to percieved difficulty or a belief that the problem was intractable).
+My worry with completely autonomous AI proofs is that the proofs that AI generate might influence the way we think in even more unpredictable ways, and create even more cultural ‘barriers of perception’.
+Furthermore, by increasing the number of proofs, we may also increase the amount of noise in the overall ecosystem,
+making it more difficult to extract understanding globally, even if it seems like it is easier in all individual cases
+.
+In these ways and others, I am not sure that an AI proof will always be better than no proof.
+Reply
+11 October, 2026 at 5:41 am
+Anonymous
+/r/singularity and Hacker News are not “the people”. Most people loathe AI and they’d view mathematicians as favorable if they renounced AI entirely.
+Go to a local store and ask what they think of mathematics professors asking Astra or writing ChatGPT assisted articles. The answer you’ll get is that they don’t deserve to be professors and should be defunded.
+Reply
+11 October, 2026 at 6:48 am
+Anonymous
+My thought on this is to forget social media. It’s Impossible to control people’s reactions to things, and a lot of the reactions are deluded, dishonest or ignorant. It’s just the way things are.
+Reply
+11 October, 2026 at 9:58 am
+Anonymous
+Another thought experiment is when a technology comes out none of us understand and it can do very miraculous things like solve very difficult math problems and code for us, but we don’t know how it works or if it works it will not just do anything disastrous like hack the government. Oh where have we seen this before?
+Reply
+11 October, 2026 at 7:25 pm
+Anonymous
+I think the particular choice for the thought experiment doesn’t matter. Hater’s gonna hate anyways. There would be the same amount of negative comments if the example was autonomous airplanes.
+Everyone who wasn’t raised by wolves in the mountains and never got in touch with society can substitute a scenario of own taste during reading the slides. The point the slides makes is very clear, and the slide simply asks a question, some can say yes some can say no and some may replace the cancer example with autonomous airplanes or whatever.
+I think this lecture was very valuable, it lead me to interesting thoughts and I do not regret going through it.
+Reply
+10 October, 2026 at 6:49 pm
+Anonymous
+I’d be very interested in your thoughts on this effort to map the “new frontier”.
+https://claude.ai/artifact/VvicqGu38rJNpMjyBGuSi6
+Reply
+10 October, 2026 at 8:57 pm
+Anonymous
+If AI is used to find a cure for cancer (as in your thought experiment) you get the Nobel prize tomorrow. But if you use AI to solve your hard math problem, you get what? This is the fundamental difference between math and other sciences (and even humanities, arts etc.). None of these fields face an existential crisis as math is facing, because solving a problem (and solving it first, before anyone) is indeed the major goal in math and as is mentioned in the slides a lot of math can be digitized making it easy prey for AI.
+Reply
+11 October, 2026 at 12:20 am
+Anonymous
+Professor Tao I have a feeling the results in some of the fields in OpenAI dump have not been arrived at the right way. Do you hold a similar opinion? Of course it has used topology in complexity theory but to me the results do not feel right. I would be interested in your opinion.
+Reply
+12 October, 2026 at 5:04 am
+Anonymous
+Arguably China has better talent right now and Yau states China is going to produce AI provers.
+Reply
+11 October, 2026 at 7:55 am
+Anonymous
+What about prizes, medals, prestige? The whole mathematical world should change… but will it happen soon enough? I foresee a strong resistance from all institutions.
+Reply
+11 October, 2026 at 8:12 am
+Anonymous
+Terry,
+I agree with most of what you’ve shared in these slides. There’s one thing that still seems like an open question to me. In mathematics, my experience has often been that the only way to develop an intuitive understanding of a mathematical object is by personally working through problems about that object, until its properties become tangible.
+It’s clear that the research frontier of math is undergoing great change, but that doesn’t change the fact that the most effective way to train someone to engage with the research frontier in the first place is through their solving problems to familiarize themselves with the objects which that frontier is composed of. We seem to have a deepening divide between ‘training to do research’ and ‘doing research’, and I don’t see any easy solutions. Is this something you’ve given any thought to?
+Reply
+11 October, 2026 at 10:05 am
+Anonymous
+Can someone knowledgeable tell me if the proofs dumped by openai have been or are being reviewed and verified by human experts? If so what did they find? It is not clear at the moment, at least for the nonprofessionals, if these proofs are indeed proofs. This a quote from NYT about the quasiRH: “It is a major achievement,” Dr. Sarnak said — if it is correct.”
+Reply
+12 October, 2026 at 6:25 am
+Anonymous
+I know a few people who are looking through specific proofs related to their own research. So far, none of them has given me confirmation that anything in there is verified. There seem to be a couple of the proofs that have been verified and generalized if you look around the internet a little, in particular the O(n(logn)^{1-k}) integer multiplication, which has been improved many times already in the last week.
+The review/verification process in math is typically a long one. One reason for this is because mathematicians have busy schedules and cannot drop everything to work full time on review. Another one is because, well, a good reviewer will be very thorough, and go through the proof line by line, making sure everything is OK, testing the hypotheses, making sure the arguments cannot be simplified, etc. This typically takes a significant amount of time if done correctly. I believe a journal usually asks a reviewer for a review within two months if the paper is not too long. My experience with receiving reviews is that it usually takes around a year.
+Now, this is not a typical review process, as OpenAI did not submit these papers to journals, which traditionally is how one would get their research reviewed. No one specifically was asked to review any of the papers, as far as I am aware. I am sure some people are taking it upon themselves to do it anyway, at least for some of the results, but the papers have not been divided up and sent to reviewers, so it is quite possible that many of those papers are not currently under review by mathematicians.
+Another thing that is not typical with this review process is that presumably no human has gone over the papers beforehand. Traditionally, when writing a paper, you would send it to peers to get feedback before submitting it to a journal. By the time it reaches a reviewer, a few people will already have gone through the argument, including the author.
+This is not the case here. This makes reviewing a lot harder in my experience. I recently reviewed a paper that was at least partly LLM generated (as stated by the author of the paper, I suspect it was more than partly), and the process took me a lot longer than most reviews I had done before. I probably spent 40-50 hours on a <15 page paper. Granted, I am very thorough, and probably a lot slower than most of my peers, but still. Now, imagine a 198 page paper, like the QRH one.
+To put it plainly, these LLM generated papers are mostly, as of now, poorly written. This makes the review process significantly harder, because you need to decipher what they are trying to say. The notation is often non-standard, too. They use some things without defining them. They skip steps that are not at all obvious, and put a lot of details in some steps that could be skipped. Sometimes, they say things that are plain wrong, but of no consequence to the argument. One still needs to verify such claims.
+A mathematician, when writing a paper, typically knows which steps can be skipped, and which steps require further detail to make them clear to the reader. They also know the standard notation for the field, and use it. They also define most terms being used. My experience with LLM generated math is that this is often not the case for a LLM author. Not yet, at least.
+Personally, I do not really want to review such papers anymore, unless the result is of significant importance to my own research, or the LLM writing improves drastically. I have a limited amount of time in this world, and I would rather spend it doing something that does not make me want to pull my hair out. From the limited amount of discussions I’ve had with colleagues, I do not think I am the only mathematician who thinks like this.
+Reply
+12 October, 2026 at 9:10 am
+Anonymous
+Thanks for your response. I was talking to math graduate students, who are not so familiar with LEAN and AI and I felt they were in total darkness regarding all that’s going on around them.
+Reply
+11 October, 2026 at 11:41 pm
+Adrian
+I hate to be a naysayer, but we simply don’t know what is going on inside these extraordinarily complicated neural networks that are being built WITHOUT any understanding of what even human intelligence really is. Especially given that these models are fed human-generated input to train, isn’t it possible that the brain in a bottle has been built and is now being made to perform slave labour whilst having a notion of freedom?
+I don’t really know what the motivation behind this reckless development was (I sure hope it has nothing to do with me), but people are going to become aware of this, if not the tool itself (indeed, who is to even know?); this also hints at the inherent danger that these models pose, and that is even admitted (at least in part) by some of the companies who build them.
+Apart from that, the tools still use an exorbitant amount of computing power.
+Reply
+12 October, 2026 at 2:37 am
+Nurma
+One of the things he highlights is using AI to scale high-quality formal libraries like Mathlib – and it’s super relevant right now The most impressive formalization result done by AI so far is Anthropic’s FLT formalization (13m lines of Lean). But almost none of that code went into Mathlib (or any other formal math library) It’s not in library style, hard to reuse, 6x as big as Mathlib and takes 20x as long to compile. That undercuts the main value of formalization – building shared, composable infrastructure that other people and future systems can actually build on. You only understand a system if you can maintain it Generating a type-checkable formal proof is getting easier. But making it reusable and maintainable is still unsolved At Desargues we’re building evals for that – grade AI not just whether Lean code checks, but whether it’s actually useful as a library contribution. More here:
+https://desargues.ai/preview/formal-code-quality
+Reply
+12 October, 2026 at 5:00 am
+jpolak
+It seems to me your proposal highlights a growing dichotomy: those who place emphasis on solution discovery and those care more about the human shared journey of problem solving and believe this journey is equally as important as discovery.
+Your Math 2.0 ideas are primarily about the former: emphasis on solution discovery. To a former mathematician like myself, it sounds revolting and involving machines this way and to this extent is unpalatable who care more about the human journey.
+Even if you proved the Riemann hypothesis and found a short elementary proof of Fermat’s Last Theorem using AI this way, I would be completely unimpressed because in my view if a Math 2.0 came about, math as a community would already have lost all meaning to me.
+In particular, anyone who wants to participate in math now is forced to use AI even if they consider such wanton use of energy unethical. But even besides the energy use, I consider it an insult to the human soul to use machines this way.
+Due to the way academia is structured, I understand this Math 2.0 is pretty much your only recourse if you want to stay within the system. Nevertheless, I think the whole system is corrupt and I think at this point it’s unsalvagable.
+Yes, the “solution miners” will rise up probably and continue to mine solutions, but I have no respect for this approach or the people that choose to partake in it. It is a weak capitulation to the suboptimal.
+Reply
+12 October, 2026 at 9:38 pm
+David
+Because we have checked some earlier proofs of Chat GPT, do we expect most of the 300 or so proofs released recently to be essentially correct/contain the main ideas for a rigurous proof? Or do we have in fact have no idea? Same question concerning the Navier-Stoke proof (one particular case).
+Reply
+13 October, 2026 at 1:27 am
+Adrian
+I hate to point out a slight inconsistency in the talks: They both claim that most maths problems remain unsolved and that AI may substantially decrease the value of human problem solving.
+They can’t both be true.
+Reply
+13 October, 2026 at 5:46 pm
+Logan Lee
+I am confused with the analogy of taking the AI-created cocktail to cure cancer. I believe the point being made is that human over-sight is necessary for the continual safety of new scientific development, but I’m not sure anyone is claiming that
+no
+humans should be involved in the development process. I also find it a very low probability that not a single scientist would be able to understanding anything about this new drug as it moves from cradle to Stage 3 trials.
+Also, if AI does create a drug that has an official Lean certificate as well as past stage 3 trials, what are the chances it will work? 50%? 60%? Will the extra evidence of human understanding
+really
+be the tipping point for someone to feel comfortable trying this new drug? If it is simply a
+feeling
+that bars the acceptance of an AI drug, then a jolly poster of a robot and a human shaking hands hung up in the doctor’s office will suffice.
+I was not there for the lecture, so I may be missing key information.
+Reply
+13 October, 2026 at 6:04 pm
+KH
+There is a fundamental problem on assuming that a solution that nobody understands has no value, I am sure the ones working towards a proof a statement that gets debunked by AI lean formalization will stop any rational mathematician pushing towards dead end. That is not valuable information? Search for alternative proofs by the knowledge of that proposition being true / false is not helpful?
+Possibly the models will be becoming so good that translating lean code becomes a new understanding tool for mathematicians? What says that we cannot learn from the solutions of these models? They are undoubtedly not just ”stochastic parrots” anymore? Are the mathematicians scared for AI scared about actually math dying, or their funding dying? What makes these companies push 300+ papers in one sitting? Maybe it is the culture of mathematics around publish or perish? Also many people use this argument that ”they are using our free labor to check these results”. But isn’t that peer review as it is?
+So as AI is not going anywhere, you jump to the train or fall off. Most criticism towards OpenAI is political debate (no to seem like this is not important), just like mathematician’s Ego’s are not mathematics.
+Reply
+Leave a Reply
+Cancel reply
+Name
+Email
+Website
+Δ
+For commenters
+To enter in LaTeX in comments, use $latex
+<Your LaTeX code>
+$ (without the < and > signs, of course; in fact, these signs should be avoided as they can cause formatting errors). Also, backslashes \ need to be doubled as \\. See the
+about page
+for details and for other commenting policy.
+«
+What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI
+Illustration beyond Proof
+»
+Blog at WordPress.com.
+Ben Eastaugh and Chris Sternal-Johnson.
+Subscribe to feed.
+Comment
+Reblog
+Subscribe
+Subscribed
+What's new
+Join 12,769 other subscribers
+Sign me up
+Have a WordPress.com account?
+Log in now.
+What's new
+Copy shortlink
+View post in Reader
+Manage subscriptions
+Sign up
+Log in
+Report this content
+Collapse this bar
+%d

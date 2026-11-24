@@ -1,0 +1,213 @@
+# SOURCE: src-felix-about
+# url: https://felixrieseberg.com/about-me/
+# final_url: https://felixrieseberg.com/about-me/
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:30+13:00
+# title: About Me
+# raw_sha256: 77347a8377ca70360a5fb299fc7809c4ed7462a1ef27df59aed0623004fab9e4
+# raw_file: src-felix-about.raw.html
+# tool: created-tools/save_source.py
+
+About Me
+Felix Rieseberg
+About
+Work
+Posts
+Online
+HI-FI
+AUTO
+×
+Static version
+Personal websites and portfolios are some of the last places where the Internet is still creative and fun, so I worked very hard on an interactive experience. Your computer and browser identified themselves as a device where the experience might be bad, so you've been routed to this static version.
+Click here to try the interactive version anyway.
+About Me
+I work on Claude at Anthropic.
+Electron
+Co-Maintainer. Maintainer of too many little open source projects.
+I have previously led teams and apps at
+Notion
+,
+Stripe
+,
+Slack
+, and
+Microsoft
+. At some point I was also an O'Reilly Author and Trainer but it's been a few years.
+Things I do
+I work on whatever allows me to make people productive with AI. In my time at Anthropic so far, I've led engineering for Claude.ai, Cowork, and Code Desktop. Always looking for the next big thing!
+I'm a
+contributor to and maintainer of a bunch of open source projects
+- with an ever-growing list, but I'm most proud of my work on
+Electron
+,
+Language Model Builder
+,
+MCBP
+,
+windows95
+,
+macintosh.js
+, and
+clippy
+. I have an uncurable addiction to building things I find fun and cute (and not necessarily super valuable), you can find the full list
+on GitHub
+.
+Things I did
+From 2023 to 2025, I led the Web Infrastructure and Desktop App teams at Notion.
+From 2021 until 2023, I led a team called Payments Integration Experience working on the future of payments at Stripe.
+From 2016 to 2021, I worked as a Senior Staff Engineer and Engineering Manager at Slack, where I got to support a team of amazing C++ engineers building the cross-platform desktop framework Electron – as well as Slack's desktop apps for macOS, Windows, and Linux. I cared a lot about the Node.js and Electron ecosystems, so I wrote an O'Reilly guide called "
+Introducing Electron
+". I still care today, I just write fewer books.
+Before joining the little fledgling Slack, I worked from 2014 to 2016 as an Open Source Engineer at Microsoft, spending my time coding or talking about Open Source. We tried to improve developer's lives by releasing quality code on GitHub — as well as touring the world and presenting the lessons we've learned. I built things like the
+windows-build-tools
+or
+npm-windows-upgrade
+.
+From 2011 to 2014, I worked with Microsoft Germany and Microsoft Silicon Valley specifically with younger companies as as Startup Developer Evangelist - first focusing on Berlin, then on the San Francisco Bay Area.
+I also once wrote an
+O'Reilly book on Windows App Development with JavaScript
+. It's in German, but even if you do read it, it's very solidly out of date now and contains nothing you should read. I once built a terrible but surprisingly successful game, being the single developer behind
+Awesome Zombie Sniper
+. The code was outrageous but it brought minor joy to more than a million players. The actual goal of the work was to help developers succeed on Windows, Windows Phone, and Xbox by exploring cross-platform issues with Unity and the game was a surprisingly lucky "Hello World" demo.
+From 2007 to 2011, I got my startup experience leading the German
+Apfeltalk.de
+magazine as Executive Editor where we served 10 million monthly users everything they needed to know about iOS and macOS. I'm proud that our team took the website from a small community to one of the biggest tech sites in Europe.
+Academically, I graduated from the MSc program at the University of Oxford's Internet Institute, researching at the intersection of sociology, law, economics, and computer science. Before that, I studied at the University of Duesseldorf where I also spent some time as visiting lecturer for app development and New Media Research Associate.
+Home
+About
+Work
+Posts
+Online
+Subscribe
+HI-FI
+Hunger beats tenure: Advice for junior engineers
+27 Oct
+2026
+How to be more ambitious: A tutorial for humans with models
+13 Oct
+2026
+Made by mechanical means
+27 Sep
+2026
+The Fanciest eCards
+28 Feb
+2025
+Things people get wrong about Electron
+21 Jan
+2025
+Using WebGL Shadertoy Shaders in Three.js
+21 Sep
+2024
+Adventures in Measuring JavaScript
+8 Nov
+2023
+Debugging native Node.js addons with Electron on macOS
+18 Aug
+2023
+Avoid Git Merge Conflicts During a Big Rebase
+1 Sep
+2021
+On Running an Electron Contributor Training
+3 Feb
+2020
+Code-signing Electron Apps in CI
+1 Dec
+2019
+Debugging Native Crashes in Electron Apps on Windows
+29 May
+2019
+Dependencies and Git branches
+17 Apr
+2019
+Progressive Web Apps & Electron
+8 Apr
+2019
+Introducing Electron Fiddle
+10 Aug
+2018
+Defeating Electron
+12 Jul
+2018
+A Guide to Electron
+18 Dec
+2017
+Ember-Electron 2: Building Desktop Apps with Ember and Electron
+10 Apr
+2017
+Using Native Windows Features from Electron
+9 Jan
+2017
+Running your own Parse with Azure and Docker
+29 Jan
+2016
+Using Travis to Deploy Apps to Azure
+2 Sep
+2015
+Deploying Flynn Clusters on Azure
+18 Aug
+2015
+Deploy Jekyll Pages using Git and Travis CI
+14 Aug
+2015
+A Peer Review Bot for GitHub
+23 Jul
+2015
+npm@3 is here and it's a huge deal for Windows
+26 Jun
+2015
+Wicked Cool Excel Functions with Blockspring
+17 Jun
+2015
+Building a Android Twitter Clone with Azure Mobile Services
+12 Apr
+2015
+Installing Ghost on Azure
+8 Apr
+2015
+Improved Ember Cli Performance with Windows
+11 Mar
+2015
+Open Source: A Small Guide for Newcomers
+9 Mar
+2015
+Host your own Heroku-style platform with Deis and Azure
+27 Feb
+2015
+Deploying Ember Cli to Azure Websites
+21 Feb
+2015
+Deploying SailsJS Apps in Seconds
+17 Feb
+2015
+Node 0.12 (Stable) and Azure Websites
+6 Feb
+2015
+What is a Microsoft Open Source Engineer, anyway?
+5 Feb
+2015
+Azure Websites and io.js
+19 Jan
+2015
+ECMAScript 6: A Quick Intro to the Future of JavaScript
+15 Jan
+2015
+Building Standalone Node.js Apps with Node Webkit
+19 Nov
+2014
+The Ghost Updater for Azure Websites
+21 Oct
+2014
+The Small Windows Dev Environment
+17 Jul
+2014
+Node Mayhem: An Open-Source Node.js HTML5 Multiplayer Shooter
+11 Nov
+2013
+Mapping SkyDrive as a folder on Windows RT
+23 Dec
+2012
+Windows 8: Displaying a clock on Live Tiles
+22 Dec
+2012
+Your email
+Send card

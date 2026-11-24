@@ -1,0 +1,356 @@
+# SOURCE: src-wiki-inner-game
+# url: https://en.wikipedia.org/wiki/The_Inner_Game_of_Tennis
+# final_url: https://en.wikipedia.org/wiki/The_Inner_Game_of_Tennis
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:51+13:00
+# title: Timothy Gallwey - Wikipedia
+# raw_sha256: 11d6d688b9585c17400549d38019cdd4712a2f20da62348510ce3e1dfd8ee530
+# raw_file: src-wiki-inner-game.raw.html
+# tool: created-tools/save_source.py
+
+Timothy Gallwey - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Career
+Toggle Career subsection
+1.1
+Inner game
+2
+Books
+3
+References
+4
+External links
+Toggle the table of contents
+Timothy Gallwey
+7 languages
+مصرى
+Čeština
+Deutsch
+Español
+Italiano
+Polski
+Русский
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Save
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+Save
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+(Redirected from
+The Inner Game of Tennis
+)
+American sports coach
+W. Timothy Gallwey
+Occupations
+Author, tennis coach
+Writing career
+Notable
+work
+The Inner Game of Tennis
+(1974)
+W. Timothy Gallwey
+(born 12 August 1938 in San Francisco)
+[
+1
+]
+is an author who has written a series of books in which he has set forth a methodology for coaching and for the development of personal and professional excellence in a variety of fields that he calls "the Inner Game". Since he began writing in the 1970s, his books include
+The Inner Game of Tennis
+,
+The Inner Game of Golf
+,
+The Inner Game of Music
+(with
+Barry Green
+),
+Inner Skiing
+and
+The Inner Game of Work
+. Gallwey's seminal work is
+The Inner Game of Tennis
+, with more than one million copies in print.
+Career
+[
+edit
+]
+In 1960, Gallwey was captain of the
+Harvard University
+Tennis Team. He served as a training officer on the
+USS
+Topeka
+in the early 1960s.
+[
+2
+]
+[
+3
+]
+In the 1970s he learned meditation techniques which Gallwey said enhanced his powers of concentration in a manner that improved his game.
+[
+4
+]
+Inner game
+[
+edit
+]
+The "inner game" is based upon certain principles in which an individual uses non-judgmental observations of critical variables, with the purpose of being accurate about these observations. If the observations are accurate, the person's body will adjust and correct automatically to achieve best performance.
+[
+5
+]
+Gallwey was one of the first to demonstrate a comprehensive method of
+coaching
+that could be applied to many situations, and found himself lecturing more often to business leaders in the U.S. than to sports people.
+[
+6
+]
+Books
+[
+edit
+]
+Gallwey, W. Timothy (1974).
+The Inner Game of Tennis
+(1st
+ed.). New York: Random House.
+ISBN
+0-394-49154-8
+.
+Gallwey, W. Timothy. (1976).
+Inner tennis
+: playing the game
+. New York: Random House.
+ISBN
+0-394-40043-7
+.
+Gallwey, W. Timothy; Kriegel, Robert J. (1977).
+Inner skiing
+(1st
+ed.). New York: Random House.
+ISBN
+0-394-42048-9
+.
+Gallwey, W. Timothy (1981).
+The Inner Game of Golf
+(1st
+ed.). New York: Random House.
+ISBN
+0-394-50534-4
+.
+Gallwey, W. Timothy (1985).
+Inner Game of Winning
+. Listen USA.
+ISBN
+0-88684-064-3
+.
+Green, Barry; Gallwey, W. Timothy (1986).
+The inner game of music
+(1st
+ed.). New York: Anchor Press/Doubleday.
+ISBN
+0-385-23126-1
+.
+Gallwey, W. Timothy. (1999).
+The Inner Game of Work
+. New York: Random House.
+ISBN
+0-375-50007-3
+.
+Gallwey, W. Timothy. (2009).
+The Inner Game of Stress: Outsmart Life's Challenges, Fulfill Your Potential, Enjoy Yourself
+. New York: Random House.
+ISBN
+978-1-4000-6791-6
+.
+References
+[
+edit
+]
+↑
+An Insightful Interview with W. Timothy Gallwey: Exploring “The Inner Game of Tennis” and Beyond 08/28/2023
+↑
+"Tim Gallwey"
+. Big Speak
+. Retrieved
+January 13,
+2026
+.
+↑
+Gallwey, W. Timothy (2024) [1974].
+The Inner Game of Tennis
+(Kindle)
+. New York: Random House. p.
+129.
+ISBN
+9780307758859
+.
+↑
+du Plessix Gray, Francine
+,
+Blissing Out in Houston
+, New York Review of Books, December 13, 1973
+↑
+Gallwey, W. Timothy (2000).
+The inner game of work
+. New York: Random House. p.
+27
+.
+ISBN
+0-375-50007-3
+.
+↑
+Whitmore, John K. (2002).
+Coaching for Performance: Growing People, Performance and Purpose
+. London: Nicholas Brealey Publishing. p.
+10.
+ISBN
+1-85788-303-9
+.
+External links
+[
+edit
+]
+The Inner Game
+official site
+Tim Gallwey Page at BigSpeak
+Authority control databases
+International
+ISNI
+VIAF
+GND
+FAST
+WorldCat
+National
+United States
+France
+BnF data
+Italy
+Czech Republic
+Spain
+Netherlands
+Latvia
+Greece
+Argentina
+Korea
+Poland
+Israel
+Catalonia
+People
+Deutsche Biographie
+DDB
+Other
+IdRef
+Open Library
+Yale LUX
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Timothy_Gallwey&oldid=1385148963
+"
+Categories
+:
+1938 births
+Living people
+American motivational writers
+Harvard Crimson men's tennis players
+American golf instructors
+Writers from San Francisco
+Tennis writers
+American golf writers
+Sportswriters from California
+Tennis players from San Francisco
+United States Navy officers
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Use mdy dates from June 2013
+Articles with hCards
+This page was last edited on 12 November 2026, at 03:29
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Timothy Gallwey
+7 languages
+Add topic

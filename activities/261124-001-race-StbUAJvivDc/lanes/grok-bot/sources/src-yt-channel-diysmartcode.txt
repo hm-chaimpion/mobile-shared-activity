@@ -1,0 +1,24 @@
+# SOURCE: src-yt-channel-diysmartcode
+# url: https://www.youtube.com/@DIYSmartCode
+# final_url: https://www.youtube.com/@DIYSmartCode
+# http_status: 200
+# fetched_at: 2026-11-24T21:45:57+13:00
+# title: DIY Smart Code - YouTube
+# raw_sha256: 0eca6d4ecbc9936713bb81324521207654efb9024ec340b19659a12466aa674a
+# raw_file: src-yt-channel-diysmartcode.raw.html
+# tool: created-tools/save_source.py
+
+About
+Press
+Copyright
+Contact us
+Creator
+Advertise
+Developers
+Terms
+Privacy
+Policy & Safety
+How YouTube works
+Test new features
+© 2026 Google LLC
+DIY Smart Code - YouTube

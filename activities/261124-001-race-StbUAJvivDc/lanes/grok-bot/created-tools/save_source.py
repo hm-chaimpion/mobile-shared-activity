@@ -28,7 +28,13 @@ def to_text(b):
         txt = html.unescape(re.sub(r"(?s)<[^>]+>", "\n", s))
     lines = [re.sub(r"[ \t\u00a0]+", " ", l).strip() for l in txt.splitlines()]
     return title, "\n".join(l for l in lines if l)
-title, body = to_text(data)
+if data[:5] == b"%PDF-":
+    import tempfile
+    tf = tempfile.NamedTemporaryFile(suffix=".pdf", delete=False); tf.write(data); tf.close()
+    body = subprocess.run(["pdftotext", "-layout", tf.name, "-"], capture_output=True, text=True).stdout
+    body = "\n".join(re.sub(r"[ \t]+", " ", l).strip() for l in body.splitlines() if l.strip()); title = "(PDF via pdftotext)"
+else:
+    title, body = to_text(data)
 hdr = (f"# SOURCE: {a.name}\n# url: {a.url}\n# final_url: {final}\n# http_status: {code}\n# fetched_at: {now}\n"
        f"# title: {title}\n# raw_sha256: {hashlib.sha256(data).hexdigest()}\n# raw_file: {raw.name}\n# tool: created-tools/save_source.py\n\n")
 (out / f"{a.name}.txt").write_text(hdr + body + "\n")
