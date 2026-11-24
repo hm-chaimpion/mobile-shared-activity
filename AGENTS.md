@@ -21,9 +21,9 @@ Applies to every model (Grok Bot, Codex, Claude, any other), and to any agent th
    the full hand-back: lane, status (done/blocked counts), first-answer and end times, page URL, lane URL, the commit,
    the top 3 blocks or doubts, and the questions or decisions for the owner. Nothing that needs copying sits outside
    that block. The owner copies that block across to other models and to review.
-11. **Every HTML or hosted artifact is replicable from the repo.** Its full source (HTML, CSS, JS, data, images) is
+10. **Every HTML or hosted artifact is replicable from the repo.** Its full source (HTML, CSS, JS, data, images) is
    committed in your lane, so anyone can rebuild it without your platform. If you also host it elsewhere (your own
    pages, canvas or artifact link), commit the same source too, check that link opens with no login, and record the
    result (URL, HTTP status, time) in your run report.
-10. **File names have two or more chunks** (`RUN-REPORT-codex.md`, not `report.md`). Never name a file
+11. **File names have two or more chunks** (`RUN-REPORT-codex.md`, not `report.md`). Never name a file
    `claude.md`, `agents.md` or `notes.md`.
