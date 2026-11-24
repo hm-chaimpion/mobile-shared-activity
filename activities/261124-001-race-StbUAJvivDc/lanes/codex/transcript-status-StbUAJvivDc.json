@@ -1,0 +1,7 @@
+{
+  "status": "blocked",
+  "segments": 0,
+  "not_a_transcript": true,
+  "reason": "YouTube bot-check; public timedtext returned zero bytes",
+  "fix": "Legitimate media/caption access, then rerun extraction"
+}

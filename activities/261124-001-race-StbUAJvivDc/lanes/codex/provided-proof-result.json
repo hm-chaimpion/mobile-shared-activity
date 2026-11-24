@@ -1,0 +1,7 @@
+{
+  "exit": 0,
+  "expected": 0,
+  "as_expected": true,
+  "stdout": "{\"pass\": true, \"gates\": {\"quote_gate\": 0, \"graph_gate\": 0}, \"proof\": \"activities/261124-001-race-StbUAJvivDc/lanes/codex/proof-StbUAJvivDc.json\"}\n",
+  "stderr": ""
+}

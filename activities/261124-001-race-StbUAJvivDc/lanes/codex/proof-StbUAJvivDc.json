@@ -1,0 +1,24 @@
+{
+ "video_id": "StbUAJvivDc",
+ "at": "2026-11-24T08:46:30+00:00",
+ "pass": true,
+ "sha256": {
+  "answer": "3bf274c2b796a9a1059b6ce8e26028b5d281448270b86dd2b7c70f00dae53e2e",
+  "graph": "adefa9aa0d69135c431121151dc6f985d4980b9930e29b6cbdeff2a520903310",
+  "transcript": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "gates": {
+  "quote_gate": 0,
+  "graph_gate": 0
+ },
+ "detail": {
+  "quote_gate": {
+   "exit": 0,
+   "tail": "{\n \"quotes\": 0,\n \"not_found\": 0,\n \"rows\": []\n}\n"
+  },
+  "graph_gate": {
+   "exit": 0,
+   "tail": "{\n \"video_id\": \"StbUAJvivDc\",\n \"pass\": true,\n \"failures\": 0,\n \"counts\": {\n  \"nodes\": 0,\n  \"edges\": 0,\n  \"steps\": 0,\n  \"quotes\": 0,\n  \"onion\": 0\n },\n \"human_check\": 0,\n \"fails\": []\n}\n"
+  }
+ }
+}

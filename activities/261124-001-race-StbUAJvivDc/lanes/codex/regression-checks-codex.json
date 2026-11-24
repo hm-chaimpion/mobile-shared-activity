@@ -1,0 +1,17 @@
+{
+  "pass": true,
+  "tests": [
+    {
+      "case": "empty knowledge graph",
+      "pass": true
+    },
+    {
+      "case": "missing source",
+      "pass": true
+    },
+    {
+      "case": "invented quote rejected",
+      "pass": true
+    }
+  ]
+}

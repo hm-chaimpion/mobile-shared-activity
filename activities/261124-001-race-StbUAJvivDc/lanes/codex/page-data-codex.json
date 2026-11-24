@@ -1,0 +1,276 @@
+{
+  "title": "Better presentations begin with better actions",
+  "subtitle": "Felix Rieseberg · Range · Methods before personas",
+  "status": "Research checked. Video evidence blocked.",
+  "nodes": [
+    {
+      "id": "felix",
+      "label": "Felix Rieseberg",
+      "type": "person",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "source_file": "sources/felix-post.txt",
+      "retrieved_at": "2026-11-24T08:43:48.666868+00:00",
+      "evidence_note": "Author bio identifies Anthropic EM and engineering areas"
+    },
+    {
+      "id": "anthropic",
+      "label": "Anthropic",
+      "type": "org",
+      "url": "https://www.anthropic.com/company",
+      "source_file": "sources/anthropic-about.txt",
+      "retrieved_at": "2026-11-24T08:43:48.669482+00:00",
+      "evidence_note": "Company self-description; employment edge supported by Felix bio"
+    },
+    {
+      "id": "tutorial",
+      "label": "How to be more ambitious: A tutorial for humans with models",
+      "type": "work",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "source_file": "sources/felix-post.txt",
+      "retrieved_at": "2026-11-24T08:43:48.666868+00:00",
+      "evidence_note": "Title, date and Range section"
+    },
+    {
+      "id": "range",
+      "label": "Range",
+      "type": "concept",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "source_file": "sources/felix-post.txt",
+      "retrieved_at": "2026-11-24T08:43:48.666868+00:00",
+      "evidence_note": "One of four named types of ambition"
+    },
+    {
+      "id": "tom",
+      "label": "Tom Kelley",
+      "type": "person",
+      "url": "https://www.penguinrandomhouse.com/books/91121/the-art-of-innovation-by-thomas-kelley-with-jonathan-littman/9780307423863/",
+      "source_file": "sources/innovation-book.txt",
+      "retrieved_at": "2026-11-24T08:43:48.668577+00:00",
+      "evidence_note": "Publisher identifies author"
+    },
+    {
+      "id": "jonathan",
+      "label": "Jonathan Littman",
+      "type": "person",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "source_file": "sources/felix-post.txt",
+      "retrieved_at": "2026-11-24T08:43:48.666868+00:00",
+      "evidence_note": "Original post credits the book to Kelley and Littman; publisher URL also names Littman"
+    },
+    {
+      "id": "book",
+      "label": "The Art of Innovation",
+      "type": "work",
+      "url": "https://www.penguinrandomhouse.com/books/91121/the-art-of-innovation-by-thomas-kelley-with-jonathan-littman/9780307423863/",
+      "source_file": "sources/innovation-book.txt",
+      "retrieved_at": "2026-11-24T08:43:48.668577+00:00",
+      "evidence_note": "Publisher book record; no full-text verification of the technique"
+    },
+    {
+      "id": "alex",
+      "label": "Alex Albert",
+      "type": "person",
+      "url": "https://alexalbert.me/",
+      "source_file": "sources/alex-profile.txt",
+      "retrieved_at": "2026-11-24T08:43:48.668186+00:00",
+      "evidence_note": "Self-description: Claude Relations at Anthropic"
+    },
+    {
+      "id": "blender",
+      "label": "Blender",
+      "type": "work",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "source_file": "sources/felix-post.txt",
+      "retrieved_at": "2026-11-24T08:43:48.666868+00:00",
+      "evidence_note": "Software cited in Alex Albert anecdote; official site fetch blocked"
+    },
+    {
+      "id": "homepage",
+      "label": "Felix Rieseberg homepage",
+      "type": "work",
+      "url": "https://felixrieseberg.com/",
+      "source_file": "sources/felix-home.txt",
+      "retrieved_at": "2026-11-24T08:43:48.667688+00:00",
+      "evidence_note": "Homepage fetched as text; 3D functionality not visually tested"
+    },
+    {
+      "id": "subagents",
+      "label": "Claude Code subagents",
+      "type": "feature",
+      "url": "https://code.claude.com/docs/en/sub-agents",
+      "source_file": "sources/claude-subagents.txt",
+      "retrieved_at": "2026-11-24T08:43:48.671699+00:00",
+      "evidence_note": "Documented implementation of general multi-agent capability; mapping is our inference"
+    },
+    {
+      "id": "subagent-doc",
+      "label": "Create custom subagents",
+      "type": "doc",
+      "url": "https://code.claude.com/docs/en/sub-agents",
+      "source_file": "sources/claude-subagents.txt",
+      "retrieved_at": "2026-11-24T08:43:48.671699+00:00",
+      "evidence_note": "Official documentation"
+    },
+    {
+      "id": "teams",
+      "label": "Claude Code agent teams",
+      "type": "feature",
+      "url": "https://code.claude.com/docs/en/agent-teams",
+      "source_file": "sources/claude-agent-teams.txt",
+      "retrieved_at": "2026-11-24T08:43:48.672853+00:00",
+      "evidence_note": "Alternative coordinated-session implementation; experimental in saved docs"
+    }
+  ],
+  "edges": [
+    {
+      "from": "felix",
+      "to": "anthropic",
+      "relation": "works at",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "felix",
+      "to": "tutorial",
+      "relation": "authored",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "tutorial",
+      "to": "range",
+      "relation": "defines",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "tutorial",
+      "to": "book",
+      "relation": "credits noun-to-verb trick to",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "tom",
+      "to": "book",
+      "relation": "author",
+      "source_file": "sources/innovation-book.txt",
+      "inference": false
+    },
+    {
+      "from": "jonathan",
+      "to": "book",
+      "relation": "credited collaborator",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "felix",
+      "to": "alex",
+      "relation": "describes as colleague",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "alex",
+      "to": "anthropic",
+      "relation": "works at",
+      "source_file": "sources/alex-profile.txt",
+      "inference": false
+    },
+    {
+      "from": "alex",
+      "to": "blender",
+      "relation": "used for interior rendering according to Felix",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "blender",
+      "to": "homepage",
+      "relation": "inspired 3D environment according to Felix",
+      "source_file": "sources/felix-post.txt",
+      "inference": false
+    },
+    {
+      "from": "subagent-doc",
+      "to": "subagents",
+      "relation": "documents",
+      "source_file": "sources/claude-subagents.txt",
+      "inference": false
+    },
+    {
+      "from": "range",
+      "to": "subagents",
+      "relation": "can be implemented using",
+      "source_file": "sources/claude-subagents.txt",
+      "inference": true
+    },
+    {
+      "from": "range",
+      "to": "teams",
+      "relation": "can be implemented using",
+      "source_file": "sources/claude-agent-teams.txt",
+      "inference": true
+    }
+  ],
+  "sources": [
+    {
+      "name": "felix-post",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "source_file": "sources/felix-post.txt",
+      "retrieved_at": "2026-11-24T08:43:48.666868+00:00",
+      "status": 200,
+      "chars": 13593
+    },
+    {
+      "name": "felix-home",
+      "url": "https://felixrieseberg.com/",
+      "source_file": "sources/felix-home.txt",
+      "retrieved_at": "2026-11-24T08:43:48.667688+00:00",
+      "status": 200,
+      "chars": 8866
+    },
+    {
+      "name": "alex-profile",
+      "url": "https://alexalbert.me/",
+      "source_file": "sources/alex-profile.txt",
+      "retrieved_at": "2026-11-24T08:43:48.668186+00:00",
+      "status": 200,
+      "chars": 670
+    },
+    {
+      "name": "innovation-book",
+      "url": "https://www.penguinrandomhouse.com/books/91121/the-art-of-innovation-by-thomas-kelley-with-jonathan-littman/9780307423863/",
+      "source_file": "sources/innovation-book.txt",
+      "retrieved_at": "2026-11-24T08:43:48.668577+00:00",
+      "status": 200,
+      "chars": 12670
+    },
+    {
+      "name": "anthropic-about",
+      "url": "https://www.anthropic.com/company",
+      "source_file": "sources/anthropic-about.txt",
+      "retrieved_at": "2026-11-24T08:43:48.669482+00:00",
+      "status": 200,
+      "chars": 6003
+    },
+    {
+      "name": "claude-subagents",
+      "url": "https://code.claude.com/docs/en/sub-agents",
+      "source_file": "sources/claude-subagents.txt",
+      "retrieved_at": "2026-11-24T08:43:48.671699+00:00",
+      "status": 200,
+      "chars": 442997
+    },
+    {
+      "name": "claude-agent-teams",
+      "url": "https://code.claude.com/docs/en/agent-teams",
+      "source_file": "sources/claude-agent-teams.txt",
+      "retrieved_at": "2026-11-24T08:43:48.672853+00:00",
+      "status": 200,
+      "chars": 185429
+    }
+  ],
+  "created": "2026-11-24T08:45:56.300542+00:00"
+}

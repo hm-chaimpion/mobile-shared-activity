@@ -1,0 +1,26 @@
+{
+  "pass": true,
+  "quotes": [
+    {
+      "quote": "Drawing on multiple fields",
+      "literal_match": true
+    },
+    {
+      "quote": "replace the nouns with verbs",
+      "literal_match": true
+    },
+    {
+      "quote": "bring in additional fields",
+      "literal_match": true
+    },
+    {
+      "quote": "a journalist, and an editor",
+      "literal_match": true
+    },
+    {
+      "quote": "to research their position",
+      "literal_match": true
+    }
+  ],
+  "source": "sources/felix-post.txt"
+}

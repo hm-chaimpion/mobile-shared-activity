@@ -1,0 +1,7 @@
+{
+  "exit": 0,
+  "expected": 0,
+  "as_expected": true,
+  "stdout": "{\n \"quotes\": 5,\n \"not_found\": 0,\n \"rows\": [\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"Drawing on multiple fields\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"replace the nouns with verbs\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"bring in additional fields\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"a journalist, and an editor\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"to research their position\"\n  }\n ]\n}\n",
+  "stderr": ""
+}

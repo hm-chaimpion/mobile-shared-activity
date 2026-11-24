@@ -1,0 +1,143 @@
+Name: felix-home
+URL: https://felixrieseberg.com/
+Final URL: https://felixrieseberg.com/
+Fetched: 2026-11-24T08:43:48.667688+00:00
+HTTP: 200
+
+Felix Rieseberg
+Felix Rieseberg
+AboutWorkPostsOnline
+HI-FIAUTO
+Hi, I'm Felix.
+I work on Claude at Anthropic. Electron co-maintainer. Maintainer of too many little open source projects.
+More about me
+×
+Static version
+Personal websites and portfolios are some of the last places where the Internet is still creative and fun, so I worked very hard on an interactive experience. Your computer and browser identified themselves as a device where the experience might be bad, so you've been routed to this static version.
+Click here to try the interactive version anyway.
+Work
+Anthropic2025–now
+I work on whatever allows me to make people productive with AI. In my time at the company so far, I've led engineering for Claude.ai, Cowork, and Code Desktop. Always looking for the next big thing! claude.com/download
+Notion2023–2025
+Notion's desktop apps for Mac and Windows, plus the web plumbing underneath them. notion.com/desktop
+Stripe2021–2023
+Two years on Stripe's core payments APIs, the part developers call when they want to get paid. stripe.com
+Slack2016–2021
+Nearly five years on Slack's desktop app for macOS, Windows and Linux, first writing code, later managing the team. slack.com/downloads
+Microsoft2011–2016
+Five years at Microsoft, evangelizing Windows Phone in Munich and San Francisco, then open source, mostly making npm install work on Windows. github.com/felixrieseberg/windows-build-tools
+Projects
+Electron2016–now
+I've helped maintain Electron since 2016, which explains why most things on this shelf are Electron apps. electronjs.org
+Electron Fiddle2018–now
+A quick way to try Electron: small experiments, any version, no setup. electronjs.org/fiddle
+Clippy2025–now
+Clippy from Office 97, back on your desktop and running a language model on your own computer. felixrieseberg.github.io/clippy
+Language Model Builder2026–now
+A free Mac app that explains how language models work, then lets you train a small one yourself. languagemodelbuilder.com
+windows952018–now
+Windows 95 in an Electron app, yes, the full thing, with the hard emulation work done by v86. github.com/felixrieseberg/windows95
+macintosh.js2020
+Mac OS 8 in an Electron app pretending to be a 1991 Macintosh Quadra, with the emulation done by Basilisk II. github.com/felixrieseberg/macintosh.js
+Podcasts
+MTS, October 2026
+Silicon Valley Girl, October 2026
+Hanselminutes, August 2026
+Summation, July 2026
+How I AI, May 2026
+The MAD Podcast, April 2026
+Latent Space, March 2026
+Posts
+Hunger beats tenure: Advice for junior engineers27 Oct 2026
+How to be more ambitious: A tutorial for humans with models13 Oct 2026
+Made by mechanical means27 Sep 2026
+The Fanciest eCards28 Feb 2025
+Things people get wrong about Electron21 Jan 2025
+Using WebGL Shadertoy Shaders in Three.js21 Sep 2024
+Adventures in Measuring JavaScript8 Nov 2023
+Debugging native Node.js addons with Electron on macOS18 Aug 2023
+Avoid Git Merge Conflicts During a Big Rebase1 Sep 2021
+On Running an Electron Contributor Training3 Feb 2020
+Code-signing Electron Apps in CI1 Dec 2019
+Debugging Native Crashes in Electron Apps on Windows29 May 2019
+Dependencies and Git branches17 Apr 2019
+Progressive Web Apps & Electron8 Apr 2019
+Introducing Electron Fiddle10 Aug 2018
+Defeating Electron12 Jul 2018
+A Guide to Electron18 Dec 2017
+Ember-Electron 2: Building Desktop Apps with Ember and Electron10 Apr 2017
+Using Native Windows Features from Electron9 Jan 2017
+Running your own Parse with Azure and Docker29 Jan 2016
+Using Travis to Deploy Apps to Azure2 Sep 2015
+Deploying Flynn Clusters on Azure18 Aug 2015
+Deploy Jekyll Pages using Git and Travis CI14 Aug 2015
+A Peer Review Bot for GitHub23 Jul 2015
+npm@3 is here and it's a huge deal for Windows26 Jun 2015
+Wicked Cool Excel Functions with Blockspring17 Jun 2015
+Building a Android Twitter Clone with Azure Mobile Services12 Apr 2015
+Installing Ghost on Azure8 Apr 2015
+Improved Ember Cli Performance with Windows11 Mar 2015
+Open Source: A Small Guide for Newcomers9 Mar 2015
+Host your own Heroku-style platform with Deis and Azure27 Feb 2015
+Deploying Ember Cli to Azure Websites21 Feb 2015
+Deploying SailsJS Apps in Seconds17 Feb 2015
+Node 0.12 (Stable) and Azure Websites6 Feb 2015
+What is a Microsoft Open Source Engineer, anyway?5 Feb 2015
+Azure Websites and io.js19 Jan 2015
+ECMAScript 6: A Quick Intro to the Future of JavaScript15 Jan 2015
+Building Standalone Node.js Apps with Node Webkit19 Nov 2014
+The Ghost Updater for Azure Websites21 Oct 2014
+The Small Windows Dev Environment17 Jul 2014
+Node Mayhem: An Open-Source Node.js HTML5 Multiplayer Shooter11 Nov 2013
+Mapping SkyDrive as a folder on Windows RT23 Dec 2012
+Windows 8: Displaying a clock on Live Tiles22 Dec 2012
+Online
+X@felixrieseberg
+GitHubfelixrieseberg
+LinkedInin/felixrieseberg
+Blueskyfelixrieseberg.bsky.social
+HomeAboutWorkPostsOnlineSubscribe
+HI-FI
+▶▶ LOADING
+CH 00
+0%
+SOUNDONOFF
+SLOW? THERE'S A TEXT VERSION:▶ GO LO-FI
+Sound
+Felix Rieseberg
+ABOUT
+WORK
+POSTS
+ONLINE
+Felix Rieseberg
+I work on Claude at Anthropic. Electron co-maintainer. Maintainer of too many little open source projects.
+CH 01
+About
+HIDEHOME
+C use computer · M use CD player · Z zoom TV · 1–6 monitor buttons
+SHOW CARD · NBACK TO THE DESK · ESCCREDITSLO-FISOUND OFF
+Switch to the lo-fi version?
+If the 3D adventure here is a little too much, you can switch to a plain website with roughly the same content.
+STAYGO LO-FI
+Your emailSend card
+I work on Claude at Anthropic. Electron Co-Maintainer. Maintainer of too many little open source projects.
+I have previously led teams and apps at Notion, Stripe, Slack, and Microsoft. At some point I was also an O'Reilly Author and Trainer but it's been a few years.
+Things I do
+I work on whatever allows me to make people productive with AI. In my time at Anthropic so far, I've led engineering for Claude.ai, Cowork, and Code Desktop. Always looking for the next big thing!
+I'm a contributor to and maintainer of a bunch of open source projects - with an ever-growing list, but I'm most proud of my work on Electron, Language Model Builder, MCBP, windows95, macintosh.js, and clippy. I have an uncurable addiction to building things I find fun and cute (and not necessarily super valuable), you can find the full list on GitHub.
+Things I did
+From 2023 to 2025, I led the Web Infrastructure and Desktop App teams at Notion.
+From 2021 until 2023, I led a team called Payments Integration Experience working on the future of payments at Stripe.
+From 2016 to 2021, I worked as a Senior Staff Engineer and Engineering Manager at Slack, where I got to support a team of amazing C++ engineers building the cross-platform desktop framework Electron – as well as Slack's desktop apps for macOS, Windows, and Linux. I cared a lot about the Node.js and Electron ecosystems, so I wrote an O'Reilly guide called "Introducing Electron". I still care today, I just write fewer books.
+Before joining the little fledgling Slack, I worked from 2014 to 2016 as an Open Source Engineer at Microsoft, spending my time coding or talking about Open Source. We tried to improve developer's lives by releasing quality code on GitHub — as well as touring the world and presenting the lessons we've learned. I built things like the windows-build-tools or npm-windows-upgrade.
+From 2011 to 2014, I worked with Microsoft Germany and Microsoft Silicon Valley specifically with younger companies as as Startup Developer Evangelist - first focusing on Berlin, then on the San Francisco Bay Area.
+I also once wrote an O'Reilly book on Windows App Development with JavaScript. It's in German, but even if you do read it, it's very solidly out of date now and contains nothing you should read. I once built a terrible but surprisingly successful game, being the single developer behind Awesome Zombie Sniper. The code was outrageous but it brought minor joy to more than a million players. The actual goal of the work was to help developers succeed on Windows, Windows Phone, and Xbox by exploring cross-platform issues with Unity and the game was a surprisingly lucky "Hello World" demo.
+From 2007 to 2011, I got my startup experience leading the German Apfeltalk.de magazine as Executive Editor where we served 10 million monthly users everything they needed to know about iOS and macOS. I'm proud that our team took the website from a small community to one of the biggest tech sites in Europe.
+Academically, I graduated from the MSc program at the University of Oxford's Internet Institute, researching at the intersection of sociology, law, economics, and computer science. Before that, I studied at the University of Duesseldorf where I also spent some time as visiting lecturer for app development and New Media Research Associate.
+MTS, October 2026
+Silicon Valley Girl, October 2026
+Hanselminutes, August 2026
+Summation, July 2026
+How I AI, May 2026
+The MAD Podcast, April 2026
+Latent Space, March 2026

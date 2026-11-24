@@ -1,0 +1,7 @@
+{
+  "exit": 0,
+  "expected": 0,
+  "as_expected": true,
+  "stdout": "{\n  \"pass\": true,\n  \"nodes\": 13,\n  \"unique_urls\": 7,\n  \"edges\": 13,\n  \"errors\": [],\n  \"scope\": \"structural provenance, not semantic verification\"\n}\n",
+  "stderr": ""
+}

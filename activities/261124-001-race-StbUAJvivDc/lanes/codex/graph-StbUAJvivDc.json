@@ -1,0 +1,14 @@
+{
+  "video_id": "StbUAJvivDc",
+  "source_url": "https://www.youtube.com/shorts/StbUAJvivDc",
+  "status": "blocked",
+  "reason": "No timed speech or frames recovered; do not infer visuals",
+  "steps": [],
+  "nodes": [],
+  "edges": [],
+  "quotes": [],
+  "onion": {
+    "status": "blocked: no evidenced video reconstruction",
+    "layers": []
+  }
+}

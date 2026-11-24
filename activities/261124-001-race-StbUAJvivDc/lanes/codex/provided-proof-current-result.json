@@ -1,0 +1,7 @@
+{
+  "exit": 0,
+  "expected": 0,
+  "as_expected": true,
+  "stdout": "{\"current\": true, \"proved_at\": \"2026-11-24T08:46:30+00:00\"}\n",
+  "stderr": ""
+}

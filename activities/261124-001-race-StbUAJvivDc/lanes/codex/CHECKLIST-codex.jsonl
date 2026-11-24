@@ -1,0 +1,20 @@
+{"id": "C01", "status": "done", "evidence": "integrity-skills-codex.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Bundle and seven hashes match spec; start anchor corrected in timing file"}
+{"id": "C02", "status": "done", "evidence": "metadata-StbUAJvivDc.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Public HTML metadata recovered after yt-dlp failure"}
+{"id": "C03", "status": "blocked", "evidence": "transcript-status-StbUAJvivDc.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Bot-check; timedtext zero bytes. Fix: permitted caption/media access"}
+{"id": "C04", "status": "blocked", "evidence": "BLOCKED-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Public media HTTP 403. Fix: legitimately downloadable video"}
+{"id": "C05", "status": "blocked", "evidence": "visual-layer-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "No frames to OCR; do not manufacture empty OCR evidence"}
+{"id": "C06", "status": "done", "evidence": "BLOCKED-audio-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Provided audio route attempted early; no Whisper. No audio verified; fix: install Whisper and obtain permitted media"}
+{"id": "C07", "status": "done", "evidence": "first-answer-time-codex.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "First answer is explicitly provisional and description-based"}
+{"id": "C08", "status": "blocked", "evidence": "coverage-check-result.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Supplied graph gate passes empty graph; substantive video graph remains blocked"}
+{"id": "C09", "status": "blocked", "evidence": "coverage-check-result.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Zero checked spoken quotes; supplied empty-input pass is vacuous"}
+{"id": "C10", "status": "done", "evidence": "sources/felix-post.txt", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Expert identified from his own bio"}
+{"id": "C11", "status": "blocked", "evidence": "words-versus-sources-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Original post saved; publisher-description comparison complete; narrator comparison blocked by absent transcript"}
+{"id": "C12", "status": "done", "evidence": "knowledge-graph-StbUAJvivDc.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "All entities identifiable in publisher description/Range section have saved evidence; no claim of complete speech coverage"}
+{"id": "C13", "status": "done", "evidence": "feature-docs-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "General capability mapped; implementation confidence explicit; two official docs saved"}
+{"id": "C14", "status": "done", "evidence": "knowledge-check-result.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "13 nodes, 13 edges, seven distinct graph URLs; checker passes"}
+{"id": "C15", "status": "done", "evidence": "exact-quotes-result.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Five written quotes pass supplied normalised and added literal match"}
+{"id": "C16", "status": "done", "evidence": "method-card-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Worked example and model-neutral prompt; adaptations labelled"}
+{"id": "C17", "status": "done", "evidence": "DERIVATIVES-StbUAJvivDc.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Seven ideas with audience and estimated effort"}
+{"id": "C18", "status": "blocked", "evidence": "publication-status-codex.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Self-contained page created; Pages URL returns404. Fix: repository Pages publishing/admin configuration"}
+{"id": "C19", "status": "done", "evidence": "TOOLS-codex.md", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Tools saved, tests recorded, decisions and time logs present; early step timing retrospective"}
+{"id": "C20", "status": "done", "evidence": "proof-StbUAJvivDc.json", "at": "2026-11-24T08:49:40.426539+00:00", "note": "Current mechanical proof; delivery through connected GitHub attempted separately. This item becomes done only when remote write succeeds; see delivery receipt"}

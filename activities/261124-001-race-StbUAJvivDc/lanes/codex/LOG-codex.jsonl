@@ -1,0 +1,18 @@
+{"at": "2026-11-24T08:39:30Z", "event": "start", "step": "race", "basis": "estimated retrospective; first exact clock sample 08:40:57Z", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:41:56.684171+00:00", "event": "end", "step": "skills-integrity", "basis": "measured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:46:30.735600+00:00", "event": "start", "step": "knowledge-check", "basis": "measured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:46:30.758677+00:00", "event": "end", "step": "knowledge-check", "basis": "measured", "tokens": null, "cost": null, "exit": 0}
+{"at": "2026-11-24T08:46:30.758956+00:00", "event": "start", "step": "written-quote-check", "basis": "measured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:46:30.777498+00:00", "event": "end", "step": "written-quote-check", "basis": "measured", "tokens": null, "cost": null, "exit": 0}
+{"at": "2026-11-24T08:46:30.777859+00:00", "event": "start", "step": "provided-proof", "basis": "measured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:46:30.888245+00:00", "event": "end", "step": "provided-proof", "basis": "measured", "tokens": null, "cost": null, "exit": 0}
+{"at": "2026-11-24T08:46:30.888581+00:00", "event": "start", "step": "provided-proof-current", "basis": "measured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:46:30.936438+00:00", "event": "end", "step": "provided-proof-current", "basis": "measured", "tokens": null, "cost": null, "exit": 0}
+{"at": "2026-11-24T08:46:30.936688+00:00", "event": "start", "step": "coverage-check", "basis": "measured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:46:30.960980+00:00", "event": "end", "step": "coverage-check", "basis": "measured", "tokens": null, "cost": null, "exit": 1}
+{"at": "2026-11-24T08:49:40.426539+00:00", "event": "timing-correction", "step": "race clock", "basis": "measured filesystem anchor; see timing-correction-codex.json", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:42:13.183201+00:00", "event": "end", "step": "metadata fallback", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:42:34.500575+00:00", "event": "end", "step": "first answer", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:43:55.033571+00:00", "event": "end", "step": "source acquisition", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:45:56.301763+00:00", "event": "end", "step": "research bundle", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:47:46.443493+00:00", "event": "end", "step": "page build", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}

@@ -1,0 +1,7 @@
+{
+  "exit": 1,
+  "expected": 1,
+  "as_expected": true,
+  "stdout": "{\n  \"pass\": false,\n  \"failures\": [\n    \"No timed speech: supplied quote gate can pass zero quotes vacuously\",\n    \"Fewer than five checked spoken quotes\",\n    \"No evidenced timed argument\",\n    \"No delivered frames; visual layer unverified\"\n  ],\n  \"status\": \"blocked\"\n}\n",
+  "stderr": ""
+}
