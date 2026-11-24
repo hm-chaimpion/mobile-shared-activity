@@ -16,3 +16,5 @@
 {"at": "2026-11-24T08:43:55.033571+00:00", "event": "end", "step": "source acquisition", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
 {"at": "2026-11-24T08:45:56.301763+00:00", "event": "end", "step": "research bundle", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
 {"at": "2026-11-24T08:47:46.443493+00:00", "event": "end", "step": "page build", "basis": "retrospective measured file mtime; start not captured", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:52:01.191723+00:00", "event": "end", "step": "remote-publication", "basis": "measured receipt timestamp after remote verification; start is register ended timestamp, not exact network-call start", "commit": "c9be2afd6c3a65d60f9ab9e066dca7e5fb11a957", "tokens": null, "cost": null}
+{"at": "2026-11-24T08:52:49.581850+00:00", "event": "end", "step": "public Pages verification", "basis": "measured; HTTP200 and body byte equality", "tokens": null, "cost": null}
