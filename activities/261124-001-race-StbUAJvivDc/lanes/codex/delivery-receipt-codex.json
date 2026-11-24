@@ -1,0 +1,18 @@
+{
+  "at": "2026-11-24T08:52:01.191723+00:00",
+  "primary_remote_commit": "c9be2afd6c3a65d60f9ab9e066dca7e5fb11a957",
+  "remote_main_update": "success",
+  "public_lane_verified": "GitHub browser directory listing and connector file fetch",
+  "register_verified": true,
+  "counts": {
+    "done": 13,
+    "blocked": 7,
+    "skipped": 0
+  },
+  "proof_current": true,
+  "coverage_pass": false,
+  "pages": "blocked; final HTTP check recorded separately",
+  "author": "ChatGPT Codex",
+  "co_author": "Hamish McGregor",
+  "c20_delivery": "done; no claim that C09 speech verification passed"
+}

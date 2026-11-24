@@ -1,0 +1,10 @@
+{
+  "at": "2026-11-24T08:52:49.581850+00:00",
+  "supersedes_counts_only": true,
+  "original_register_row_preserved": true,
+  "reason": "Pages became available after initial immutable register snapshot",
+  "done": 14,
+  "blocked": 6,
+  "skipped": 0,
+  "evidence": "CHECKLIST-v02-codex.jsonl"
+}

@@ -28,3 +28,7 @@ check_knowledge_graph.py has negative tests for empty/missing-source graphs. The
 Re-run: `python created-tools/check_knowledge_graph.py knowledge-graph-StbUAJvivDc.json` from the lane, or use full lane paths from repo root. `python created-tools/check_bundle_coverage.py .` must currently exit 1. Do not rerun build generators over an immutable edition; copy to a new version first.
 
 reply: 5; conversation_url: unavailable; project_id: 261124-001
+
+Additional tool: created-tools/package_bundle.py creates the one-file review package and manifest, verifies ZIP CRC and each extracted SHA256. Tested successfully; see package-result-codex.json.
+
+Additional tool: created-tools/verify_page.py checks unauthenticated public HTTP200, byte equality with index.html, local link targets and absence of external assets. Tested successfully: publication-v02-codex.json.
