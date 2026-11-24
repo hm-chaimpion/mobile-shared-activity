@@ -1,0 +1,394 @@
+{
+ "video_id": "StbUAJvivDc",
+ "pass": true,
+ "failures": 0,
+ "counts": {
+  "nodes": 30,
+  "edges": 21,
+  "steps": 7,
+  "quotes": 8,
+  "onion": 5
+ },
+ "fails": [],
+ "human_check": [
+  {
+   "node": "homepage_capture",
+   "label": "Homepage captured 2026",
+   "frames": [
+    "frame-0084"
+   ],
+   "vision_note": "frame-0084: header strip reads FELIXRIESEBERG.COM - HOMEPAGE - CAPTURED 2026-10-21 over a screenshot of a rendered 3D room"
+  },
+  {
+   "node": "source_card",
+   "label": "Source felixrieseberg.com 13 Oct 2026",
+   "frames": [
+    "frame-0105"
+   ],
+   "vision_note": "frame-0105 bottom line: SOURCE: FELIXRIESEBERG.COM - 13 OCT 2026 (OCR reads .CON on some frames)"
+  }
+ ],
+ "rows": {
+  "nodes": [
+   {
+    "id": "hook_card",
+    "label": "Nouns to verbs, then the crew",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "deck_board",
+    "label": "Deck",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "felix_card",
+    "label": "Felix Rieseberg",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "range_board",
+    "label": "Range",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "trick1_board",
+    "label": "his first trick",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "crew_board",
+    "label": "Assemble the crew",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "redteam_board",
+    "label": "Red team",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "albert_board",
+    "label": "Alex Albert",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "homepage_capture",
+    "label": "Homepage captured 2026",
+    "source": "vision",
+    "status": "human-check"
+   },
+   {
+    "id": "nextask_board",
+    "label": "before your next big ask",
+    "source": "ocr",
+    "status": "pass"
+   },
+   {
+    "id": "source_card",
+    "label": "Source felixrieseberg.com 13 Oct 2026",
+    "source": "vision",
+    "status": "human-check"
+   },
+   {
+    "id": "felix",
+    "label": "Felix Rieseberg",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "anthropic",
+    "label": "Anthropic",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "range",
+    "label": "range",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "multiagent",
+    "label": "multi-agent setups",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "art_innovation",
+    "label": "The Art of Innovation",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "kelley",
+    "label": "Tom Kelley",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "littman",
+    "label": "Jonathan Littman",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "verbs",
+    "label": "Replace the noun with verbs",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "crew",
+    "label": "Assemble the crew",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "heist",
+    "label": "heist movie",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "production",
+    "label": "analyst, journalist, editor",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "presenters",
+    "label": "motion and audio designer",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "redteam",
+    "label": "red team",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "short_seller",
+    "label": "short seller",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "forensic",
+    "label": "forensic accountant",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "alex_albert",
+    "label": "Alex Albert",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "blender",
+    "label": "Blender",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "homepage3d",
+    "label": "His homepage is a 3D room",
+    "source": "speech",
+    "status": "pass"
+   },
+   {
+    "id": "no_roleplay",
+    "label": "Role-play makes the transcript weirder",
+    "source": "speech",
+    "status": "pass"
+   }
+  ],
+  "edges": [
+   {
+    "id": "E01",
+    "status": "pass"
+   },
+   {
+    "id": "E02",
+    "status": "pass"
+   },
+   {
+    "id": "E03",
+    "status": "pass"
+   },
+   {
+    "id": "E04",
+    "status": "pass"
+   },
+   {
+    "id": "E05",
+    "status": "pass"
+   },
+   {
+    "id": "E06",
+    "status": "pass"
+   },
+   {
+    "id": "E07",
+    "status": "pass"
+   },
+   {
+    "id": "E08",
+    "status": "pass"
+   },
+   {
+    "id": "E09",
+    "status": "pass"
+   },
+   {
+    "id": "E10",
+    "status": "pass"
+   },
+   {
+    "id": "E11",
+    "status": "pass"
+   },
+   {
+    "id": "E12",
+    "status": "pass"
+   },
+   {
+    "id": "E13",
+    "status": "pass"
+   },
+   {
+    "id": "E14",
+    "status": "pass"
+   },
+   {
+    "id": "E15",
+    "status": "pass"
+   },
+   {
+    "id": "E16",
+    "status": "pass"
+   },
+   {
+    "id": "E17",
+    "status": "pass"
+   },
+   {
+    "id": "E18",
+    "status": "pass"
+   },
+   {
+    "id": "E19",
+    "status": "pass"
+   },
+   {
+    "id": "E20",
+    "status": "pass"
+   },
+   {
+    "id": "E21",
+    "status": "pass"
+   }
+  ],
+  "steps": [
+   {
+    "id": "S01",
+    "status": "pass"
+   },
+   {
+    "id": "S02",
+    "status": "pass"
+   },
+   {
+    "id": "S03",
+    "status": "pass"
+   },
+   {
+    "id": "S04",
+    "status": "pass"
+   },
+   {
+    "id": "S05",
+    "status": "pass"
+   },
+   {
+    "id": "S06",
+    "status": "pass"
+   },
+   {
+    "id": "S07",
+    "status": "pass"
+   }
+  ],
+  "quotes": [
+   {
+    "id": "Q01",
+    "status": "pass",
+    "start": 0.0
+   },
+   {
+    "id": "Q02",
+    "status": "pass",
+    "start": 31.68
+   },
+   {
+    "id": "Q03",
+    "status": "pass",
+    "start": 34.36
+   },
+   {
+    "id": "Q04",
+    "status": "pass",
+    "start": 72.72
+   },
+   {
+    "id": "Q05",
+    "status": "pass",
+    "start": 102.64
+   },
+   {
+    "id": "Q06",
+    "status": "pass",
+    "start": 108.2
+   },
+   {
+    "id": "Q07",
+    "status": "pass",
+    "start": 17.52
+   },
+   {
+    "id": "Q08",
+    "status": "pass"
+   }
+  ],
+  "onion": [
+   {
+    "id": "O1",
+    "status": "pass"
+   },
+   {
+    "id": "O2",
+    "status": "pass"
+   },
+   {
+    "id": "O3",
+    "status": "pass"
+   },
+   {
+    "id": "O4",
+    "status": "pass"
+   },
+   {
+    "id": "O5",
+    "status": "pass"
+   }
+  ]
+ }
+}

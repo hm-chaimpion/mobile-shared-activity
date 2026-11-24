@@ -1,0 +1,613 @@
+{
+ "video_id": "StbUAJvivDc",
+ "source_url": "https://www.youtube.com/watch?v=StbUAJvivDc",
+ "frames_dir": "frames-StbUAJvivDc",
+ "steps": [
+  {
+   "id": "S01",
+   "start": 0.0,
+   "end": 9.9,
+   "title": "Hook: ask for a deck, get a deck",
+   "paraphrase": "Asking Claude for a noun gets that noun; Felix Rieseberg (Anthropic EM) would add a short seller.",
+   "frame_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0005"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  },
+  {
+   "id": "S02",
+   "start": 10.0,
+   "end": 24.9,
+   "title": "Range",
+   "paraphrase": "Range = drawing on several fields; multi-agent setups make extra fields cheap to bring in.",
+   "frame_ids": [
+    "frame-0013",
+    "frame-0019"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  },
+  {
+   "id": "S03",
+   "start": 25.0,
+   "end": 50.9,
+   "title": "Trick 1: nouns to verbs",
+   "paraphrase": "From The Art of Innovation (Kelley, Littman): restate the deliverable as verbs to reveal which fields help.",
+   "frame_ids": [
+    "frame-0027",
+    "frame-0040"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  },
+  {
+   "id": "S04",
+   "start": 51.0,
+   "end": 77.9,
+   "title": "Trick 2: assemble the crew",
+   "paraphrase": "Heist-movie crew under an absurd stake: analyst, journalist, editor; motion/audio designer; red team incl. short seller and forensic accountant.",
+   "frame_ids": [
+    "frame-0053",
+    "frame-0060",
+    "frame-0067",
+    "frame-0070"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  },
+  {
+   "id": "S05",
+   "start": 78.0,
+   "end": 97.9,
+   "title": "It takes creativity: Alex Albert, Blender, 3D homepage",
+   "paraphrase": "A colleague's Blender renders led Felix to a 3D homepage; range is where he sees the most magic.",
+   "frame_ids": [
+    "frame-0072",
+    "frame-0075",
+    "frame-0084"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  },
+  {
+   "id": "S06",
+   "start": 98.0,
+   "end": 111.9,
+   "title": "Do it: verbs, crew, no role-play",
+   "paraphrase": "Before the next big ask write the verbs, name the crew, and have Claude do the field's work rather than imitate its voice.",
+   "frame_ids": [
+    "frame-0090",
+    "frame-0094"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  },
+  {
+   "id": "S07",
+   "start": 112.0,
+   "end": 118.0,
+   "title": "Close: who joins first?",
+   "paraphrase": "Viewer question plus source card felixrieseberg.com, 13 Oct 2026.",
+   "frame_ids": [
+    "frame-0105",
+    "frame-0107"
+   ],
+   "caution": "keyframes are deduped, so frame numbers approximate seconds; times come from captions"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "hook_card",
+   "label": "Nouns to verbs, then the crew",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0001"
+   ]
+  },
+  {
+   "id": "deck_board",
+   "label": "Deck",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0002"
+   ]
+  },
+  {
+   "id": "felix_card",
+   "label": "Felix Rieseberg",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0005"
+   ]
+  },
+  {
+   "id": "range_board",
+   "label": "Range",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0013"
+   ]
+  },
+  {
+   "id": "trick1_board",
+   "label": "his first trick",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0027"
+   ]
+  },
+  {
+   "id": "crew_board",
+   "label": "Assemble the crew",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0053"
+   ]
+  },
+  {
+   "id": "redteam_board",
+   "label": "Red team",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0067"
+   ]
+  },
+  {
+   "id": "albert_board",
+   "label": "Alex Albert",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0075"
+   ]
+  },
+  {
+   "id": "homepage_capture",
+   "label": "Homepage captured 2026",
+   "kind": "board",
+   "source": "vision",
+   "frame_ids": [
+    "frame-0084"
+   ],
+   "vision_note": "frame-0084: header strip reads FELIXRIESEBERG.COM - HOMEPAGE - CAPTURED 2026-10-21 over a screenshot of a rendered 3D room"
+  },
+  {
+   "id": "nextask_board",
+   "label": "before your next big ask",
+   "kind": "board",
+   "source": "ocr",
+   "frame_ids": [
+    "frame-0090"
+   ]
+  },
+  {
+   "id": "source_card",
+   "label": "Source felixrieseberg.com 13 Oct 2026",
+   "kind": "board",
+   "source": "vision",
+   "frame_ids": [
+    "frame-0105"
+   ],
+   "vision_note": "frame-0105 bottom line: SOURCE: FELIXRIESEBERG.COM - 13 OCT 2026 (OCR reads .CON on some frames)"
+  },
+  {
+   "id": "felix",
+   "label": "Felix Rieseberg",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 4
+  },
+  {
+   "id": "anthropic",
+   "label": "Anthropic",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 6
+  },
+  {
+   "id": "range",
+   "label": "range",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 10
+  },
+  {
+   "id": "multiagent",
+   "label": "multi-agent setups",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 17
+  },
+  {
+   "id": "art_innovation",
+   "label": "The Art of Innovation",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 25
+  },
+  {
+   "id": "kelley",
+   "label": "Tom Kelley",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 27
+  },
+  {
+   "id": "littman",
+   "label": "Jonathan Littman",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 30
+  },
+  {
+   "id": "verbs",
+   "label": "Replace the noun with verbs",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 31
+  },
+  {
+   "id": "crew",
+   "label": "Assemble the crew",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 55
+  },
+  {
+   "id": "heist",
+   "label": "heist movie",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 51
+  },
+  {
+   "id": "production",
+   "label": "analyst, journalist, editor",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 63
+  },
+  {
+   "id": "presenters",
+   "label": "motion and audio designer",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 68
+  },
+  {
+   "id": "redteam",
+   "label": "red team",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 72
+  },
+  {
+   "id": "short_seller",
+   "label": "short seller",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 72
+  },
+  {
+   "id": "forensic",
+   "label": "forensic accountant",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 72
+  },
+  {
+   "id": "alex_albert",
+   "label": "Alex Albert",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 80
+  },
+  {
+   "id": "blender",
+   "label": "Blender",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 82
+  },
+  {
+   "id": "homepage3d",
+   "label": "His homepage is a 3D room",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 91
+  },
+  {
+   "id": "no_roleplay",
+   "label": "Role-play makes the transcript weirder",
+   "kind": "spoken",
+   "source": "speech",
+   "t": 108
+  }
+ ],
+ "edges": [
+  {
+   "from": "felix",
+   "to": "anthropic",
+   "relation": "works at (engineering manager)",
+   "evidence_steps": [
+    "S01"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "felix",
+   "to": "range",
+   "relation": "names the ambition type",
+   "evidence_steps": [
+    "S02"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "multiagent",
+   "to": "range",
+   "relation": "makes cheap to practise",
+   "evidence_steps": [
+    "S02"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "kelley",
+   "to": "art_innovation",
+   "relation": "co-author of",
+   "evidence_steps": [
+    "S03"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "littman",
+   "to": "art_innovation",
+   "relation": "co-author of",
+   "evidence_steps": [
+    "S03"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "art_innovation",
+   "to": "verbs",
+   "relation": "source of trick 1",
+   "evidence_steps": [
+    "S03"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "verbs",
+   "to": "range",
+   "relation": "reveals which fields to add",
+   "evidence_steps": [
+    "S03"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "heist",
+   "to": "crew",
+   "relation": "analogy for trick 2",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "crew",
+   "to": "production",
+   "relation": "production-quality members",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "crew",
+   "to": "presenters",
+   "relation": "if presented",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "crew",
+   "to": "redteam",
+   "relation": "adversarial members",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "redteam",
+   "to": "short_seller",
+   "relation": "includes",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "redteam",
+   "to": "forensic",
+   "relation": "includes",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "alex_albert",
+   "to": "blender",
+   "relation": "used to render interior designs",
+   "evidence_steps": [
+    "S05"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "blender",
+   "to": "homepage3d",
+   "relation": "inspired Claude for 3D environments",
+   "evidence_steps": [
+    "S05"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "no_roleplay",
+   "to": "crew",
+   "relation": "guardrail on how to use the crew",
+   "evidence_steps": [
+    "S06"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "verbs",
+   "to": "crew",
+   "relation": "step 1 then step 2",
+   "evidence_steps": [
+    "S06"
+   ],
+   "status": "spoken"
+  },
+  {
+   "from": "range_board",
+   "to": "range",
+   "relation": "on-screen title for",
+   "evidence_steps": [
+    "S02"
+   ],
+   "status": "drawn"
+  },
+  {
+   "from": "crew_board",
+   "to": "crew",
+   "relation": "on-screen title for",
+   "evidence_steps": [
+    "S04"
+   ],
+   "status": "drawn"
+  },
+  {
+   "from": "albert_board",
+   "to": "alex_albert",
+   "relation": "on-screen title for",
+   "evidence_steps": [
+    "S05"
+   ],
+   "status": "drawn"
+  },
+  {
+   "from": "homepage_capture",
+   "to": "homepage3d",
+   "relation": "screen evidence for",
+   "evidence_steps": [
+    "S05"
+   ],
+   "status": "drawn"
+  }
+ ],
+ "onion": {
+  "status": "interpretation (grok-bot's), not the speaker's own layer model",
+  "layers": [
+   {
+    "id": "O1",
+    "title": "Core: change the ask",
+    "description": "verbs not nouns",
+    "nodes": [
+     "verbs"
+    ]
+   },
+   {
+    "id": "O2",
+    "title": "Crew of fields",
+    "description": "who would make it amazing / attack it",
+    "nodes": [
+     "crew",
+     "production",
+     "presenters",
+     "redteam",
+     "short_seller",
+     "forensic"
+    ]
+   },
+   {
+    "id": "O3",
+    "title": "Guardrail",
+    "description": "methods, not voices",
+    "nodes": [
+     "no_roleplay"
+    ]
+   },
+   {
+    "id": "O4",
+    "title": "Enabler",
+    "description": "multi-agent setups make many fields affordable",
+    "nodes": [
+     "multiagent"
+    ]
+   },
+   {
+    "id": "O5",
+    "title": "Frame: ambition as range",
+    "description": "one of Felix's four ambition types",
+    "nodes": [
+     "range",
+     "felix",
+     "anthropic"
+    ]
+   }
+  ]
+ },
+ "quotes": [
+  {
+   "id": "Q01",
+   "text": "Ask Claude for a deck, and you get a deck."
+  },
+  {
+   "id": "Q02",
+   "text": "Replace the noun with verbs."
+  },
+  {
+   "id": "Q03",
+   "text": "A quarterly review isn't a deck. It's getting busy people to believe a story about cause and effect and to decide under uncertainty in 30 minutes."
+  },
+  {
+   "id": "Q04",
+   "text": "Then a red team to attack it, a short seller, and a forensic accountant."
+  },
+  {
+   "id": "Q05",
+   "text": "And have Claude do what a short seller does to research a position, not write like one."
+  },
+  {
+   "id": "Q06",
+   "text": "Role-play makes the transcript weirder, not the result better."
+  },
+  {
+   "id": "Q07",
+   "text": "Now that multi-agent setups are easier to run, he's seen really interesting results asking Claude to bring in extra fields."
+  },
+  {
+   "id": "Q08",
+   "text": "Nouns to verbs, then the crew",
+   "on_screen": true,
+   "frame_ids": [
+    "frame-0001"
+   ],
+   "vision_note": "frame-0001 title card under GIVE CLAUDE A CREW"
+  }
+ ]
+}

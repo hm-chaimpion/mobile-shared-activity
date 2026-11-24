@@ -1,0 +1,51 @@
+[00:00] Ask Claude for a deck, and you get a
+[00:02] deck.
+[00:04] Felix Rieseberg, an engineering manager
+[00:06] at Anthropic, would send a short seller
+[00:08] after it.
+[00:10] On his blog, he calls this range drawing
+[00:12] on several fields, not just the one the
+[00:15] task seems to need.
+[00:17] Now that multi-agent setups are easier
+[00:19] to run, he's seen really interesting
+[00:21] results asking Claude to bring in extra
+[00:24] fields.
+[00:25] His first trick is an old one from The
+[00:27] Art of Innovation by Tom Kelley and
+[00:30] Jonathan Littman.
+[00:31] Replace the noun with verbs.
+[00:34] A quarterly review isn't a deck.
+[00:37] It's getting busy people to believe a
+[00:39] story about cause and effect and to
+[00:41] decide under uncertainty in 30 minutes.
+[00:45] The verbs make it easier for you and
+[00:47] Claude to see which fields could add a
+[00:49] useful angle.
+[00:51] His second trick is what every heist
+[00:53] movie spends its first half hour on.
+[00:55] Assemble the crew.
+[00:58] Felix pretends the deck has to be
+[01:00] amazing, or aliens blow up Earth.
+[01:03] For production quality, he'd bring in an
+[01:05] analyst, a journalist, and an editor.
+[01:08] If it gets presented, a motion and audio
+[01:11] designer, too.
+[01:12] Then a red team to attack it, a short
+[01:15] seller, and a forensic accountant.
+[01:18] He admits this takes creativity.
+[01:20] Until his colleague Alex Albert used
+[01:22] Blender to render interior designs, he'd
+[01:25] never thought of using Claude for 3D
+[01:27] environments on his homepage. And he's
+[01:29] made video games before.
+[01:31] His homepage is a 3D room now. He says
+[01:35] this is where he sees the most magic.
+[01:38] Before your next big ask, write the
+[01:40] verbs, then name the crew.
+[01:42] And have Claude do what a short seller
+[01:44] does to research a position, not write
+[01:47] like one.
+[01:48] Role-play makes the transcript weirder,
+[01:50] not the result better.
+[01:52] Who joins your crew first? The short
+[01:54] seller or the forensic accountant?

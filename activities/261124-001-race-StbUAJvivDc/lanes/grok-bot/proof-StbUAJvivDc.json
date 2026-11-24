@@ -1,0 +1,24 @@
+{
+ "video_id": "StbUAJvivDc",
+ "at": "2026-11-24T08:44:07+00:00",
+ "pass": true,
+ "sha256": {
+  "answer": "26074bfbfb083e4bbb2d7bfc8c50c2f8362c760a8fb7dd8b6ad5e622eadb4fe4",
+  "graph": "e0a2a5c6da05f06071766becb4eb0ea9a50ae2aaccb5249371ce1f5f8256d634",
+  "transcript": "749895581c58124b761c13c9a69e7be5380c43588d5a64c5c46a18289853ead8"
+ },
+ "gates": {
+  "quote_gate": 0,
+  "graph_gate": 0
+ },
+ "detail": {
+  "quote_gate": {
+   "exit": 0,
+   "tail": "{\n \"quotes\": 5,\n \"not_found\": 0,\n \"rows\": [\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"Ask Claude for a deck, and you get a deck.\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"A quarterly review isn't a deck. It's getting busy people to believe a story about cause and effect and to decide under uncertainty in 30 minutes.\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"Then a red team to attack it, a short seller, and a forensic accountant.\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"And have Claude do what a short seller does to research a position, not write like one.\"\n  },\n  {\n   \"found\": true,\n   \"fills\": [],\n   \"quote\": \"Role-play makes the transcript weirder, not the result better.\"\n  }\n ]\n}\n"
+  },
+  "graph_gate": {
+   "exit": 0,
+   "tail": "{\n \"video_id\": \"StbUAJvivDc\",\n \"pass\": true,\n \"failures\": 0,\n \"counts\": {\n  \"nodes\": 30,\n  \"edges\": 21,\n  \"steps\": 7,\n  \"quotes\": 8,\n  \"onion\": 5\n },\n \"human_check\": 2,\n \"fails\": []\n}\n"
+  }
+ }
+}
