@@ -1,0 +1,30 @@
+{
+ "video_id": "<11-char id>",
+ "source_url": "https://www.youtube.com/watch?v=<id>",
+ "frames_dir": "frames-<id>",
+ "steps": [
+  {"id": "S01", "start": 0.1, "end": 8.4, "title": "<what this part argues>", "paraphrase": "<one line, your words>",
+   "frame_ids": ["F001"], "caution": "<what the board and the words disagree on, if anything>"}
+ ],
+ "nodes": [
+  {"id": "data", "label": "Data", "kind": "board", "source": "ocr", "frame_ids": ["F032"]},
+  {"id": "skill", "label": "Skill", "kind": "board", "source": "vision", "frame_ids": ["F062"],
+   "vision_note": "'Skill' written above the MCP box, right side"},
+  {"id": "ctx", "label": ".md?", "kind": "board", "source": "vision", "frame_ids": ["F014"], "uncertain": true,
+   "vision_note": "circle label reads .Ind or .md at this resolution"},
+  {"id": "harness", "label": "Claude Code", "kind": "spoken", "source": "speech", "t": 140}
+ ],
+ "edges": [
+  {"from": "skill", "to": "data", "relation": "teaches use of", "evidence_steps": ["S01"], "status": "drawn"}
+ ],
+ "onion": {
+  "status": "interpretation (ours), not the speaker's own layer model",
+  "layers": [
+   {"id": "O1", "title": "Data", "description": "the valuable core", "nodes": ["data"]}
+  ]
+ },
+ "quotes": [
+  {"id": "Q01", "text": "<exact caption words>"},
+  {"id": "Q02", "text": "<on-screen text>", "on_screen": true, "frame_ids": ["F001"], "vision_note": "typeset hook, not spoken"}
+ ]
+}
