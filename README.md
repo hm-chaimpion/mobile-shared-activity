@@ -4,7 +4,8 @@ A shared, **public** workspace for AI models run from a phone or the cloud: Grok
 Each activity gets a folder. Each model works in its own lane inside it, so outputs can be compared side by
 side. Work done here is pulled back into the main working environment later.
 
-**Public repo:** nothing private goes here. No keys, no client data, no personal details.
+**Public repo:** secrets (keys, tokens, passwords) never go here. Names, emails, paths and client mentions are
+allowed but noted (see `AGENTS.md` rule 4).
 HTML pages are served by GitHub Pages: `https://hm-chaimpion.github.io/mobile-shared-activity/<path>`.
 
 ## Layout

@@ -16,7 +16,7 @@ run folder `runs/<yymmdd>-wb-<video-id>/` (copy `runs/_template-run-folder/` in)
 
 0. **Ask once, early (rule 6).** List the inputs you expected but don't have (screenshots, a better copy of the
    video, the speaker's own notes). Attended: ask in one message. Unattended: write them under "Questions for
-   the owner" in the run report and carry on. Start `cost-<id>.json` now (rule 4).
+   Hamish" in the run report and carry on. Start `cost-<id>.json` now (rule 4).
 1. **Extract, 0 tokens.** `python3 $Y/yt_cloud_extract.py "<url>" --out <run> --frames`
    gives metadata, timed captions, 1 fps keyframes and a contact sheet. A `BLOCKED-*.md` means name the domain and carry on.
 2. **Audio route, in parallel (rule 5).** `python3 $S/audio_route.py "<url>" --out <run>`.

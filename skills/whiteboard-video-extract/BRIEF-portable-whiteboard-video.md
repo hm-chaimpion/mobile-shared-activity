@@ -1,7 +1,7 @@
 # Brief: extract a talk-over-whiteboard video (portable, v2)
 
 Paste this into any model (Claude, ChatGPT/Codex, Grok, Gemini) with the video link. Version 2 of the 261123
-prompt the owner gave all three models, rewritten after the 261124 audits. Script versions of each check live in
+prompt Hamish gave all three models, rewritten after the 261124 audits. Script versions of each check live in
 `CHaiMPION/cloud-runs-os/.claude/skills/whiteboard-video-extract/`.
 
 ---
